@@ -1,0 +1,18 @@
+Public Statements
+Major Technology Upgrade Launch Part of Long-Term Plan to Transform Government
+Press Release
+By: David Ige
+Date: Feb. 10, 2015
+Location: Honolulu, HI
+
+The State of Hawaii has successfully launched the upgrade of a major, formerly at-risk information technology system as part of its long-term plan to transform government.
+The Human Resources Management System (HRMS) Upgrade Project was completed as scheduled on Jan. 20, 2015, resulting in a modernized system with vital backup and disaster recovery capability in the Hawaii Government Private Cloud (GPC). The HRMS is used by more than 200 human resource professionals in the Department of Human Resource Development (DHRD) and other state agencies to support recruitment, management and retention of over 16,000 employees.
+"The HRMS Upgrade Project serves as a model as we propel state government to higher levels of efficiency, effectiveness and productivity," said Gov. David Y. Ige. "I applaud the project team for recognizing the security and cost benefits associated with shared cloud technology, while actively engaging our state employees and supporting them throughout the process to implement change the right way."
+The previous version of HRMS was at the end of its life. "The old system was no longer supported by our vendors, and we faced the risk of a complete system failure that would have jeopardized essential functions," said DHRD Director James Nishimoto. "The upgrade provides a secure and reliable human resources system that will improve the way we conduct business."
+The HRMS Upgrade Project included the installation of the latest version of the software (PeopleSoft 9.2) in the secure Hawaii GPC, a virtual computing environment that represents a key component of the modernization of Hawaii's technology infrastructure. The software update and equipment and systems modernization will drive down the state's operating costs while providing faster service to customers.
+"With approximately 300 servers implemented on the Hawaii GPC to-date, cloud technology is helping to reduce spending on infrastructure, increase system reliability and enhance the security of the state's information resources," said Keone Kali, state chief information officer. "Launch of the HRMS upgrade in the Hawaii GPC is an excellent example of how this environment can securely, efficiently and cost-effectively host our most critical systems."
+The HRMS Upgrade Project was a collaborative effort among multiple state agencies, including DHRD, the Department of Accounting and General Services' Information and Communications Services Division (Telecommunications Services and the Systems Services Branches), the Office of Information Management and Technology, and the Department of Taxation. Staff from these agencies coordinated their efforts throughout the project using a shared project plan.
+The project also highlights the collaboration between DHRD and its many users to maximize existing functionality with improved tools. Current system users provided assistance and guidance in the development of new and improved reference guides. As upgrades were made, users were also provided in-person or video training, along with a variety of on-line self-service training resources.
+The $1.57 million budget for the project included design, software, licenses and database updates, technical implementation assistance, and training costs. Infrastructure established as part of the project may become available as an enterprise-wide resource as elements of the Hawaii GPC.
+
+Source: http://governor.hawaii.gov/newsroom/major-technology-upgrade-launch-part-of-long-term-plan-to-transform-government/

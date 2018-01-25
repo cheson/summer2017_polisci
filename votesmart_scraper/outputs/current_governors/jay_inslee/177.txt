@@ -1,0 +1,19 @@
+Public Statements
+Inslee Announces Immediate Actions to Fix 13-Year-Old Sentencing Errors Discovered At State Prisons
+Press Release
+By: Jay Inslee
+Date: Dec. 22, 2015
+Location: Unknown
+
+Gov. Jay Inslee today announced the immediate actions he ordered the Washington Department of Corrections to take following the discovery of a long-standing sentencing computation issue that resulted in a narrow subset of offenders being given excessive "good time" and leaving prison early.
+"These were serious errors with serious implications," Inslee said. "When I learned of this I ordered DOC to fix this, fix it fast, and fix it right."
+The problem dates back to July 2002 when a state Supreme Court ruling required the DOC to apply "good time" credits earned in county jail to state prison sentences. The department changed its sentence computation coding to comply with the ruling; however the programming fix contained an inaccurate sequencing that over-credited good time for those offenders with sentencing enhancements.
+A preliminary analysis by DOC indicates that as many as 3,200 offenders may have been released early over the course of 13 years. That represents approximately three percent of all releases during that 13-year time period. Early estimates indicate that the median number of days offenders were released from prison is 49 days before their correct release date.
+DOC first learned there was a problem in 2012 and began the process of a sequencing fix. However, for reasons that will be investigated, the sequencing fix was repeatedly delayed. A newly hired chief information officer at DOC recently became aware of the severity of the problem and alerted DOC leadership who then notified the governor.
+"That this problem was allowed to continue for 13 years is deeply disappointing to me, totally unacceptable and, frankly, maddening," Inslee said.
+The governor ordered DOC to halt all releases of impacted offenders from prison until a hand calculation is done to ensure the offender is being released on the correct date. A broader software fix is expected to be in place by Jan. 7, 2016.
+In addition, DOC is working swiftly to locate offenders who were released from prison prior to their actual earned release date and ensure they fulfill their sentences as required by law. In accordance with Supreme Court precedent, most of the offenders who were released early will be given with day for day credit for their time in the community. Depending on how much time they have left to serve, the offenders will go to work release or back to prison.
+Inslee announced he has hired Robert Westinghouse and Carl Blackstone, two retired federal prosecutors, from the firm of Yarmuth Wilsdon PLLC, to conduct an independent review to determine how the error occurred and why it took more than 13 years to resolve.
+"I have a lot of questions about how and why this happened, and I understand that members of the public will have those same questions," Inslee said. "I expect the external investigation will bring the transparency and accountability we need to make sure this issue is resolved."
+
+Source: http://www.governor.wa.gov/news-media/inslee-announces-immediate-actions-fix-13-year-old-sentencing-errors-discovered-state

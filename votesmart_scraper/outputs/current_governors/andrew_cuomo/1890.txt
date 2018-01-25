@@ -1,0 +1,81 @@
+Public Statements
+Cuomo Administration Announces BNP Paribas to Pay $8.9 Billion, Including $2.24 Billion to DFS, Terminate Senior Executives, Restrict U.S. Dollar Clearing Operations for Violations of Law
+Press Release
+By: Andrew Cuomo
+Date: June 30, 2014
+Location: Albany, NY
+
+Governor Andrew M. Cuomo today announced a New York State Department of Financial Services (DFS) enforcement action related to violations of law and significant misconduct at BNP Paribas (BNPP). Through a series of egregious schemes to evade detection and with the knowledge of multiple senior executives, BNPP employees concealed more than $190 billion in transactions between 2002 and 2012 for clients subject to U.S. sanctions, including Sudan, Iran, and Cuba. As a result of these violations, BNPP will pay $8.9 billion to federal and state authorities -- including a $2.24 billion penalty to DFS -- terminate senior executives, and suspend U.S. dollar clearing operations for one year at business lines on which the misconduct centered.
+
+"New York State will not allow companies to break the law, especially when they put our national security at risk," Governor Cuomo said. "This enforcement action should serve as a warning to any company that provides financial support to global terrorism and enables human rights atrocities: our Department of Financial Services is an effective and forceful regulator, and we will continue to enforce our anti-money laundering rules."
+
+Benjamin M. Lawsky, Superintendent of Financial Services, said, "BNPP employees -- with the knowledge of multiple senior executives -- engaged in a long-standing scheme that illegally funneled money to countries involved in terrorism and genocide. As a civil regulator, we are taking action today not only to penalize the bank, but also expose and sanction individual BNPP employees for wrongdoing. In order to deter future offenses, it is important to remember that banks do not commit misconduct -- bankers do."
+
+Under the terms of an Order BNPP signed with DFS today, the Bank will:
+Pay DFS a civil penalty of $2.24 billion. This penalty is part of an overall $8.9 billion payment being made to DFS, as well as other state and federal authorities.
+At DFS's direction, 13 individuals were terminated by or separated from the Bank as a result of the investigation, including the following senior executives:
+George Chodron de Courcel, Group Chief Operating Officer
+Vivien Levy-Garboua, Current Senior Advisor to the BNPP Executive Committee and Former Group Head of Compliance
+Christopher Marks, Group Head of Debt Capital Markets
+Dominique Remy, Group Head of Structured Finance for the Corporate Investment Bank (CIB)
+Stephen Strombelline, Head of Ethics and Compliance for North America
+In total, including those terminated, the Bank disciplined 45 employees in connection with this investigation, with levels of discipline ranging from dismissals, to cuts in compensation, demotion, and other sanctions. (Twenty-seven additional BNPP employees who would have been subject to potential disciplinary action during the investigation had previously left the Bank.)
+Suspend U.S. dollar-clearing operations through its New York Branch or its other U.S. affiliates for one year at BNPP business lines in which the misconduct centered -- as detailed below and in the order.
+Extend for an additional two years the term of an independent monitor DFS installed at BNPP's New York Branch to conduct a review of Bank Secrecy Act/Anti-money Laundering (BSA/AML) and sanctions compliance. The monitor will also review BNPP's compliance with the U.S. dollar clearing suspension contained in today's agreement.
+
+BNPP's Violations of Law and Serious Misconduct
+
+As detailed in the DFS order signed today, between 2002 and 2012, BNP Paribas concealed more than $190 billion in U.S. dollar clearing transactions on behalf of Sudanese, Iranian, and Cuban parties, which were settled through its New York branch and other New York-based financial institutions. In processing transactions on behalf of these Sanctioned Parties, BNP Paribas engaged in a systematic practice, as directed from high levels of the Bank's group management, of removing or omitting Sudanese, Iranian, or Cuban information from U.S. dollar-denominated payment messages that it sent through the New York Branch and other non-affiliated New York-based U.S. financial institutions. This practice was done to "guarantee the confidentially of the messages and to avoid their disclosure to any potential investigatory authorities." The Bank also engaged in a series of other forms of subterfuge to evade sanctions, which are further detailed below.
+
+BNPP's violations were particularly egregious in part because they continued for many years after other banks were sanctioned for similar violations; involved numerous schemes expressly designed to deceive regulators; and were committed with the knowledge of multiple senior executives.
+
+Indeed, in September 2005, senior compliance officers at BNPP Geneva arranged for a meeting of BNPP executives "to express, to the highest level of the bank, the reservations of the Swiss Compliance office concerning the transactions executed with and for Sudanese customers." The meeting was attended by several senior BNPP Paris and Geneva executives, including BNPP's Group COO at the time, Georges Chodron de Courcel. At the meeting, Chodron de Courcel dismissed the concerns of the compliance officials and requested that no minutes of the meeting be taken.
+
+Moreover, in December 2005, when a settlement with U.S regulators and Dutch bank ABN AMRO was announced for violations of U.S. sanctions law, the Head of Ethics and Compliance for BNPP North America wrote, "the dirty little secret isn't so secret anymore, oui?"
+
+Regional Bank Network to Evade Sanctions on Sudan
+
+In addition to wire stripping, BNPP also engaged in a series of other forms of subterfuge to conceal its illicit transactions. For example, soon after the imposition of U.S. sanctions against Sudan in 1997, BNPP Geneva established account relationships with a network of nine unaffiliated regional banks located in Africa, Europe and the Middle East, some with no other business purpose than to clear payments for Sudanese clients. The accounts with the Regional Banks were created and established to provide a means to circumvent U.S. sanctions.
+
+Specifically, BNPP utilized the Regional Banks in a two-step process designed to enable BNPP's Sudanese clients to evade U.S. sanctions. In the first step, a Sudanese bank seeking to move U.S. dollars out of Sudan transferred funds internally within BNPP Geneva to a BNPP Geneva account specifically maintained by a Regional Bank to facilitate U.S. dollar transfers from Sudan. In the second step, the Regional Bank transferred the money to the Sudanese bank's intended beneficiary through a U.S. bank without reference to the Sudanese bank. As a result, it appeared to the U.S. bank that the transaction was coming from the Regional Bank rather than a Sudanese bank.
+
+In order to further disguise the true nature of the Regional Bank transactions, employees at BNPP Geneva frequently worked with the Regional Banks to wait between one and two days after the internal transfer before making a dollar-for-dollar, transaction-by-transaction, clearing of funds through the United States, artificially delinking the U.S. transfer of funds from the prior transfer involving the Regional Banks so that financial institutions in the United States and U.S. authorities would be unable to link the payments to the involved sanctioned party.
+
+Profit over Principle -- Sudan "Has Hosted Osama Bin Laden," Darfur is a "Humanitarian Catastrophe"
+
+Internal Bank memoranda regarding BNPP's Sudanese business that discussed the political environment and the "crisis in Darfur" also discussed the economic environment and the Sudanese oil industry's "financial dynamism." In fact, many senior executives at BNPP were well aware of the crisis in Darfur and the illicit role Sudan has played in international issues of concern. BNPP officials have described Darfur as a "humanitarian catastrophe" and, while discussing the Sudanese business, noted that certain Sudanese banks "play a pivotal part in the support of the Sudanese government whichhas hosted Osama Bin Laden and refuses the United Nations intervention in Darfur." BNPP's senior compliance personnel agreed to continue the Sudanese business and rationalized the decision by stating that "the relationship with this body of counterparties is a historical one and the commercial stakes are significant. For these reasons, Compliance does not want to stand in the way."
+
+Routing Illicit Transactions through an "Unaffiliated" U.S. Bank Rather than BNPP New York
+
+Another scheme BNPP used to evade sanctions and deceive regulators was to shift its illicit U.S. dollar transactions from BNPP's New York Branch to another unaffiliated U.S. bank -- once BNPP began to come under regulatory pressure for unsatisfactory compliance procedures.
+
+In 2004, a joint examination by DFS's predecessor agency and the Federal Reserve Bank of New York (FRBNY) identified systemic failures in BNPP's compliance with BSA/AML requirements. Based on the regulators' findings, BNPP entered into a Memorandum of Understanding (MOU) with the Department and the FRBNY, vowing to remediate, among other things, BNPP's systems for compliance with BSA/AML requirements.
+
+Instead, the Bank concealed its continuing violations from the regulators and authorities in New York. During that same 2004 period, internal documents obtained from the Bank demonstrate that BNPP's most senior operations, compliance and legal staff knew of the Bank's serious illegal conduct in violation of laws and regulations, and, rather than report the conduct to its regulators, actively supported it.
+
+In 2004, BNPP executives from its Paris headquarters and its Geneva branch met on the subject of U.S. Sanctions "against sensitive countries (Sudan, Libya, Syria...)" and their impact on BNPP's business. To shield the New York Branch from potential regulatory enforcement actions, BNPP officials fashioned a solution whereby BNPP Geneva would use an unaffiliated U.S. bank to conduct illicit U.S. dollar-denominated transactions for sanctioned parties. In this way, "the problem" of violating U.S. sanctions "shifted" to the unaffiliated U.S. bank.
+
+Although BNPP executives were warned by BNPP compliance officers that clearing through an unaffiliated U.S. bank in this manner could be viewed as a "serious breach" and a "grave violation," the practice continued.
+
+In 2008, the Department and FRBNY terminated the 2004 MOU, finding the Bank compliant in all cited areas of concern. The termination letter was addressed to, among others, Vivien Levy-Garboua, BNPP's Group Head of Compliance & Internal Control Coordinator. The Bank was fully aware that the 2004 MOU's termination was based on falsified facts. Levy-Garboua knew and remained silent about BNPP's continuing and longstanding efforts to conduct secret transactions for Sanctioned Parties, such as Cuba. A more junior compliance officer emailed Levy-Garboua and other compliance staff that "[The Cuban Credit Facility], for which [BNPP had] for two years now been putting pressure on ECEP to have the USD reference abandoned, is more or less at a dead-end, and we know it will be impossible to modify without giving up something in exchange[T]he subsistence of [the Cuban Credit Facility] in USD prevents [BNPP's] situation on Cuba from being totally "compliant.'"
+
+Settlement Provisions
+
+In addition to monetary penalties, NYDFS required other significant regulatory sanctions for BNPP in order for the Bank to retain its New York Branch license. These included accountability -- including terminations -- for individual executives involved in the misconduct and the suspension of U.S. dollar clearing for business lines in which the misconduct centered.
+
+Under the agreement, BNP Paribas shall implement a one year-long suspension of U.S. Dollar clearing services through its New York Branch or any U.S. BNPP affiliate or any bank in which it has a controlling interest. BNPP shall not seek to avoid or circumvent the Suspension by moving, or causing to be moved, any client relationship to any other branch or affiliate or business line of BNPP. The Suspension shall begin on January 1, 2015 and terminate on December 31, 2015 and shall encompass the following:
+
+Suspension of all U.S. dollar clearing for oil and gas finance business at BNPP Geneva;
+Suspension of all U.S. dollar clearing for oil and gas finance business at BNPP Paris;
+Suspension of all U.S. dollar clearing for oil and gas finance business at BNPP Singapore;
+Suspension of all U.S. dollar clearing for Trade Finance business at BNPP Milan;
+Suspension of all U.S. dollar clearing for oil and gas-related clients at BNPP Rome;
+Suspension of all U.S. dollar clearing of deposits by unaffiliated third-party banks at BNPP London
+
+In addition, BNP Paribas shall, for a period of two years, prohibit all U.S. dollar clearing as a correspondent bank for unaffiliated third-party banks in New York and London.
+
+Among other tasks, the monitor installed by DFS at BNPP will review the U.S. dollar clearing suspension at the Bank. In addition to helping ensure compliance with that suspension, the monitor's review will help inform the potential imposition and degree of similar penalties by DFS at other banks -- where appropriate.
+
+Superintendent Lawsky thanked the U.S. Attorney's Office for the Southern District of New York, the U.S. Department of Justice, the New York County District Attorney's Office, the Federal Reserve Bank of New York, and the U.S. Department of the Treasury for their work and cooperation in the BNP Paribas investigation.
+
+Source: http://www.governor.ny.gov/press/06302014-bnp-paribas

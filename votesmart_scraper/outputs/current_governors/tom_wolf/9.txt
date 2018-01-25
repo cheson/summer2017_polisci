@@ -1,0 +1,18 @@
+Public Statements
+GO-TIME: Electronic Bidding Lowers Cost of DEP Construction Contracts
+Press Release
+By: Tom Wolf
+Date: June 20, 2017
+Location: Harrisburg, PA
+
+The Pennsylvania Department of Environmental Protection (DEP) has decreased the cost of construction projects and improved efficiency for contractors with the launch of an electronic bidding site for construction contracts, the department's newest GO-TIME initiative.
+"Developing an online tool to accept and process construction contracts continues our agency-wide efforts to increase efficiency and save money," said DEP Secretary Patrick McDonnell. "Not only have staff time and material costs been reduced, but bidding has become more competitive, bringing down the average cost of awarded construction contracts."
+DEP seeks bids for about 50 contracts annually for construction related to abandoned mine reclamation, acid mine drainage, surface mine reclamation, cleaning and plugging oil and gas wells, waterways engineering, hazardous site remediation, removal and disposal of underground storage tanks, and wetland restoration.
+As more vendors see contracts online, the number of bids per project has increased from an average of 6.12 to 7.23. The increased competition has decreased the average bid amount per project and therefore the average awarded contract amount. In addition, staff time and material cost savings of approximately $36,000 per year have been achieved.
+Vendors enjoy time-saving, partially auto-populated forms, which help reduce errors that can cause rejection, and an e-bonding option when bid bonds are required. In addition, an email notification system alerts vendors of any addenda to contracts, so they can adjust their bid promptly.
+Templates lessen the time staff spend preparing and issuing contract documents and solicitations. As just one example, staff typically checked each bid manually for math; the electronic system now checks math automatically.
+The e-bidding site uses the third-party BidExpress system. Electronic bidding supports the Governor's Office of Transformation, Innovation, Management and Efficiency (GO-TIME), which works with state entities to modernize government operations to reduce costs and improve services. State agencies already saved over $156 million last fiscal year and Governor Wolf challenged GO-TIME to build upon this success by achieving $500 million in savings by 2020.
+Construction e-bidding is part of a recent technology upgrade campaign at DEP that includes a mobile app that's made DEP inspections of oil and gas sites more efficient and an electronic permit application that speeds up the permit process for surface coal mine operators. Location-based data on everything from air quality to water pollution can be found on the new DEP GIS Open Data Portal, and the public can quickly access oil and gas data through the online Oil and Gas Annual Report and public review tool for operator documents. Historical oil and gas well location is also going online, starting with Allegheny County. DEP will launch more electronic upgrades in coming months.
+To learn more about GO-TIME, visit https://www.governor.pa.gov/go-time/.
+
+Source: https://www.governor.pa.gov/go-time-electronic-bidding-lowers-cost-of-dep-construction-contracts/

@@ -1,0 +1,30 @@
+Public Statements
+Governor Malloy Orders Unprecedented Amount of State Data to be Made Available to the Public in Major Transparency and Open Government Effort
+Press Release
+By: Dan Malloy
+Date: Feb. 20, 2014
+Location: Hartford, CT
+
+Governor Dannel P. Malloy today announced he has signed an executive order that will result in widespread amounts of raw government data to be collected, placed on the internet, and shared with the public in a major effort to increase transparency and provide a useful database that can be utilized by residents for any number of purposes. The Governor explained that the purpose of the order is to display data in its rawest form, before it has been aggregated and analyzed.
+
+"Sharing data collected by state government will help to break down silos within government, make data more easily available for analysis by researchers and entrepreneurs, and in turn help spur economic growth and creative new policy," said Governor Malloy. "This data belongs to the people of Connecticut, and this initiative will help make that data more easily and conveniently accessible to them."
+
+Governor Malloy's Executive Order No. 39 creates the Connecticut Open Data Portal, which will serve as an online portal where data collected across all state government agencies will be shared with the public. Once launched, it will be located at http://data.ct.gov.
+
+The executive order instructs all executive branch agency heads appointed by the Governor to begin the process of collecting the data, which includes lists, tables, charts, graphs or other non-narrative forms and that is generally statistical or factual.
+
+Analysts, academics, entrepreneurs and all members of the public will have the opportunity to use the posted data. The online portal will also give users the opportunity to visualize data through graphs or charts and on maps when applicable.
+
+"We are thrilled with the Governor's initiative that will be an asset for economic development and policy analysis alike," said Robert Santy, Chair of the Connecticut Data Collaborative, a nonprofit public-private effort to improve quality and access to policy-related data in the state. "The collaborative looks forward to a robust partnership with the state that will support greater public access to state data and raise data standards and quality."
+
+To create the Connecticut Open Data Portal, the State of Connecticut has signed a contract with Socrata, Inc. The portal will be managed and administered by Tyler Kleykamp of the Office of Policy and Management (OPM), who will serve as the portal's Chief Data Officer (CDO). Kleykamp previously served as the coordinator of state geospatial information systems (GIS) at OPM.
+
+"OPM is excited not only to lead this important initiative, but also to move Connecticut forward into the age of data-driven governing," said OPM Secretary Ben Barnes. "This new portal will provide us with opportunities for a more collaborative, interactive, and transparent approach to measure the performance of government services and programs."
+
+The Governor stressed that this executive order instructs agency heads to make public data openly available while continuing to safeguard information that must be kept secure. The order does not apply to any protected data that, if disclosed, would violate state or federal law, would endanger the public health, safety or welfare, hinder the operation of government or impose and undue financial, operational or administrative burden on a state agency.
+
+The Chief Data Officer will be responsible for working with an Agency Data Officer (ADO) designated by the commissioner at each state agency covered by the order. It establishes a 90-day window in which ADOs will work within their agencies to identify data suitable for the portal and share that list of data with the CDO. The CDO will work with the ADOs to identify data and upload it to the portal. The CDO will be advised by an advisory panel created by this executive order and appointed by the Governor.
+
+Socrata is working with the state to have the portal up and running on an aggressive timeline within the next few months.
+
+Source: http://www.governor.ct.gov/malloy/cwp/view.asp?A=4010&Q=540174

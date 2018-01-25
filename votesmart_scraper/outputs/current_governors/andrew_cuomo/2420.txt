@@ -1,0 +1,28 @@
+Public Statements
+Governor Cuomo Announces New State-of-the-Art Data Center at SUNY's College of Nanoscale Science and Engineering
+Press Release
+By: Andrew Cuomo
+Date: April 10, 2013
+Location: Albany, NY
+
+Governor Andrew M. Cuomo today announced New York will house its new, state-of-the-art data center at SUNY's College of Nanoscale Science and Engineering (CNSE) as part of a partnership between the New York State Office of Information Technology Services (ITS), New York State Office of General Services (OGS), and CNSE to make government IT operations and services more efficient and reliable. When fully implemented, consolidation of the State's IT infrastructure will save $100 million annually. The new data center at CNSE will achieve $50 million of the total annual savings.
+
+The data center will also serve as a hub to spur job creation and innovative research. Working jointly with CNSE and its corporate partners, ITS will gain first access to investigate, research, test, and sample new technologies before they reach the market. This will provide New York with yet another advantage in the global race to access, develop, and implement leading-edge technological innovations. Additionally, it will be a resource to train the state's next generation of IT workers.
+
+"With this new data center and partnership with CNSE, New York State is ushering in a new era of IT security and efficiency, as well as maximizing economic development and innovation opportunities," Governor Cuomo said. "No area of state government was more siloed than IT, but with this consolidation, we are eliminating inefficiencies and duplication with one of the most advanced and cost-effective data centers in the world. This data center is another example of how New York is leveraging technology to improve government operations and services for its citizens."
+
+"An increasing number of New Yorkers are using the internet as the primary way to access state services, so it is critical that we have an IT infrastructure that is reliable, secure, and cost effective," said Lieutenant Governor Robert Duffy. "Under Governor Cuomo's leadership, we are proving that through consolidation and centralization of services and facilities, we can maximize efficiency and reliability of those services, all while saving taxpayer dollars. I commend Governor Cuomo and all the hard work put in by CNSE, OGS, and ITS to coordinate this partnership."
+
+"Governor Cuomo has made it clear that utilizing technology is one of the keys to moving our state forward and this data center promises to be a center of innovation and collaboration," RoAnn Destito, OGS Commissioner, said. "Working with CNSE will ensure that state agencies will always be at the forefront of changes in the high-tech world, and benefit from the knowledge-sharing that will occur by partnering with our colleagues in higher education and the private sector."
+
+CNSE Senior Vice President and CEO Dr. Alain Kaloyeros said, "As further evidence of Governor Andrew Cuomo's extraordinary leadership in crafting New York's growing high-tech business ecosystem, this agreement reveals the power of partnerships to implement the Governor's vision of providing government services in the most cost-effective manner. This innovative approach will pay multiple dividends, as the data center will concurrently accelerate IT business opportunities for CNSE's corporate partners who will have access to state-of-the-art facilities, unparalleled resources, and novel information technologies."
+
+In 2011, the Governor's Office launched an IT transformation effort aimed at consolidating IT operations across agencies and leveraging existing investments to create enterprise-wide IT infrastructure and services.
+
+ITS was created in 2012 to fold the State's significant information technology resources and expertise into a single agency. Data center consolidation is one major initiative of ITS. There are over 50 separate agency data centers and numerous data closets scattered across state agencies. This consolidation effort will create efficiencies, reduce data center space and server needs, improve monitoring, uptime and reliability of the state's IT infrastructure environment, and permit adequate disaster recovery for critical state IT applications and data.
+
+The agreement announced today is the first such effort by any state, leveraging New York's globally recognized nanotechnology research and development infrastructure to support the pioneering 50,000 square foot of space. New York's data center will carry a "Tier III" designation, which is given only to the top facilities around the world. The center will provide a guaranteed and comprehensive availability of services, ensuring efficient, constant operation even when faced with routine maintenance and equipment upgrades.
+
+In addition to the Governor's efforts to encourage high-tech innovation, job creation, and development of New York's high-tech workforce, locating the center at CNSE's Albany NanoTech Complex will also generate for the state significant cost savings over the next 15 years, part of which will be realized through economies of scale resulting from this collaborative approach.
+
+Source: http://www.governor.ny.gov/press/04102013-new-data-center-suny-nanoscale-college

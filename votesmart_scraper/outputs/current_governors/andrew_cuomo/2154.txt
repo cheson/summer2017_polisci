@@ -1,0 +1,32 @@
+Public Statements
+Governor Cuomo Announces Largest NY-Sun Solar Installation in New York City
+Press Release
+By: Andrew Cuomo
+Date: Dec. 9, 2013
+Location: Albany, NY
+
+Governor Andrew M. Cuomo today announced completion of the largest solar installation to date in New York City under the NY-Sun initiative. The project was enabled by the development of smart grid technology that opens the way for additional large solar projects to be implemented in the city.
+
+"Advancements in the development of solar energy projects are crucial to our goal of building a clean energy economy in New York State," Governor Cuomo said. "This project in the Bronx demonstrates that large solar installations are viable in New York City, and with additional NY-Sun funding now available we hope to see other businesses follow Jetro Cash and Carry's lead. The smart grid technology being employed at this site is exactly the kind of innovative solution that New York State needs to increase the resiliency of its grid."
+
+The 1.56 megawatt rooftop solar project was designed, engineered and installed by the Ross Solar Group at Jetro Cash and Carry's Restaurant Depot facility in the Hunts Point section of the Bronx. It includes smart grid technology that overcomes technological barriers and enables large solar photovoltaic (PV) systems to connect safely with the Consolidated Edison (Con Edison) network. Photos of the new installation can be found here and here.
+
+The PV system installed at Jetro's site, which includes more than 4,700 solar panels, integrates an advanced supervisory control and data acquisition (SCADA)--computer-controlled communications system that allows Con Edison to remotely monitor and control it, which was a key component to installing a system of this magnitude. The increase in smart grid technologies was an action item in Governor Cuomo's Energy Highway Blueprint to help re-engineer New York State's electric grid to accommodate a diverse supply of power generation sources.
+
+Robert Schimmenti, vice president, Engineering and Planning, for Con Edison said, "Our smart-grid innovations are making it possible for this customer to harness the power of the sun with the largest solar installation ever in New York City. We believe this technology opens the way for other large solar arrays. That will mean cleaner air and a more reliable electrical grid for all of us."
+
+This PV project is expected to generate in excess of 1.8 million kilowatt hours (kWh) of clean energy annually. It is projected to cover 45 percent of the building's electricity costs, enabling the company to save $220,000 annually.
+
+The project was made possible by an award that Ross Solar received from the New York State Energy Research and Development Authority (NYSERDA) under Governor Cuomo's NY-Sun initiative. NY-Sun was put into effect last year to dramatically increase the amount of solar capacity in the state. As a result, more PV systems are being developed now than in the entire prior decade combined.
+
+Yesterday, Governor Cuomo announced that $30 million is available through NY-Sun's Competitive PV Program to stimulate other large-scale solar and biogas projects in New York City and the Hudson Valley. The NY-Sun Competitive PV Program solicitation can be found http://www.nyserda.ny.gov/pon2860. For more information on the NY-Sun initiative, please visit www.ny-sun.ny.gov.
+
+John B. Rhodes, President and CEO, NYSERDA, said, "Governor Cuomo's NY-Sun initiative is lowering the costs of solar and thereby making it an affordable option for companies like Jetro Cash and Carry to take advantage of this renewable energy resource. The additional NY-Sun funding announced by Governor Cuomo demonstrates the State's continued investment in growing the solar industry. Congratulations to Jetro Cash and Carry, Ross Solar Group and Con Edison for making this project a reality and for adding resiliency to the state's power grid."
+
+Robert Kline, director of commercial sales for Ross Solar, said, "Jetro's ability to embrace this forward-thinking technology was a great asset to the success of this installation, and we appreciate the level of trust that Jetro placed in us, as well as their cooperation throughout the entire process from beginning to end."
+
+Jetro Cash and Carry is a wholesale cash and carry foodservice supplier offering a broad selection of high quality products at low prices to independent restaurants, caterers and non-profits with over 100 locations throughout the United States.
+
+Jetro Vice President Peter Claro said, "We considered a solar project for several years, but we wanted to make certain that it made financial sense for us as a company, and that the returns met our requirements. Ross Solar Group's willingness to work within our specific guidelines, as well as their commitment to full transparency were strong factors in our decision to move forward."
+
+Source: http://www.governor.ny.gov/press/12092013-ny-sun-solar-installation

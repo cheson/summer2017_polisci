@@ -1,0 +1,31 @@
+Public Statements
+Governor Mark Dayton Proclaims "Cybersecurity Awareness Month" in the State of Minnesota
+Press Release
+By: Mark Dayton
+Date: Oct. 4, 2016
+Location: St. Paul, MN
+
+Recognizing the importance of protecting Minnesotans' private data and state systems online, Governor Mark Dayton has proclaimed October to be "Cybersecurity Awareness Month" in Minnesota. Every day, attacks are launched against our state systems, private citizens, and those who do business with the state.
+
+"Strong cybersecurity is critical to protect our citizens, our businesses, and our state from attacks online," said Governor Dayton. "As these threats increase in volume and sophistication, we must invest in critical upgrades, technology, and talent to keep Minnesotans safe and secure online."
+
+Last session, Governor Dayton proposed a historic investment to improve Minnesota IT Services' cybersecurity program across state government. This $20 million investment would have allowed the state to protect against many of our most pressing threats through investments in critical upgrades, technology, and talent to keep Minnesotans safe and secure online. Unfortunately, the Legislature did not agree to any of the Governor's proposed funding for Minnesota IT Services to enhance the state's cybersecurity program last session.
+
+"Minnesota IT Services staff are essential to the success of securing the state," said Minnesota IT Service Commissioner, Thomas Baden. "Our dedication to collaboration with both state and federal agencies in an effort to understand current threats to Minnesota is unparalleled -- I take great pride in knowing that other states looks to us as a model around cyber defense. Greater investment in cybersecurity is needed to meet the growing threat we face in our state."
+
+Attacks on state systems are intended to steal citizens' private data, disrupt government operations, or use government resources to conduct illicit or illegal operations. The number of these attacks has increased significantly, and they are now more sophisticated and more targeted than ever.
+
+"Each day we go to work knowing that someone is going to attack us," said Minnesota's Chief Information Security Officer, Christopher Buse. "Our goal is to keep Minnesotans' data safe and secure from nefarious actors that hide behind their screens. Ensuring that our data is safe is the center of our work, and we are thankful for our many partners in this effort, including the Department of Homeland Security, the Multi-State Information Sharing & Analysis Center, and other industry-leading private sector organizations."
+
+Increased Cost of Detection and Escalation
+The cost of detection and escalation of cyber-attacks is growing. According to the Ponemon Institute's 2016 study on the cost of a data breach:
+
+· The average cost incurred for each lost or stolen record containing sensitive and confidential information is $158. This is up 29 percent since 2013.
+· The average consolidated total cost of a data breach is $4 million.
+· 48 percent of breaches are malicious attacks.
+· Costs due to lost business are higher and churn rates have increased by 2.9 percent.
+· The likelihood of a breach happening in any organization is 26 percent over a period of 24 months.
+
+To help educate Minnesotans about the importance of cybersecurity, Minnesota IT Services will be sharing important cyber tips for businesses, families, students, educators, government, and all Minnesotans throughout the month.
+
+Source: http://mn.gov/governor/newsroom/#/detail/appId/1/id/259118

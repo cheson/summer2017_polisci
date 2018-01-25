@@ -1,0 +1,14 @@
+Public Statements
+Governor McAuliffe Announces Virginia Adopts National Cybersecurity Framework
+Press Release
+By: Terry McAuliffe
+Date: Feb. 12, 2014
+Location: Richmond, VA
+
+Governor Terry McAuliffe announced today that the Commonwealth of Virginia will adopt the new National Institute of Standards and Technology (NIST) framework into the existing Commonwealth risk framework to help identify and communicate cybersecurity risks.
+NIST today announced the framework, and Virginia immediately adopted it into existing cybersecurity efforts.
+"Adding this framework to the existing efforts led by the Secretary of Technology, Chief Information Officer, Chief Information Security Officer and the Virginia Information Technologies Agency will strengthen the Commonwealth's ability to fight cyber crime and further enhance Virginia's position as a leader in cybersecurity," Governor McAuliffe said. "Virginia has an award-winning cybersecurity program in place, but must continue to advance our ability to keep our families and businesses safe and make the Commonwealth the national hub for the cybersecurity industry and the jobs that come with it."
+The new framework will help to enhance the systematic process for identifying, assessing, prioritizing and communicating cybersecurity risks; efforts to address risks; and, steps needed to reduce risks as part of the state's broader priorities.
+NIST coordinated the development of the framework with a broad array of stakeholders from the public and private sectors as a result of a federal executive order to develop a way to address cybersecurity risks to critical infrastructure. Input was provided by public and private infrastructure owners and operators, industry leaders and other stakeholders in workshops, meetings, webinars and other information sessions over the past year.
+
+Source: https://governor.virginia.gov/news/newsarticle?articleId=3284

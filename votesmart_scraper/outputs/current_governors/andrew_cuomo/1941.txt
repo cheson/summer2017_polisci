@@ -1,0 +1,59 @@
+Public Statements
+Cuomo Administration Takes Action to Halt Illegal, Online Payday Lending Through Debit Card Networks
+Press Release
+By: Andrew Cuomo
+Date: April 30, 2014
+Location: Albany, NY
+
+Governor Andrew M. Cuomo announced new efforts to halt the processing of illegal payday loans through debit card transactions and help protect New York consumers. MasterCard and Visa have agreed in discussions with the Department of Financial Services (DFS) to take a series of steps to help stop this illegal activity over their debit card networks. An ongoing, extensive DFS investigation has uncovered that -- as regulatory pressure mounts on online payday lenders' abuse of the Automated Clearing House (ACH) bank payments network -- some lenders are instead using debit card transactions as an end run around that system to illegally deduct funds from New Yorkers' bank accounts.
+
+Benjamin M. Lawsky, Superintendent of Financial Services, also today sent cease-and-desist letters to 20 additional companies that DFS' ongoing investigation has identified as illegally promoting, making, or collecting on payday loans to New York consumers -- 12 of which appear to be using this new debit card tactic. With today's action, DFS has now sent cease and desist letters to 55 online payday loan companies. Previously, in August 2013, DFS sent cease-and-desist letters to 35 online payday lenders offering illegal loans to New Yorkers -- the majority of which have stopped lending in New York following those letters.
+
+"My administration will work tirelessly to stay one step ahead of online payday lenders that try to evade state law and trap consumers in a vicious cycle of debt," said Governor Cuomo. "By working with us to root out this illegal conduct, Visa and MasterCard have stepped up to the plate and shown how private companies can work alongside state government to protect vulnerable New Yorkers. This collaboration, along with the latest cease and desist letters from the Department of Financial Services, should serve to put all payday lenders on notice that illegal activity will not be tolerated in the State of New York."
+
+Superintendent Lawsky said: "Whenever online payday lenders try new schemes to flout our laws and exploit New York consumers, we will take strong action to head them off at the pass. Visa and MasterCard responded swiftly when we contacted them about this issue and have set a strong example today for their entire industry."
+
+Chris McWilton, president, North American Markets, MasterCard, said: "Prepaid cards are a financial tool that helps consumers take advantage of benefits like direct deposit, online shopping and bill payment. Working with the State to address the payday lending issue is one way we can help New Yorkers steer clear of predatory lending practices."
+
+During its more than year-long investigation, DFS has taken a series of steps to help limit access to the ACH electronic bank payments network for online payday lenders who are illegally deducting funds from New Yorkers' accounts. However, DFS recently identified a new trend among some online payday lenders in processing payments from loan borrowers. These lenders have begun notifying borrowers on their websites that they are no longer using the ACH network to process payments, and are now requiring borrowers to provide debit card information so the lenders can automatically deduct loan payments from borrowers' accounts.
+
+In recent discussions with DFS, MasterCard and Visa have committed to taking a series of steps to help halt the processing of illegal payday loans through their debit networks before this becomes a widespread problem. These steps include the following:
+
+MasterCard and Visa will work with acquiring financial institutions to ensure that they are not processing illegal debit card transactions on behalf of payday lenders. On an ongoing basis, DFS will provide MasterCard and Visa with information concerning payday lenders that may be either lending into New York illegally or using debit networks to collect on illegal loans from New Yorkers. This information will include the names of the lenders, URLs, and any other identifying information that may be useful. MasterCard and Visa will investigate the matter and take appropriate action with the payday lender's acquiring financial institution to cease MasterCard and Visa activity with that lender.
+
+MasterCard and Visa will alert all acquiring banks of the risks of doing business with payday lenders that may be operating in violation of state law. MasterCard and Visa will send alerts to all the acquiring financial institutions in their debit networks about illegal payday lending and New York laws prohibiting payday lending. The alert will also remind acquiring financial institutions of MasterCard and Visa rules that apply concerning the processing of illegal transactions by merchants.
+
+Superintendent Lawsky today sent cease-and-desist letters to the following 20 companies that DFS's investigation has identified as promoting, making, or collecting on illegal payday loans to New Yorkers. The first 12 companies listed appear -- based on DFS's investigation -- to be requiring debit card information to collect on illegal payday loans.
+
+AALM Consulting Services, Ltd. d/b/a MultiLoanSource
+Action Payday, LLC
+Coral Keys, Ltd.
+Fast eFunds
+First American Capital Resources ONE, LLC
+Iggy Group, LLC d/b/a Iggy Loans
+Joro Resources, LLC d/b/a Idealgelt
+MB Marketing, LLC d/b/a My Next Day Cash
+Rapital Capital
+Red Leaf Ventures, LLC d/b/a Red Leaf Lending
+Sierra Lending, LLC
+Uncle Warbucks
+VIP PDL Services d/b/a VIP Loan Shop
+Fast Next Day Cash (aka Vista B Loans)
+First America Credit
+My Web Funds
+Net Cash 123
+Platinum Cash Link
+CWB Services, LLC d/b/a Vandelier Group, LLC; Shoreline Online, LLC; Cutter Group, LLC
+Hydra Financial Limited Fund d/b/a Hydra Fund II
+
+Payday lending is illegal in New York under both civil and criminal usury statutes. In some cases, however, lenders attempt to skirt New York's prohibition on payday lending by offering loans over the Internet, hoping to avoid prosecution. Nonetheless, Internet payday lending is just as unlawful as payday lending made in person in New York.
+
+The Cuomo Administration has taken a series of steps to help stamp out illegal online payday lending in New York. In February 2013, the DFS issued a warning to debt collectors that loans with interest rates above the statutory maximums are void and unenforceable.
+
+In August 2013, the Department sent cease-and-desist letters to 35 online lenders making usurious loans to New Yorkers, with annual interest rates as high as 1,095 percent. The majority of those lenders have ceased lending in New York following those letters. The Department also urged banks and NACHA to work with DFS to cut off payday lenders' access to New York customer accounts.
+
+The Department expanded its investigation in December 2013 by issuing subpoenas to 16 online "lead generation" firms suspected of deceptive or misleading marketing of illegal, online payday loans in New York. These firms typically do not make payday loans directly, but instead set up websites that market those loans and collect sensitive personal information from consumers. Lead generators then sell this personal information to illegal online payday lenders and other companies, including scam artists. The Department received complaints against many of these firms about false and misleading advertising, harassing phone calls, solicitations and privacy breaches.
+
+In January 2014, Superintendent Lawsky also sent a letter to NACHA and its board of directors noting that while the reforms they proposed following his August 2013 letter represented positive steps, they did not adequately address the abuses of the ACH network by payday lenders. The Superintendent urged NACHA to take specific, stronger actions to root out illegal payday lending over the Internet.
+
+Source: http://www.governor.ny.gov/press/04302014-online-payday-lending

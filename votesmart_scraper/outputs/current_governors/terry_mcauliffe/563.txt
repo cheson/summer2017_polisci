@@ -1,0 +1,19 @@
+Public Statements
+Governor McAuliffe Announces Initiative to Protect Against Cybersecurity Threats
+Press Release
+By: Terry McAuliffe
+Date: May 15, 2015
+Location: Richmond, VA
+
+Governor Terry McAuliffe announced today that the Commonwealth of Virginia is establishing a public-private working group to explore the technology needed to safeguard Virginia's citizens and public safety agencies from cybersecurity attacks targeting automobiles.
+"High-tech systems now used in most automobiles are opening up potential new avenues for cyber attacks," Governor McAuliffe said. "Thanks to the continuing efforts of the Virginia Cyber Security Commission and Virginia Cyber Security Partnership, we have the opportunity to lead the nation in the establishment of safeguards protecting the vehicles of Virginia's 5.8 million licensed drivers."
+One of the Commission's first spin-off activities is the establishment of a public-private working group with the Virginia State Police to address the potential for cyber attacks on automobiles. This effort includes coordination with the U.S. Department of Homeland Security's Science and Technology organization and the U.S. Department of Transportation's Volpe National Transportation Systems Center. Additional partners include the Virginia Department of Motor Vehicles, the University of Virginia, The MITRE Corporation, and private-sector cybersecurity companies including Mission Secure Inc., Spectrum Comm, Kaprica Security, and Digital Bond Labs.
+The goals of this work group are to identify and resolve several critically important issues related to protecting Virginians' vehicles and the vehicle fleets operated by law enforcement agencies:
+Identify low-cost technology that can be developed to assist law enforcement officers and investigators in determining if/when a vehicle or other mechanized equipment has fallen victim to a cyber attack.
+Develop strategies for Virginia citizens and public safety personnel to identify and prevent cybersecurity threats targeting vehicles and other consumer devices.
+Explore the economic development opportunities related to this specialized cybersecurity field within the Commonwealth.
+"This initiative is not meant to alarm anyone," said Secretary of Public Safety and Homeland Security Brian Moran. "The threat of "car hacking' is rare, but recognizing that the technology already exists for such criminal and dangerous activities to occur is the first step towards protecting our Commonwealth and its citizens from future harm."
+"The creation of this working group demonstrates the Commonwealth's willingness to tackle complex challenges and forge cross-boundary collaborations," said Secretary of Technology Karen Jackson. "Both are attributes necessary to keep Virginia at the forefront of cybersecurity."
+The Virginia Cyber Security Commission and "Cyber Virginia" were launched by Governor McAuliffe with his Executive Order Number Eight on February 25, 201
+
+Source: http://governor.virginia.gov/newsroom/newsarticle?articleId=8430

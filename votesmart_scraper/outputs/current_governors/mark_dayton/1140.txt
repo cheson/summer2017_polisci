@@ -1,0 +1,45 @@
+Public Statements
+Hearing of the Senate Commerce, Science and Transportation Committee
+By: Mark Dayton
+Date: May 21, 2003
+Location: Washington, DC
+
+HEADLINE: HEARING OF THE SENATE COMMERCE, SCIENCE AND TRANSPORTATION COMMITTEE
+ 
+SUBJECT: HEARING ON SPAM (UNSOLICITED COMMERCIAL E-MAIL)
+ 
+CHAIRED BY: SENATOR JOHN MCCAIN (R-AZ)
+ 
+WITNESSES: SENATOR CHARLES E. SCHUMER (D-NY);
+ 
+SENATOR MARK DAYTON (D-MN);
+ 
+ORSON SWINDLE, COMMISSIONER, FEDERAL TRADE COMMISSION;
+ 
+MOZELLE W. THOMPSON, COMMISSIONER, FEDERAL TRADE COMMISSION;
+ 
+TED LEONSIS, VICE CHAIRMAN, AMERICA ONLINE, INC.;
+ 
+ENRIQUE SALEM, PRESIDENT AND CEO, BRIGHTMAIL, INC.;
+ 
+J. TREVOR HUGHES, EXECUTIVE DIRECTOR, NETWORK ADVERTISING INITIATIVE;
+ 
+MARK ROTENBERG, EXECUTIVE DIRECTOR, ELECTRONIC PRIVACY INFORMATION CENTER;
+ 
+RONALD SCELSON, SCELSON ONLINE MARKETING
+  BODY:
+SEN. JOHN McCAIN (R-AZ): Good morning. Today the committee will examine whether there are ways we can effectively deal with the increase in proliferation of spam in America. I commend the Federal Trade Commission for its dedication to the complex policy and technical issues involved in putting an end to unwanted spam. I also want to strongly commend Senators Burns and Wyden for their continued work over the years in trying to address this issue through legislation.
+Senator Dayton.
+SEN. MARK DAYTON (D-MN): Thank you very much, Mr. Chairman. Thank you for this opportunity to testify before you this morning and I commend you for your leadership in this whole area and I certainly commend Senators Burns and Wyden also for their leadership and the legislation that they have introduced.
+I want to just at the outset on behalf of the state of Minnesota and the good Minnesota company Hormel voiced an objection to the use of the word spam to characterize all this activity. You know that spam is for half a century the bane of existence of servicemen and woman and others but it came to define a certain low point in some people's view of things. But I think it has actually gotten much lower if that's the case.
+Senator Burns and I had the opportunity, over in South Korea at the DMZ to eat my third MRE and I must say spam at any temperature is a lot better than the MRE that I ate however well automatically warmed in its pouch. And now we have this form of spam which, you know, is very, very different from the Hormel version. For one, Hormel, you get to choose whether or not you want it. Secondly, it's not forced down anyone's throat. The source is clearly identified and the contents too. You can ask Hormel what they put in their spam and they'll just tell you right up front. It's everything but the squeak and in what proportions and the rest is left to your imagination.
+(Laughter.)
+But my anti-spam proposals are incorporated into the legislation I've introduced, the S. 563, which is the Computer Owners' Bill of Rights and it's broader than just the anti-spam but I'll focus on that part alone this morning. And it's a starting point not an end product at all. And I recognize going into this the great appeal of the Internet is that it's been unregulated and it's been free. Many who have enjoyed it that way and used it that way want to keep it that way.
+But unfortunately individual freedom becomes in a larger and ever larger social system a form of anarchy and in that process comes a form of a Darwinism where everyone is on their own. The strongest, the smartest, the most aggressive tend to take over and dominate. That's the situation with spam today. There are 31 billion messages being transmitted through cyberspace today, each day, and that's an estimate but it's enormous and every expanding. And these 31 billion messages are transmitted freely and free.
+They are unregulated, they're unrestricted and they're largely unwatched. And everyone who's involved in that system must individually protect themselves, as individuals, businesses and the list, which is great for the software industry who hasn't created this problem. But trying to help deal with it there are all sorts of software that you can buy as to prevent spam, pop-ups, ads and all sorts of things, which range from nuisances at best but then increasing invasions of people's lives, spies, identity theft, credit card theft.
+And spam also becomes the carrier of viruses, worms, Trojan horses which are even more destructive and costly to individuals and to businesses. McAfee's anti-virus unit estimates that there are 62,000 virus threats today and these numbers that I'm throwing out are ones that other sources would have are quite different which is part of the function of the expansion of this and rapidly growing aspect of this whole realm is that I've seen numbers that deviate quite a bit from one another.
+But, one virus alone, the Code Red Worm in the year 2001, was estimated by computer economics independent research firm to have a worldwide cost of $2.62 billionone virus. And it's expanding and some would even say it's exploding. Senator Schumer referenced Howard Carmichael was recently arrested and estimated that he issued himself 825 million pieces of spam last year, one individual in one year. Right now the spam blocker firm estimates, others have said, some 40 percent of all Internet e-mail today is spam. I've seen figures that estimate that percentage as higher. The percentage share of e-mail is increasing, I think everyone would agree. Legislation won't solve this as others have said but the situation won't improve without legislation, in fact it'll get worse. And I think it's a case where the perfect becomes the enemy of the good.
+This is going to be a moving target, it's going to be ongoing. It's sort of going to be like Mad Magazine's Spy-vs-Spy, where they'll be ever dueling one escalating, outsmarting and outwitting the other and the other needing to respond. So whatever we design has to be flexible, the process must be nimble and it has to be dynamic. It has to keep up with these ever new developments and so I would recommend something along the lines of what Robert Kennedy said up in the Department of Justice years ago, the Anti-Organized Crime Task Force's SWAT Team. A team that would drive this effort, carry out congressional mandates and then would interact with industry, with users, with leaders and Congress. But we have to have something as dynamic as the industry itself and as inventive the spam producers themselves.
+My own legislation suggests a national registry where people can opt out one time. Another is to make every e-mail sent to someone in the United States be identified as to its source. And finally, I think it's worth looking atI'm not prepared to propose this now, but some very, very small charge to every e-mail that's sent. So small that it would not be onerous for an individual or a business that has regular use but it would add up and be a financial deterrent for those who are sending millions and even billions of these e-mails all over the world.
+Thank you, Mr. Chairman.
+SEN. MCCAIN: Thank you very much, Mr. Dayton.

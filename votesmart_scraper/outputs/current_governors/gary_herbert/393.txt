@@ -1,0 +1,22 @@
+Public Statements
+Governor Calls for Independent Audits in Wake of Medicaid Data Breach
+Press Release
+By: Gary Herbert
+Date: April 11, 2012
+Location: Salt Lake City, UT
+
+In response to the data breach of Medicaid file information on a Utah Department of Technology Services (DTS) server, Governor Gary R. Herbert called for a comprehensive audit of all state technology security and data storage procedures, as well as a specific audit of the handling of personal information in this recent incident.
+
+"Individuals provide sensitive personal information to the government in a relationship of trust. It is tragic that not only data was breached, but now individual trust is also compromised," said the Governor. "DTS is doing everything they can to restore security. Now we must do everything we can to restore trust. Toward that aim, I am calling for an independent audit of all DTS security and data storage procedures and protocols."
+
+"Our immediate priority is to protect those whose personal information has been exposed. Therefore, we will continue to work with law enforcement, including the FBI, to find the criminals responsible." he continued. "We have mobilized all available resources and personnel in an 'all hands on deck, around the clock' response until every victim is identified and notified. Rest assured, we are working to ensure it never happens again."
+
+The Utah Department of Health (UDOH) will be assisted by the Utah Department of Administrative Services (DAS) to secure the services of appropriate outside firms to conduct an objective audit. Although they have not yet been officially identified, those firms will conduct a full-scale independent review of the State's data security environment to ensure State electronic records are properly safeguarded. The firms will also assist in the forensic analysis of the stolen data so UDOH can more quickly identify and notify victims.
+
+"The Medicaid program provides an invaluable safety net to some of our state's most vulnerable populations. People who need the program's help should feel confident that the personal information they provide is safe and secure," said Dr. David Patton, Executive Director of the Utah Department of Health (UDOH). "We understand this security breach has undermined the trust those people have placed in us. I hope they also understand that our department is working tirelessly to ensure they are protected from further harm."
+
+UDOH has activated a new information hotline where people can get more information. The toll free number is available 24/7 in English and Spanish and has the capacity to handle increased call volumes. The number is 1-855-238-3339.
+
+Citizens whose information was jeopardized will receive a letter from UDOH with instructions on how to activate free credit monitoring services. There are proactive steps people can take in the meantime to protect themselves: They can freeze their credit, or place fraud alerts on their credit files. For more information visit: www.health.utah.gov/databreach .
+
+Source: http://www.utah.gov/governor/news_media/article.html?article=6945

@@ -1,0 +1,13 @@
+Public Statements
+Governor Cuomo Announces Proposal of First-in-the-Nation Cybersecurity Regulation to Protect Consumers and Financial Institutions
+Press Release
+By: Andrew Cuomo
+Date: Sept. 13, 2016
+Location: Albany, NY
+
+Governor Andrew M. Cuomo today announced that a new first-in-the-nation regulation has been proposed to protect New York State from the ever-growing threat of cyber-attacks. The regulation requires banks, insurance companies, and other financial services institutions regulated by the State Department of Financial Services to establish and maintain a cybersecurity program designed to protect consumers and ensure the safety and soundness of New York State's financial services industry.
+"New York, the financial capital of the world, is leading the nation in taking decisive action to protect consumers and our financial system from serious economic harm that is often perpetrated by state-sponsored organizations, global terrorist networks, and other criminal enterprises," said Governor Cuomo. "This regulation helps guarantee the financial services industry upholds its obligation to protect consumers and ensure that its systems are sufficiently constructed to prevent cyber-attacks to the fullest extent possible."
+The proposed regulation is subject to a 45-day notice and public comment period before its final issuance. It requires regulated financial institutions to establish a cybersecurity program; adopt a written cybersecurity policy; designate a Chief Information Security Officer responsible for implementing, overseeing and enforcing its new program and policy; and have policies and procedures designed to ensure the security of information systems and nonpublic information accessible to, or held by, third-parties, along with a variety of other requirements to protect the confidentiality, integrity and availability of information systems. More details on the regulation can be found here.
+The proposed regulation by the Department of Financial Services includes certain regulatory minimum standards while maintaining flexibility so that the final rule does not limit industry innovation and instead encourages firms to keep pace with technological advances.
+
+Source: http://www.governor.ny.gov/news/governor-cuomo-announces-proposal-first-nation-cybersecurity-regulation-protect-consumers-and

@@ -1,0 +1,33 @@
+Public Statements
+Letter to CSX Transportation and Norfolk Southern Railway - Crude Oil Transportation Safety
+Letter
+By: Tom Wolf
+Date: May 19, 2015
+Location: Harrisburg, PA
+
+Dear ______,
+I write to you because of my continuing concern about the risks of a crude-by-rail (CBR) derailment, tank car breach, and subsequent explosion that could potentially occur on our current rail lines. Every week a large volume of CBR and, in particular, Bakken crude oil, is shipped across this state. While the recent actions taken by the railroad industry have certainly been of value, explosive derailments took place in Dubuque, Iowa on February 4, 2015; Mt. Carbon, West Virginia on February 16, 2015; Galena, Illinois on March 5, 2015; and Heimdal, North Dakota on May 6, 2015. All four of these derailments involved the new generation CPC-1232 tank cars, and all four occurred at speeds below the current voluntary speed limit of 40 miles per hour.
+I am sure that you are aware of the additional, voluntary safety initiatives implemented by Burlington Northern Santa Fe (BNSF) that include:
+· Lowering speeds to 35 miles per hour for all shale crude oil trains traveling through municipalities with populations of 100,000 or more.
+o Effective: March 25, 2015
+· Increased rail detection testing frequencies along critical waterways, going to 2.5 times current Federal Railroad Administration (FRA) mandated frequencies.
+o Effective: April 1, 2015
+· Increased Hot Box Detectors (HBD) with spacing of 10 miles on all crude routes that parallel critical waterways instead of the current industry standard spacing of 40 miles.
+· Mandatory set-out of all HBD indicated cars on Key Trains stopped by HBD.
+Immediate set-out of all cars on Key Trains that exceed Level II Wheel Impact Load Detector (WILD) defect (120 -- 140 Kilopounds (Kips)) -- to be handled as a LEVEL I defect.
+o Effective: March 25, 2015
+Additionally, the United States Department of Transportation (DOT) announced a Final Rule to strengthen safety for the transportation of flammable liquids, which includes:
+· Enhancing standards for new and existing high-hazard flammable trains (HHFTs) constructed after October 1, 2015. The prescribed cars are required to meet the new DOT Specification 117 design or performance criteria.
+· Enhanced braking systems on HHFTs to have in place a functioning two-way end-of-train (EOT) device or a distributed power (DP) braking system. Single trains with 70 or more tank cars loaded with Class 3 flammable liquids, with at least one tank car with Packing Group I materials, must be operated with an electronically controlled pneumatic (ECP) braking system.
+o Effective: January 1, 2021
+· Reduced operating speeds for all HHFTs to 50 miles per hour in all areas.
+· Requiring all railroads operating HHFTs to conduct a routing analysis that considers a minimum of 27 safety and security factors, including "track type, class, and maintenance schedule" and "track grade and curvature." The railroads must then select an appropriate route based on its findings.
+· Stipulating that railroads provide State, local and tribal officials, as well as, State and/or regional fusion centers with a point of contact for information related to the routing of hazardous materials through their respective jurisdictions.
+· Mandating that offerors must develop and implement sampling and testing programs for all unrefined petroleum-based products to address the criteria and frequency of sampling. Offerors must certify that hazardous petroleum-based materials subject to the programs are packaged in accordance with the test results. They must also document the testing and sampling program outcomes for DOT personnel upon request.
+Finally, I have hired Dr. Allan Zarembski, research professor and director of the University of Delaware's Railroad Engineering and Safety Program, an expert in railroad engineering and safety, to advise the commonwealth on rail safety and, subsequently, complete a report. I ask that you fully cooperate with Dr. Zarembski as he does his work on behalf of the commonwealth.
+In view of your demonstrated concern for rail safety and your interest in working with the Commonwealth of Pennsylvania in increasing rail safety, I request that you join BNSF in adopting its improved safety initiatives for all trains with CBR cars operating in the Commonwealth of Pennsylvania. Additionally, I am requesting that you fully and expeditiously comply with the Department of Transportation's announced Final Rule. I will closely follow the status of your compliance with the Federal Rule and would like to discuss your willingness to adopt the BNSF additional safety measures.
+I look forward to hearing your response.
+Respectfully yours,
+Tom Wolf
+
+Source: http://www.governor.pa.gov/Pages/Pressroom_details.aspx?newsid=1674#.VYxbfXUVhHw

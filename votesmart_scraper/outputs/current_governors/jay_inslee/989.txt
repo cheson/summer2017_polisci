@@ -1,0 +1,14 @@
+Public Statements
+Wirelss Innovation Act, H.R. 1597
+Floor Speech
+By: Jay Inslee
+Date: April 19, 2007
+Location: Washington, DC
+
+
+WIRELESS INNOVATION ACT, H.R. 1597 -- (Extensions of Remarks - April 19, 2007)
+* Mr. INSLEE. Madam Speaker, there will be under-utilized wireless spectrum in the gaps or ``white spaces'' between TV broadcast channels when the transition from analog to digital television is complete. These white spaces could provide broadband access to millions of Americans and enable a wide range of innovative wireless devices and services which cannot be utilized in other frequencies. White spaces spectrum must remain unlicensed because the availability of this ``Swiss cheese'' pattern of spectrum nationally makes licensing it impractical. An unlicensed regime would also lead to a more efficient use of the frequencies.
+* Unlicensed white spaces devices will avoid harmful interference with all incumbents. Cognitive radio uses spectrum sensing technology to identify and avoid occupied TV channels. This method has been approved by the Defense Department for unlicensed devices that share spectrum with military radar. This unlicensed spectrum can be used for wireless broadband, public safety communications, and numerous at-home and business devices.
+* For the reasons listed above I have introduced the Wireless Innovation Act, H.R. 1597, which mandates that white spaces be used nonexclusively for unlicensed fixed or portable devices while mandating that incumbent licensees be protected from harmful interference. This legislation would provide interference protection to full power television, low power television, wireless microphones, and all other incumbent users of this spectrum. The bill also requires that the FCC permit use of unlicensed devices not later than February 18, 2009.
+
+Source: http://thomas.loc.gov

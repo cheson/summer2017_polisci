@@ -1,0 +1,14 @@
+Public Statements
+Governor Brown Addresses Recently Discovered I.T. Security Vulnerability
+Statement
+By: Kate Brown
+Date: March 26, 2015
+Location: Salem, OR
+
+Governor Kate Brown today called for a temporary management restructuring and independent assessment of Information Technology (I.T.) functions and oversight within the Department of Administrative Services (DAS), issuing the following statement:
+"I received a report from officials at the Department of Administrative Services (DAS) on Friday, March 20 regarding specific network vulnerabilities in that agency's Enterprise Technology Services Division (ETS). Upon discovery, DAS took action to address this problem. However, DAS was able to confirm that an unknown external entity had gained access to limited information about data.
+"State agency I.T. operations must have sufficient safeguards and oversight in place to protect against hackers and cyber criminals intending to hijack state web sites or access Oregonians' private information. Oregonians should not have to worry that their personal information such as social security numbers, home addresses or health records held by state agencies could be accessed illegally. Although I have been assured that no personally identifying information was compromised, this incident causes me to have serious concerns about the integrity of state data.
+"Therefore, I am directing Alex Pettit, Oregon's Chief Information Officer, to take charge of the ETS unit, managing its daily operations and services for the foreseeable future. Mr. Pettit will continue to work closely with the Legislature to address how I.T. resources should be structured and funded in the future to ensure transparency and public access to information as well as secure, cost-effective service delivery.
+"Additionally, I will initiate an expedited competitive process to engage an independent, third-party management and organizational design expert to conduct a thorough assessment relative to I.T. industry best practices, including a review of current procedures and management oversight. This independent assessment will identify issues and vulnerabilities and provide concrete recommendations for rectifying them. Since it is in the best interest of the State of Oregon to investigate and resolve these issues as soon as possible, I will consult with Legislative leadership to ensure we have adequate resources to be able to respond quickly."
+
+Source: http://www.oregon.gov/newsroom/Pages/NewsDetail.aspx?newsid=636

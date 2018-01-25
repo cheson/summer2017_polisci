@@ -1,0 +1,18 @@
+Public Statements
+Governor Cuomo Announces MTA Testing Solar-Powered Kiosks with Real-Time Service Information
+Press Release
+By: Andrew Cuomo
+Date: April 22, 2014
+Location: Albany, NY
+
+Governor Andrew M. Cuomo today announced that the MTA is piloting new solar technology that allows customers to access real-time train, subway and bus arrival information without connection to the electrical grid. The MTA, Metro-North Railroad and New York City Transit are testing the performance and reliability of two solar-powered kiosks that use MTA Subway Time and MTA Bus Time to provide Metro-North customers with real-time arrival estimates for connecting subways and buses at Metro-North's Woodlawn station. The kiosks also display Metro-North upcoming scheduled train arrivals, and they will display real-time estimates for Metro-North arrivals later this spring.
+
+"This Earth Week, the MTA is piloting solar-powered, sustainable kiosks that provide real-time information on arrivals and departures," Governor Cuomo said. "These new kiosks utilize energy efficient technology to deliver much-needed information to straphangers, and represent another step the State is taking to make our transit system more convenient for New Yorkers. We will continue to make smart and innovative investments in technology that help empower the MTA's eight million daily riders."
+
+Metro-North President Joseph Giulietti said, "We are pleased that despite one of the harshest winters on record, with multiple days of sub-freezing temperatures and at least a half dozen severe ice and snow storms, the kiosks have continued to operate as intended. These kiosks have the potential for deployment in any above-ground station where running conduits for electrical and data connectivity pose a challenge."
+
+Powered 100% by sunlight, the kiosks draw no power from the electrical grid and can remain active for 10 days without needing to be recharged by the sun. Because they are completely solar-powered and receive the real-time information wirelessly, the kiosks are not dependent on any external wiring for installation and operation. This makes them fully self-contained and easy to install with no required street closures, electrical connections or cable installation. While solar-powered kiosks are extensively used in Europe, this pilot is the one of the first fully solar-powered application displaying real-time information in the United States.
+
+The MTA is evaluating the performance of the kiosks to assess whether the solar panels, batteries and screens can withstand New York's year-round weather. Kiosks are topped by a photovoltaic panel and consume 70 watt hours per day, and the screens refresh every 15 seconds.
+
+Source: http://www.governor.ny.gov/press/42214-mta-kiosks

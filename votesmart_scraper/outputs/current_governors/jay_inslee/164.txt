@@ -1,0 +1,20 @@
+Public Statements
+Inslee Issues Directive to Increase Accountability of State It Systems
+Press Release
+By: Jay Inslee
+Date: Jan. 11, 2016
+Location: Unknown
+
+Gov. Jay Inslee today issued a directive to all executive branch agency directors to increase accountability of state technology systems responsible for critical functions related to areas including public safety, public health, and services for vulnerable Washingtonians.
+The directive is a result of Inslee's discussions with the state chief information officer following the discovery of a 13-year-old sentencing calculation error at the state Department of Corrections. Inslee said it was clear that increased accountability and governance was needed across state government to ensure similar errors are prevented.
+"I am directing state agencies to take immediate action to bring more accountability to our state's critical technology systems," Inslee said. "Every agency director and every person responsible for the critical functions of our state has a responsibility to ensure they are administered correctly. What happened at the Department of Corrections must not happen again."
+Effective immediately, the directive applies to all state agency directors who maintain critical technology systems for public safety, public health, accounting and financial administration, state revenue collection, the administration of services for vulnerable and/or disadvantaged residents, and other critical functions.
+The directive requires state agency directors to, by January 29th 2016:
+Develop an inventory of critical IT systems managed by their agencies.
+Ensure known issues and change requests are assigned appropriate priority for each critical IT system.
+Identify a single business owner for each critical IT system.
+"Our technology systems must allow our agencies to operate in accordance with state and federal laws," Inslee continued. "This directive will ensure it is clear who is accountable for critical technology systems and ensuring compliance with the law."
+The directive also requires the state chief information officer to develop policy that sets ongoing requirements of state agencies regarding governance standards for critical IT systems. The policy is due March 31st, 2016.
+"While we wait for the results of the external investigation into what happened at DOC, I am acting immediately to make sure all our agencies are meeting the high standards of accountability and performance that the public deserves," Inslee said.
+
+Source: http://www.governor.wa.gov/news-media/inslee-issues-directive-increase-accountability-state-it-systems

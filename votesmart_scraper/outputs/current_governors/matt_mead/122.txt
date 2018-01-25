@@ -1,0 +1,22 @@
+Public Statements
+Technology Creates Access to New Online Resources for Schools and Public
+Press Release
+By: Matt Mead
+Date: Sept. 17, 2014
+Location: Cheyenne, WY
+
+Students and researchers across the state of Wyoming will now have access to leading academic resources that were previously unavailable in the state through Internet2. Internet2 is a national consortium that provides high-speed bandwidth and other internet services to research and education communities across the country.
+
+The State of Wyoming became the newest Internet2 United States Unified Community Anchor Network participant in the country. This was done in cooperation with the University of Wyoming and the Front Range GigaPoP (a regional network managed by the University Corporation for Atmospheric Research). This access allows schools in Wyoming to interact directly with more than 93,000 public institutions and resources.
+
+Resources include interactive master music classes, the Presidential Primary Sources Project --where students can even interact with past U.S. Presidents and interactive virtual field trips to National Park Sites and Presidential Libraries.
+
+"We continue to expand access to high-speed broadband. This benefits all citizens and particularly children," Governor Matt Mead said. "Resources like Internet2 allow us to compete and collaborate globally. I thank UW for its help and the Front Range GigaPoP staff for making this possible."
+
+Robert Aylward, Vice President and CIO at the University of Wyoming, said, "The U.S. UCAN connection allows the University of Wyoming to share its existing connection to Internet2's nationwide advanced research and education network with the state's community colleges and K-12 community," Aylward said those entities are typically not eligible or able to become Internet2 members themselves due to the size of their institutions or the costs associated with individual access, but will now be able to use the network to expand global and local collaborations.
+
+"We've had a long and valuable relationship with the State of Wyoming," said FRGP manager Marla Meehl, who heads High Performance Networking at UCAR. "We are pleased and excited that we are now able to extend access to the preeminent U.S. network for research and education."
+
+That relationship, Meehl noted, includes networking for the state-of-the-art NCAR-Wyoming Supercomputing Center in Cheyenne, which opened in 2012.
+
+Source: http://governor.wy.gov/media/pressReleases/Pages/OFFICEOFGOVERNORMATTMEAD.aspx

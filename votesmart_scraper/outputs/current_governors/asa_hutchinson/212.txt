@@ -1,0 +1,19 @@
+Public Statements
+Kicking Off Coding
+Statement
+By: Asa Hutchinson
+Date: May 1, 2015
+Location: Unknown
+
+In 1993, doors opened at the Arkansas School for Mathematics, Sciences and the Arts in downtown Hot Springs. One of its required courses from the very beginning was computer science. Or as its current director, Corey Alderdice, says, "computer science was baked into the school."
+Back then, it was rare for any school to have a computer lab or Internet access, much less offer a credited class on computer coding.
+Today, the Hot Springs school offers 11 different courses in computer programming. If you take enough of those courses while in high school, you could reach a sophomore level in college heading toward a computer science degree.
+Plenty of graduates of the school have gone on to careers in technology. Among them is Luther Lowe, now director of public policy for Yelp. The school also boasts graduates working in Silicon Valley as well as in the IT departments at major Arkansas companies like Walmart and Acxiom.
+When it comes to computer science, students and teachers at Arkansas School for Mathematics, Sciences and the Arts have been ahead of the curve for more than 20 years. But I'm happy to say that the curve is about to catch up.
+Next week, I launch my Computer Science Tour to encourage students to take computer-coding classes AND to motivate teachers and school officials to get behind this movement. We'll start Wednesday in Northwest Arkansas, visiting schools in Rogers, Springdale and Fort Smith. The students there will try an hour of coding before we arrive, which I expect will pique their interest to take the computer science classes that will be offered in ALL Arkansas public high schools starting next fall.
+The tour unofficially kicked off Friday in an appropriate location -- the Arkansas School for Mathematics, Sciences and the Arts, where plans were announced for a program called "Coding Arkansas's Future." Its goal is to train educators to teach coding. A new group of teachers will cycle through every year. This program alone could increase the number of students taking coding by 200 a year if each new teacher introduces the subject to 20 students.
+It sounds like a great plan. What I love about it is that the program developed naturally from our computer science initiative -- which tells me that the interest and enthusiasm is there. I expect more and more schools to include computer science not just into their curriculum but into their educational philosophy.
+As for the pioneering school in Hot Springs, Director Alderdice says, "We love that the rest of the state is now starting to focus on what we do. It's great for Arkansas. And it allows us to ask a question of ourselves, "What's next?' "
+I like that approach. It spells progress.
+
+Source: http://governor.arkansas.gov/radio/detail/kicking-off-coding

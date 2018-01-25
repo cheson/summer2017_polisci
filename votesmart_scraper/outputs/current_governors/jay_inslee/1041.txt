@@ -1,0 +1,15 @@
+Public Statements
+Fight for Free Internet Continues
+By: Jay Inslee
+Date: May 2, 2006
+Location: Unknown
+
+
+Fight for free Internet continues
+Four Democrats on the House commerce panel are employing a new tactic in their battle for a free, unrestricted Internet. Twice in April, their Net-neutrality amendment to a telecommunications-reform bill failed. Today, U.S. Reps. Ed Markey (D-Mass.), Jay Inslee (D-Wash.), Anna Eshoo (D-Calif.) and Rick Boucher (D-Va.) filed a similar, free-standing bill in the House.
+It would ban phone and cable companies from charging Web sites for faster data transmission, or blocking their online competitors' content and services. Like their amendment that failed in the Telecommunications and the Internet Subcommittee and House Energy and Commerce Committee markup of the wide-ranging telecom reform measure, their bill aims to correct a recent rule change that leaves open the possibility that phone and cable companies could charge their competitors Internet tolls and send more slowly the content of those who don't pay.
+"We cannot allow telecommunications companies to hijack the Internet," said Inslee, who represents Microsoft and other high-tech companies in his Seattle-area district. "After all, the beauty of the Internet is its open architecture."
+The amendment offered by Markey, Inslee, Eshoo and Boucher was rejected on April 5 by an 8-23 margin in the panel's Telecommunications and the Internet Subcommittee. On April 26, it gained support in the full commerce committee, but still was defeated by a vote of 22-34.
+The underlying telecom-reform bill, titled the Communications Opportunity, Promotion, and Enhancement Act of 2006, likely will be considered by the entire House in coming weeks.
+"I hope our Net-neutrality bill gains broad support, so House leadership addresses the problem in the rewrite of telecom laws," Inslee added.
+http://www.house.gov/inslee/issues/technology/free_internet_net_neutrality.html

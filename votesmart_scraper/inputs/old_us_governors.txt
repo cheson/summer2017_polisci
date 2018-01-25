@@ -1,0 +1,7819 @@
+govname1	year
+	1925
+Brandon, William W.	1926
+Graves, Bibb	1927
+Graves, Bibb	1928
+Graves, Bibb	1929
+Graves, Bibb	1930
+Miller, Benjamin M.	1931
+Miller, Benjamin M.	1932
+Miller, Benjamin M.	1933
+Miller, Benjamin M.	1934
+Graves, Bibb	1935
+Graves, Bibb	1936
+Graves, Bibb	1937
+Graves, Bibb	1938
+Dixon, Frank M.	1939
+Dixon, Frank M.	1940
+Dixon, Frank M.	1941
+Dixon, Frank M.	1942
+Sparks, Chauncey M.	1943
+Sparks, Chauncey M.	1944
+Sparks, Chauncey M.	1945
+Sparks, Chauncey M.	1946
+Folsom, James E.	1947
+Folsom, James E.	1948
+Folsom, James E.	1949
+Folsom, James E.	1950
+Persons, Gordon	1951
+Persons, Gordon	1952
+Persons, Gordon	1953
+Persons, Gordon	1954
+Folsom, James E.	1955
+Folsom, James E.	1956
+Folsom, James E.	1957
+Folsom, James E.	1958
+Patterson, John M.	1959
+Patterson, John M.	1960
+Patterson, John M.	1961
+Patterson, John M.	1962
+Wallace, George C.	1963
+Wallace, George C.	1964
+Wallace, George C.	1965
+Wallace, George C.	1966
+Wallace, Lurleen B.	1967
+Wallace, Lurleen B. then Albert Brewer	1968
+Brewer, Albert P.	1969
+Brewer, Albert P.	1970
+Wallace, George C.	1971
+Wallace, George C.	1972
+Wallace, George C.	1973
+Wallace, George C.	1974
+Wallace, George C.	1975
+Wallace, George C.	1976
+Wallace, George C.	1977
+Wallace, George C.	1978
+James, Forrest H. "Fob" Jr.	1979
+James, Forrest H. "Fob" Jr.	1980
+James, Forrest H. "Fob" Jr.	1981
+James, Forrest H. "Fob" Jr.	1982
+Wallace, George C.	1983
+Wallace, George C.	1984
+Wallace, George C.	1985
+Wallace, George C.	1986
+Hunt, Guy	1987
+Hunt, Guy	1988
+Hunt, Guy	1989
+Hunt, Guy	1990
+Hunt, Guy	1991
+Hunt, Guy	1992
+Hunt, Guy and then James Folsom Jr.	1993
+Folsom, James E. Jr.	1994
+James, Forrest H. "Fob" Jr.	1995
+James, Forrest H. "Fob" Jr.	1996
+James, Forrest H. "Fob" Jr.	1997
+James, Forrest H. "Fob" Jr.	1998
+Siegelman, Donald	1999
+Siegelman, Donald	2000
+Siegelman, Donald	2001
+Siegelman, Donald	2002
+Riley, Bob	2003
+Riley, Bob	2004
+Riley, Bob	2005
+Riley, Bob	2006
+Riley, Bob	2007
+Riley, Bob	2008
+Riley, Bob	2009
+Riley, Bob	2010
+Bentley, Robert	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+	1926
+	1927
+	1928
+	1929
+	1930
+	1931
+	1932
+	1933
+	1934
+	1935
+	1936
+	1937
+	1938
+	1939
+	1940
+	1941
+	1942
+	1943
+	1944
+	1945
+	1946
+	1947
+	1948
+	1949
+	1950
+	1951
+	1952
+	1953
+	1954
+	1955
+	1956
+	1957
+	1958
+Egan, William A.	1959
+Egan, William A.	1960
+Egan, William A.	1961
+Egan, William A.	1962
+Egan, William A.	1963
+Egan, William A.	1964
+Egan, William A.	1965
+Egan, William A.	1966
+Hickel, Walter J.	1967
+Hickel, Walter J.	1968
+Miller, Keith H.	1969
+Miller, Keith H.	1970
+Egan, William A.	1971
+Egan, William A.	1972
+Egan, William A.	1973
+Egan, William A.	1974
+Hammond, Jay S.	1975
+Hammond, Jay S.	1976
+Hammond, Jay S.	1977
+Hammond, Jay S.	1978
+Hammond, Jay S.	1979
+Hammond, Jay S.	1980
+Hammond, Jay S.	1981
+Hammond, Jay S.	1982
+Sheffield, Bill	1983
+Sheffield, Bill	1984
+Sheffield, Bill	1985
+Sheffield, Bill	1986
+Cowper, Steve C.	1987
+Cowper, Steve C.	1988
+Cowper, Steve C.	1989
+Cowper, Steve C.	1990
+Hickel, Walter J.	1991
+Hickel, Walter J.	1992
+Hickel, Walter J.	1993
+Hickel, Walter J.	1994
+Knowles, Tony	1995
+Knowles, Tony	1996
+Knowles, Tony	1997
+Knowles, Tony	1998
+Knowles, Tony	1999
+Knowles, Tony	2000
+Knowles, Tony	2001
+Knowles, Tony	2002
+Murkowski, Frank H.	2003
+Murkowski, Frank H.	2004
+Murkowski, Frank H.	2005
+Murkowski, Frank H.	2006
+Palin, Sarah H.	2007
+Palin, Sarah H.	2008
+Palin, Sarah H.	2009
+Parnell, Sean	2010
+Parnell, Sean	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+	1926
+	1927
+	1928
+	1929
+	1930
+	1931
+	1932
+	1933
+	1934
+	1935
+	1936
+	1937
+	1938
+	1939
+	1940
+	1941
+	1942
+	1943
+	1944
+	1945
+	1946
+	1947
+	1948
+	1949
+	1950
+	1951
+	1952
+	1953
+	1954
+	1955
+McFarland, Ernest W.	1956
+McFarland, Ernest W.	1957
+McFarland, Ernest W.	1958
+Fannin, Paul J.	1959
+Fannin, Paul J.	1960
+Fannin, Paul J.	1961
+Fannin, Paul J.	1962
+Fannin, Paul J.	1963
+Fannin, Paul J.	1964
+Goddard, Sam	1965
+Goddard, Sam	1966
+Williams, Jack	1967
+Williams, Jack	1968
+Williams, Jack	1969
+Williams, Jack	1970
+Williams, Jack	1971
+Williams, Jack	1972
+Williams, Jack	1973
+Williams, Jack	1974
+Castro, Raul	1975
+Castro, Raul	1976
+Castro, Raul and then Wesley Bolin	1977
+Bolin, Wesley, and then Bruce Babbitt	1978
+Babbitt, Bruce	1979
+Babbitt, Bruce	1980
+Babbitt, Bruce	1981
+Babbitt, Bruce	1982
+Babbitt, Bruce	1983
+Babbitt, Bruce	1984
+Babbitt, Bruce	1985
+Babbitt, Bruce	1986
+Mecham, Evan	1987
+Mecham, Evan and then Rose Mofford	1988
+Mofford, Rose	1989
+Mofford, Rose	1990
+Mofford, Rose and then Fife Symington	1991
+Symington, Fife	1992
+Symington, Fife	1993
+Symington, Fife	1994
+Symington, Fife	1995
+Symington, Fife	1996
+Switch; Symington then Jane Hull-R	1997
+Hull, Jane	1998
+Hull, Jane	1999
+Hull, Jane	2000
+Hull, Jane	2001
+Hull, Jane	2002
+Napolitano, Janet	2003
+Napolitano, Janet	2004
+Napolitano, Janet	2005
+Napolitano, Janet	2006
+Napolitano, Janet	2007
+Napolitano, Janet	2008
+Brewer, Jan	2009
+Brewer, Jan	2010
+Brewer, Jan	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+	1926
+	1927
+	1928
+	1929
+	1930
+	1931
+	1932
+	1933
+	1934
+	1935
+	1936
+	1937
+	1938
+	1939
+	1940
+	1941
+	1942
+	1943
+	1944
+	1945
+	1946
+	1947
+	1948
+	1949
+	1950
+	1951
+	1952
+	1953
+	1954
+	1955
+Faubus, Orval E.	1956
+Faubus, Orval E.	1957
+Faubus, Orval E.	1958
+Faubus, Orval E.	1959
+Faubus, Orval E.	1960
+Faubus, Orval E.	1961
+Faubus, Orval E.	1962
+Faubus, Orval E.	1963
+Faubus, Orval E.	1964
+Faubus, Orval E.	1965
+Faubus, Orval E.	1966
+Rockefeller, Winthrop	1967
+Rockefeller, Winthrop	1968
+Rockefeller, Winthrop	1969
+Rockefeller, Winthrop	1970
+Bumpers, Dale	1971
+Bumpers, Dale	1972
+Bumpers, Dale	1973
+Bumpers, Dale	1974
+Pryor, David	1975
+Pryor, David	1976
+Pryor, David	1977
+Pryor, David	1978
+Clinton, Bill	1979
+Clinton, Bill	1980
+White, Frank D.	1981
+White, Frank D.	1982
+Clinton, Bill	1983
+Clinton, Bill	1984
+Clinton, Bill	1985
+Clinton, Bill	1986
+Clinton, Bill	1987
+Clinton, Bill	1988
+Clinton, Bill	1989
+Clinton, Bill	1990
+Clinton, Bill	1991
+Clinton, Bill	1992
+Tucker, Jim Guy Jr.	1993
+Tucker, Jim Guy Jr.	1994
+Tucker, Jim Guy Jr.	1995
+Switch; Tucker then Huckabee	1996
+Huckabee, Mike	1997
+Huckabee, Mike	1998
+Huckabee, Mike	1999
+Huckabee, Mike	2000
+Huckabee, Mike	2001
+Huckabee, Mike	2002
+Huckabee, Mike	2003
+Huckabee, Mike	2004
+Huckabee, Mike	2005
+Huckabee, Mike	2006
+Beebe, Mike	2007
+Beebe, Mike	2008
+Beebe, Mike	2009
+Beebe, Mike	2010
+Beebe, Mike	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+	1926
+	1927
+	1928
+	1929
+	1930
+	1931
+	1932
+	1933
+	1934
+	1935
+	1936
+	1937
+	1938
+	1939
+	1940
+	1941
+	1942
+	1943
+	1944
+	1945
+	1946
+	1947
+	1948
+	1949
+	1950
+	1951
+	1952
+	1953
+	1954
+	1955
+Knight, Goodwin J.	1956
+Knight, Goodwin J.	1957
+Knight, Goodwin J.	1958
+Brown, Edmund G. "Pat" Sr.	1959
+Brown, Edmund G. "Pat" Sr.	1960
+Brown, Edmund G. "Pat" Sr.	1961
+Brown, Edmund G. "Pat" Sr.	1962
+Brown, Edmund G. "Pat" Sr.	1963
+Brown, Edmund G. "Pat" Sr.	1964
+Brown, Edmund G. "Pat" Sr.	1965
+Brown, Edmund G. "Pat" Sr.	1966
+Reagan, Ronald	1967
+Reagan, Ronald	1968
+Reagan, Ronald	1969
+Reagan, Ronald	1970
+Reagan, Ronald	1971
+Reagan, Ronald	1972
+Reagan, Ronald	1973
+Reagan, Ronald	1974
+Brown, Edmund G. "Jerry" Jr.	1975
+Brown, Edmund G. "Jerry" Jr.	1976
+Brown, Edmund G. "Jerry" Jr.	1977
+Brown, Edmund G. "Jerry" Jr.	1978
+Brown, Edmund G. "Jerry" Jr.	1979
+Brown, Edmund G. "Jerry" Jr.	1980
+Brown, Edmund G. "Jerry" Jr.	1981
+Brown, Edmund G. "Jerry" Jr.	1982
+Deukmejian, George	1983
+Deukmejian, George	1984
+Deukmejian, George	1985
+Deukmejian, George	1986
+Deukmejian, George	1987
+Deukmejian, George	1988
+Deukmejian, George	1989
+Deukmejian, George	1990
+Wilson, Peter B. "Pete"	1991
+Wilson, Peter B. "Pete"	1992
+Wilson, Peter B. "Pete"	1993
+Wilson, Peter B. "Pete"	1994
+Wilson, Peter B. "Pete"	1995
+Wilson, Peter B. "Pete"	1996
+Wilson, Peter B. "Pete"	1997
+Wilson, Peter B. "Pete"	1998
+Davis, Gray	1999
+Davis, Gray	2000
+Davis, Gray	2001
+Davis, Gray	2002
+Switch; Davis-D then Schwarzenegger	2003
+Schwarzenegger, Arnold	2004
+Schwarzenegger, Arnold	2005
+Schwarzenegger, Arnold	2006
+Schwarzenegger, Arnold	2007
+Schwarzenegger, Arnold	2008
+Schwarzenegger, Arnold	2009
+Schwarzenegger, Arnold	2010
+Brown, Edmund Gerald	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+	1926
+	1927
+	1928
+	1929
+	1930
+	1931
+	1932
+	1933
+	1934
+	1935
+	1936
+	1937
+	1938
+	1939
+	1940
+	1941
+	1942
+	1943
+	1944
+	1945
+	1946
+	1947
+	1948
+	1949
+	1950
+	1951
+	1952
+	1953
+	1954
+	1955
+Johnson, Edwin C.	1956
+McNichols, Stephen L.R.	1957
+McNichols, Stephen L.R.	1958
+McNichols, Stephen L.R.	1959
+McNichols, Stephen L.R.	1960
+McNichols, Stephen L.R.	1961
+McNichols, Stephen L.R.	1962
+Love, John A.	1963
+Love, John A.	1964
+Love, John A.	1965
+Love, John A.	1966
+Love, John A.	1967
+Love, John A.	1968
+Love, John A.	1969
+Love, John A.	1970
+Love, John A.	1971
+Love, John A.	1972
+Love, John A. and John D. Vanderhoof	1973
+Vanderhoof, John D.	1974
+Lamm, Richard D.	1975
+Lamm, Richard D.	1976
+Lamm, Richard D.	1977
+Lamm, Richard D.	1978
+Lamm, Richard D.	1979
+Lamm, Richard D.	1980
+Lamm, Richard D.	1981
+Lamm, Richard D.	1982
+Lamm, Richard D.	1983
+Lamm, Richard D.	1984
+Lamm, Richard D.	1985
+Lamm, Richard D.	1986
+Romer, Roy	1987
+Romer, Roy	1988
+Romer, Roy	1989
+Romer, Roy	1990
+Romer, Roy	1991
+Romer, Roy	1992
+Romer, Roy	1993
+Romer, Roy	1994
+Romer, Roy	1995
+Romer, Roy	1996
+Romer, Roy	1997
+Romer, Roy	1998
+Owens, Bill	1999
+Owens, Bill	2000
+Owens, Bill	2001
+Owens, Bill	2002
+Owens, Bill	2003
+Owens, Bill	2004
+Owens, Bill	2005
+Owens, Bill	2006
+Ritter, Bill	2007
+Ritter, Bill	2008
+Ritter, Bill	2009
+Ritter, Bill	2010
+Hickenlooper, John	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+Trumbull, John H.	1926
+Trumbull, John H.	1927
+Trumbull, John H.	1928
+Trumbull, John H.	1929
+Trumbull, John H.	1930
+Cross, Wilbur L.	1931
+Cross, Wilbur L.	1932
+Cross, Wilbur L.	1933
+Cross, Wilbur L.	1934
+Cross, Wilbur L.	1935
+Cross, Wilbur L.	1936
+Cross, Wilbur L.	1937
+Cross, Wilbur L.	1938
+Baldwin, Raymond E.	1939
+Baldwin, Raymond E.	1940
+Hurley, Robert A.	1941
+Hurley, Robert A.	1942
+Baldwin, Raymond E.	1943
+Baldwin, Raymond E.	1944
+Baldwin, Raymond E.	1945
+Baldwin, Raymond E.	1946
+McConaughy, James L.	1947
+Shannon, James C.	1948
+Bowles, Chester	1949
+Bowles, Chester	1950
+Lodge, John D.	1951
+Lodge, John D.	1952
+Lodge, John D.	1953
+Lodge, John D.	1954
+Ribicoff, Abraham	1955
+Ribicoff, Abraham	1956
+Ribicoff, Abraham	1957
+Ribicoff, Abraham	1958
+Ribicoff, Abraham	1959
+Ribicoff, Abraham	1960
+Dempsey, John	1961
+Dempsey, John	1962
+Dempsey, John	1963
+Dempsey, John	1964
+Dempsey, John	1965
+Dempsey, John	1966
+Dempsey, John	1967
+Dempsey, John	1968
+Dempsey, John	1969
+Dempsey, John	1970
+Meskill, Thomas J.	1971
+Meskill, Thomas J.	1972
+Meskill, Thomas J.	1973
+Meskill, Thomas J.	1974
+Grasso, Ella T.	1975
+Grasso, Ella T.	1976
+Grasso, Ella T.	1977
+Grasso, Ella T.	1978
+Grasso, Ella T.	1979
+Grasso, Ella T.	1980
+O'Neill, William A.	1981
+O'Neill, William A.	1982
+O'Neill, William A.	1983
+O'Neill, William A.	1984
+O'Neill, William A.	1985
+O'Neill, William A.	1986
+O'Neill, William A.	1987
+O'Neill, William A.	1988
+O'Neill, William A.	1989
+O'Neill, William A.	1990
+Weicker, Lowell P. Jr.	1991
+Weicker, Lowell P. Jr.	1992
+Weicker, Lowell P. Jr.	1993
+Weicker, Lowell P. Jr.	1994
+Rowland, John G. 	1995
+Rowland, John G. 	1996
+Rowland, John G. 	1997
+Rowland, John G. 	1998
+Rowland, John G. 	1999
+Rowland, John G. 	2000
+Rowland, John G. 	2001
+Rowland, John G. 	2002
+Rowland, John G. 	2003
+Rell, M. Jodi	2004
+Rell, M. Jodi	2005
+Rell, M. Jodi	2006
+Rell, M. Jodi	2007
+Rell, M. Jodi	2008
+Rell, M. Jodi	2009
+Rell, M. Jodi	2010
+Malloy, Dan	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+Robinson, Robert P.	1926
+Robinson, Robert P.	1927
+Robinson, Robert P.	1928
+Buck, C. Douglass	1929
+Buck, C. Douglass	1930
+Buck, C. Douglass	1931
+Buck, C. Douglass	1932
+Buck, C. Douglass	1933
+Buck, C. Douglass	1934
+Buck, C. Douglass	1935
+Buck, C. Douglass	1936
+McMullen, Richard C.	1937
+McMullen, Richard C.	1938
+McMullen, Richard C.	1939
+McMullen, Richard C.	1940
+Bacon, Walter W.	1941
+Bacon, Walter W.	1942
+Bacon, Walter W.	1943
+Bacon, Walter W.	1944
+Bacon, Walter W.	1945
+Bacon, Walter W.	1946
+Bacon, Walter W.	1947
+Bacon, Walter W.	1948
+Carvel, Elbert N.	1949
+Carvel, Elbert N.	1950
+Carvel, Elbert N.	1951
+Carvel, Elbert N.	1952
+Boggs, J. Caleb	1953
+Boggs, J. Caleb	1954
+Boggs, J. Caleb	1955
+Boggs, J. Caleb	1956
+Boggs, J. Caleb	1957
+Boggs, J. Caleb	1958
+Boggs, J. Caleb	1959
+Boggs, J. Caleb	1960
+Carvel, Elbert N.	1961
+Carvel, Elbert N.	1962
+Carvel, Elbert N.	1963
+Carvel, Elbert N.	1964
+Terry, Charles L. Jr.	1965
+Terry, Charles L. Jr.	1966
+Terry, Charles L. Jr.	1967
+Terry, Charles L. Jr.	1968
+Peterson, Russell W.	1969
+Peterson, Russell W.	1970
+Peterson, Russell W.	1971
+Peterson, Russell W.	1972
+Tribbitt, Sherman W.	1973
+Tribbitt, Sherman W.	1974
+Tribbitt, Sherman W.	1975
+Tribbitt, Sherman W.	1976
+duPont, Pierre	1977
+duPont, Pierre	1978
+duPont, Pierre	1979
+duPont, Pierre	1980
+duPont, Pierre	1981
+duPont, Pierre	1982
+duPont, Pierre	1983
+duPont, Pierre	1984
+Castle, Michael N.	1985
+Castle, Michael N.	1986
+Castle, Michael N.	1987
+Castle, Michael N.	1988
+Castle, Michael N.	1989
+Castle, Michael N.	1990
+Castle, Michael N.	1991
+Castle, Michael N.	1992
+Carper, Thomas R.	1993
+Carper, Thomas R.	1994
+Carper, Thomas R.	1995
+Carper, Thomas R.	1996
+Carper, Thomas R.	1997
+Carper, Thomas R.	1998
+Carper, Thomas R.	1999
+Carper, Thomas R.	2000
+Minner, Ruth Ann	2001
+Minner, Ruth Ann	2002
+Minner, Ruth Ann	2003
+Minner, Ruth Ann	2004
+Minner, Ruth Ann	2005
+Minner, Ruth Ann	2006
+Minner, Ruth Ann	2007
+Minner, Ruth Ann	2008
+Markell, Jack	2009
+Markell, Jack	2010
+Markell, Jack	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+Martin, John W.	1926
+Martin, John W.	1927
+Martin, John W.	1928
+Carlton, Doyle E.	1929
+Carlton, Doyle E.	1930
+Carlton, Doyle E.	1931
+Carlton, Doyle E.	1932
+Sholtz, David	1933
+Sholtz, David	1934
+Sholtz, David	1935
+Sholtz, David	1936
+Cone, Frederick P.	1937
+Cone, Frederick P.	1938
+Cone, Frederick P.	1939
+Cone, Frederick P.	1940
+Holland, Spessard L.	1941
+Holland, Spessard L.	1942
+Holland, Spessard L.	1943
+Holland, Spessard L.	1944
+Caldwell, Millard F.	1945
+Caldwell, Millard F.	1946
+Caldwell, Millard F.	1947
+Caldwell, Millard F.	1948
+Warren, Fuller	1949
+Warren, Fuller	1950
+Warren, Fuller	1951
+Warren, Fuller	1952
+McCarty, Daniel T.	1953
+Johns, Charley E.	1954
+Collins, LeRoy	1955
+Collins, LeRoy	1956
+Collins, LeRoy	1957
+Collins, LeRoy	1958
+Collins, LeRoy	1959
+Collins, LeRoy	1960
+Bryant, Farris	1961
+Bryant, Farris	1962
+Bryant, Farris	1963
+Bryant, Farris	1964
+Burns, Haydon	1965
+Burns, Haydon	1966
+Kirk, Claude R. Jr.	1967
+Kirk, Claude R. Jr.	1968
+Kirk, Claude R. Jr.	1969
+Kirk, Claude R. Jr.	1970
+Askew, Reubin	1971
+Askew, Reubin	1972
+Askew, Reubin	1973
+Askew, Reubin	1974
+Askew, Reubin	1975
+Askew, Reubin	1976
+Askew, Reubin	1977
+Askew, Reubin	1978
+Graham, Robert	1979
+Graham, Robert	1980
+Graham, Robert	1981
+Graham, Robert	1982
+Graham, Robert	1983
+Graham, Robert	1984
+Graham, Robert	1985
+Graham, Robert	1986
+Martinez, Bob	1987
+Martinez, Bob	1988
+Martinez, Bob	1989
+Martinez, Bob	1990
+Chiles, Lawton M. Jr.	1991
+Chiles, Lawton M. Jr.	1992
+Chiles, Lawton M. Jr.	1993
+Chiles, Lawton M. Jr.	1994
+Chiles, Lawton M. Jr.	1995
+Chiles, Lawton M. Jr.	1996
+Chiles, Lawton M. Jr.	1997
+Chiles, Lawton M. Jr.	1998
+Bush, Jeb	1999
+Bush, Jeb	2000
+Bush, Jeb	2001
+Bush, Jeb	2002
+Bush, Jeb	2003
+Bush, Jeb	2004
+Bush, Jeb	2005
+Bush, Jeb	2006
+Crist, Charlie	2007
+Crist, Charlie	2008
+Crist, Charlie	2009
+Crist, Charlie	2010
+Scott, Rick	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+Walker, Clifford M.	1926
+	1927
+Hardman, Lamartine G.	1928
+Hardman, Lamartine G.	1929
+Hardman, Lamartine G.	1930
+	1931
+Russell, Richard B.	1932
+Talmadge, Eugene	1933
+Talmadge, Eugene	1934
+Talmadge, Eugene	1935
+Talmadge, Eugene	1936
+Rivers, Eurith D.	1937
+Rivers, Eurith D.	1938
+Rivers, Eurith D.	1939
+Rivers, Eurith D.	1940
+Talmadge, Eugene	1941
+Talmadge, Eugene	1942
+Arnall, Ellis G.	1943
+Arnall, Ellis G.	1944
+Arnall, Ellis G.	1945
+Arnall, Ellis G.	1946
+Thompson, Melvin E.	1947
+Thompson, Melvin E.	1948
+Talmadge, Herman E.	1949
+Talmadge, Herman E.	1950
+Talmadge, Herman E.	1951
+Talmadge, Herman E.	1952
+Talmadge, Herman E.	1953
+Talmadge, Herman E.	1954
+Griffin, S. Marvin	1955
+Griffin, S. Marvin	1956
+Griffin, S. Marvin	1957
+Griffin, S. Marvin	1958
+Vandiver, S. Ernest Jr.	1959
+Vandiver, S. Ernest Jr.	1960
+Vandiver, S. Ernest Jr.	1961
+Vandiver, S. Ernest Jr.	1962
+Sanders, Carl Edward	1963
+Sanders, Carl Edward	1964
+Sanders, Carl Edward	1965
+Sanders, Carl Edward	1966
+Maddox, Lester G.	1967
+Maddox, Lester G.	1968
+Maddox, Lester G.	1969
+Maddox, Lester G.	1970
+Carter, Jimmy	1971
+Carter, Jimmy	1972
+Carter, Jimmy	1973
+Carter, Jimmy	1974
+Busbee, George	1975
+Busbee, George	1976
+Busbee, George	1977
+Busbee, George	1978
+Busbee, George	1979
+Busbee, George	1980
+Busbee, George	1981
+Busbee, George	1982
+Harris, Joe Frank	1983
+Harris, Joe Frank	1984
+Harris, Joe Frank	1985
+Harris, Joe Frank	1986
+Harris, Joe Frank	1987
+Harris, Joe Frank	1988
+Harris, Joe Frank	1989
+Harris, Joe Frank	1990
+Miller, Zell	1991
+Miller, Zell	1992
+Miller, Zell	1993
+Miller, Zell	1994
+Miller, Zell	1995
+Miller, Zell	1996
+Miller, Zell	1997
+Miller, Zell	1998
+Barnes, Roy	1999
+Barnes, Roy	2000
+Barnes, Roy	2001
+Barnes, Roy	2002
+Perdue, Sonny	2003
+Perdue, Sonny	2004
+Perdue, Sonny	2005
+Perdue, Sonny	2006
+Perdue, Sonny	2007
+Perdue, Sonny	2008
+Perdue, Sonny	2009
+Perdue, Sonny	2010
+Deal, Nathan	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+	1926
+	1927
+	1928
+	1929
+	1930
+	1931
+	1932
+	1933
+	1934
+	1935
+	1936
+	1937
+	1938
+	1939
+	1940
+	1941
+	1942
+	1943
+	1944
+	1945
+	1946
+	1947
+	1948
+	1949
+	1950
+	1951
+	1952
+	1953
+	1954
+	1955
+	1956
+	1957
+	1958
+Quinn, William F.	1959
+Quinn, William F.	1960
+Quinn, William F.	1961
+Quinn, William F.	1962
+Burns, John A.	1963
+Burns, John A.	1964
+Burns, John A.	1965
+Burns, John A.	1966
+Burns, John A.	1967
+Burns, John A.	1968
+Burns, John A.	1969
+Burns, John A.	1970
+Burns, John A.	1971
+Burns, John A.	1972
+Burns, John A.	1973
+Burns, John A.	1974
+Ariyoshi, George R.	1975
+Ariyoshi, George R.	1976
+Ariyoshi, George R.	1977
+Ariyoshi, George R.	1978
+Ariyoshi, George R.	1979
+Ariyoshi, George R.	1980
+Ariyoshi, George R.	1981
+Ariyoshi, George R.	1982
+Ariyoshi, George R.	1983
+Ariyoshi, George R.	1984
+Ariyoshi, George R.	1985
+Ariyoshi, George R.	1986
+Waihee, John	1987
+Waihee, John	1988
+Waihee, John	1989
+Waihee, John	1990
+Waihee, John	1991
+Waihee, John	1992
+Waihee, John	1993
+Waihee, John	1994
+Cayetano, Benjamin J.	1995
+Cayetano, Benjamin J.	1996
+Cayetano, Benjamin J.	1997
+Cayetano, Benjamin J.	1998
+Cayetano, Benjamin J.	1999
+Cayetano, Benjamin J.	2000
+Cayetano, Benjamin J.	2001
+Cayetano, Benjamin J.	2002
+Lingle, Linda	2003
+Lingle, Linda	2004
+Lingle, Linda	2005
+Lingle, Linda	2006
+Lingle, Linda	2007
+Lingle, Linda	2008
+Lingle, Linda	2009
+Lingle, Linda	2010
+Abercrombie, Neil	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+	1926
+	1927
+	1928
+	1929
+	1930
+	1931
+	1932
+	1933
+	1934
+	1935
+	1936
+	1937
+	1938
+	1939
+	1940
+	1941
+	1942
+	1943
+	1944
+	1945
+	1946
+	1947
+	1948
+	1949
+	1950
+	1951
+	1952
+	1953
+	1954
+	1955
+Smylie, Robert E.	1956
+Smylie, Robert E.	1957
+Smylie, Robert E.	1958
+Smylie, Robert E.	1959
+Smylie, Robert E.	1960
+Smylie, Robert E.	1961
+Smylie, Robert E.	1962
+Smylie, Robert E.	1963
+Smylie, Robert E.	1964
+Smylie, Robert E.	1965
+Smylie, Robert E.	1966
+Samuelson, Don	1967
+Samuelson, Don	1968
+Samuelson, Don	1969
+Samuelson, Don	1970
+Andrus, Cecil D.	1971
+Andrus, Cecil D.	1972
+Andrus, Cecil D.	1973
+Andrus, Cecil D.	1974
+Andrus, Cecil D.	1975
+Andrus, Cecil D.	1976
+Evans, John V.	1977
+Evans, John V.	1978
+Evans, John V.	1979
+Evans, John V.	1980
+Evans, John V.	1981
+Evans, John V.	1982
+Evans, John V.	1983
+Evans, John V.	1984
+Evans, John V.	1985
+Evans, John V.	1986
+Andrus, Cecil D.	1987
+Andrus, Cecil D.	1988
+Andrus, Cecil D.	1989
+Andrus, Cecil D.	1990
+Andrus, Cecil D.	1991
+Andrus, Cecil D.	1992
+Andrus, Cecil D.	1993
+Andrus, Cecil D.	1994
+Batt, Philip E.	1995
+Batt, Philip E.	1996
+Batt, Philip E.	1997
+Batt, Philip E.	1998
+Kempthorne, Dirk	1999
+Kempthorne, Dirk	2000
+Kempthorne, Dirk	2001
+Kempthorne, Dirk	2002
+Kempthorne, Dirk	2003
+Kempthorne, Dirk	2004
+Kempthorne, Dirk	2005
+Kempthorne, Dirk	2006
+Otter, C. L. "Butch"	2007
+Otter, C. L. "Butch"	2008
+Otter, C. L. "Butch"	2009
+Otter, C. L. "Butch"	2010
+Otter, C. L. "Butch"	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+	1926
+	1927
+	1928
+	1929
+	1930
+	1931
+	1932
+	1933
+	1934
+	1935
+	1936
+	1937
+	1938
+	1939
+	1940
+	1941
+	1942
+	1943
+	1944
+	1945
+	1946
+	1947
+	1948
+	1949
+	1950
+	1951
+	1952
+	1953
+	1954
+	1955
+Stratton, William G.	1956
+Stratton, William G.	1957
+Stratton, William G.	1958
+Stratton, William G.	1959
+Stratton, William G.	1960
+Kerner, Otto	1961
+Kerner, Otto	1962
+Kerner, Otto	1963
+Kerner, Otto	1964
+Kerner, Otto	1965
+Kerner, Otto	1966
+Kerner, Otto	1967
+Kerner, Otto followed by Samuel H. Shapiro	1968
+Ogilvie, Richard B.	1969
+Ogilvie, Richard B.	1970
+Ogilvie, Richard B.	1971
+Ogilvie, Richard B.	1972
+Walker, Daniel	1973
+Walker, Daniel	1974
+Walker, Daniel	1975
+Walker, Daniel	1976
+Thompson, James R.	1977
+Thompson, James R.	1978
+Thompson, James R.	1979
+Thompson, James R.	1980
+Thompson, James R.	1981
+Thompson, James R.	1982
+Thompson, James R.	1983
+Thompson, James R.	1984
+Thompson, James R.	1985
+Thompson, James R.	1986
+Thompson, James R.	1987
+Thompson, James R.	1988
+Thompson, James R.	1989
+Thompson, James R.	1990
+Edgar, Jim	1991
+Edgar, Jim	1992
+Edgar, Jim	1993
+Edgar, Jim	1994
+Edgar, Jim	1995
+Edgar, Jim	1996
+Edgar, Jim	1997
+Edgar, Jim	1998
+Ryan, George	1999
+Ryan, George	2000
+Ryan, George	2001
+Ryan, George	2002
+Blagojevich, Rod R.	2003
+Blagojevich, Rod R.	2004
+Blagojevich, Rod R.	2005
+Blagojevich, Rod R.	2006
+Blagojevich, Rod R.	2007
+Blagojevich, Rod R.	2008
+Quinn, Patrick	2009
+Quinn, Patrick	2010
+Quinn, Patrick	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+Jackson, Edward	1926
+Jackson, Edward	1927
+Jackson, Edward	1928
+Leslie, Harry G.	1929
+Leslie, Harry G.	1930
+Leslie, Harry G.	1931
+Leslie, Harry G.	1932
+McNutt, Paul V.	1933
+McNutt, Paul V.	1934
+McNutt, Paul V.	1935
+McNutt, Paul V.	1936
+Townsend, M. Clifford	1937
+Townsend, M. Clifford	1938
+Townsend, M. Clifford	1939
+Townsend, M. Clifford	1940
+Schricker, Henry F.	1941
+Schricker, Henry F.	1942
+Schricker, Henry F.	1943
+Schricker, Henry F.	1944
+Gates, Ralph F.	1945
+Gates, Ralph F.	1946
+Gates, Ralph F.	1947
+Gates, Ralph F.	1948
+Schricker, Henry F.	1949
+Schricker, Henry F.	1950
+Schricker, Henry F.	1951
+Schricker, Henry F.	1952
+Craig, George N.	1953
+Craig, George N.	1954
+Craig, George N.	1955
+Craig, George N.	1956
+Handley, Harold W.	1957
+Handley, Harold W.	1958
+Handley, Harold W.	1959
+Handley, Harold W.	1960
+Welsh, Matthew E.	1961
+Welsh, Matthew E.	1962
+Welsh, Matthew E.	1963
+Welsh, Matthew E.	1964
+Branigin, Roger D.	1965
+Branigin, Roger D.	1966
+Branigin, Roger D.	1967
+Branigin, Roger D.	1968
+Whitcomb, Edgar E.	1969
+Whitcomb, Edgar E.	1970
+Whitcomb, Edgar E.	1971
+Whitcomb, Edgar E.	1972
+Bowen, Otis R.	1973
+Bowen, Otis R.	1974
+Bowen, Otis R.	1975
+Bowen, Otis R.	1976
+Bowen, Otis R.	1977
+Bowen, Otis R.	1978
+Bowen, Otis R.	1979
+Bowen, Otis R.	1980
+Orr, Robert D.	1981
+Orr, Robert D.	1982
+Orr, Robert D.	1983
+Orr, Robert D.	1984
+Orr, Robert D.	1985
+Orr, Robert D.	1986
+Orr, Robert D.	1987
+Orr, Robert D.	1988
+Bayh, Evan	1989
+Bayh, Evan	1990
+Bayh, Evan	1991
+Bayh, Evan	1992
+Bayh, Evan	1993
+Bayh, Evan	1994
+Bayh, Evan	1995
+Bayh, Evan	1996
+O'Bannon, Frank L.	1997
+O'Bannon, Frank L.	1998
+O'Bannon, Frank L.	1999
+O'Bannon, Frank L.	2000
+O'Bannon, Frank L.	2001
+O'Bannon, Frank L.	2002
+Split: Frank L. O'Bannon-D and Joseph E. Kernan-D	2003
+Kernan, Joseph E.	2004
+Daniels, Mitchell E.	2005
+Daniels, Mitchell E.	2006
+Daniels, Mitch	2007
+Daniels, Mitch	2008
+Daniels, Mitch	2009
+Daniels, Mitch	2010
+Daniels, Mitch	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+	1926
+	1927
+	1928
+	1929
+	1930
+	1931
+	1932
+	1933
+	1934
+	1935
+	1936
+	1937
+	1938
+	1939
+	1940
+	1941
+	1942
+	1943
+	1944
+	1945
+	1946
+	1947
+	1948
+	1949
+	1950
+	1951
+	1952
+	1953
+	1954
+	1955
+Hoegh, Leo Arthur	1956
+Loveless, Herschel C.	1957
+Loveless, Herschel C.	1958
+Loveless, Herschel C.	1959
+Loveless, Herschel C.	1960
+Erbe, Norman A.	1961
+Erbe, Norman A.	1962
+Hughes, Harold E.	1963
+Hughes, Harold E.	1964
+Hughes, Harold E.	1965
+Hughes, Harold E.	1966
+Hughes, Harold E.	1967
+Hughes, Harold E.	1968
+Ray, Robert D.	1969
+Ray, Robert D.	1970
+Ray, Robert D.	1971
+Ray, Robert D.	1972
+Ray, Robert D.	1973
+Ray, Robert D.	1974
+Ray, Robert D.	1975
+Ray, Robert D.	1976
+Ray, Robert D.	1977
+Ray, Robert D.	1978
+Ray, Robert D.	1979
+Ray, Robert D.	1980
+Ray, Robert D.	1981
+Ray, Robert D.	1982
+Branstad, Terry E.	1983
+Branstad, Terry E.	1984
+Branstad, Terry E.	1985
+Branstad, Terry E.	1986
+Branstad, Terry E.	1987
+Branstad, Terry E.	1988
+Branstad, Terry E.	1989
+Branstad, Terry E.	1990
+Branstad, Terry E.	1991
+Branstad, Terry E.	1992
+Branstad, Terry E.	1993
+Branstad, Terry E.	1994
+Branstad, Terry E.	1995
+Branstad, Terry E.	1996
+Branstad, Terry E.	1997
+Branstad, Terry E.	1998
+Vilsack, Tom	1999
+Vilsack, Tom	2000
+Vilsack, Tom	2001
+Vilsack, Tom	2002
+Vilsack, Tom	2003
+Vilsack, Tom	2004
+Vilsack, Tom	2005
+Vilsack, Tom	2006
+Culver, Chet	2007
+Culver, Chet	2008
+Culver, Chet	2009
+Culver, Chet	2010
+Branstad, Terry E.	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+	1926
+	1927
+	1928
+	1929
+	1930
+	1931
+	1932
+	1933
+	1934
+	1935
+	1936
+	1937
+	1938
+	1939
+	1940
+	1941
+	1942
+	1943
+	1944
+	1945
+	1946
+	1947
+	1948
+	1949
+	1950
+	1951
+	1952
+	1953
+	1954
+	1955
+Hall, Frederick L.	1956
+Docking, George	1957
+Docking, George	1958
+Docking, George	1959
+Docking, George	1960
+Anderson, John Jr.	1961
+Anderson, John Jr.	1962
+Anderson, John Jr.	1963
+Anderson, John Jr.	1964
+Avery, William H.	1965
+Avery, William H.	1966
+Docking, Robert B.	1967
+Docking, Robert B.	1968
+Docking, Robert B.	1969
+Docking, Robert B.	1970
+Docking, Robert B.	1971
+Docking, Robert B.	1972
+Docking, Robert B.	1973
+Docking, Robert B.	1974
+Bennett, Robert F.	1975
+Bennett, Robert F.	1976
+Bennett, Robert F.	1977
+Bennett, Robert F.	1978
+Carlin, John	1979
+Carlin, John	1980
+Carlin, John	1981
+Carlin, John	1982
+Carlin, John	1983
+Carlin, John	1984
+Carlin, John	1985
+Carlin, John	1986
+Hayden, Mike	1987
+Hayden, Mike	1988
+Hayden, Mike	1989
+Hayden, Mike	1990
+Finney, Joan	1991
+Finney, Joan	1992
+Finney, Joan	1993
+Finney, Joan	1994
+Graves, Bill	1995
+Graves, Bill	1996
+Graves, Bill	1997
+Graves, Bill	1998
+Graves, Bill	1999
+Graves, Bill	2000
+Graves, Bill	2001
+Graves, Bill	2002
+Sebelius, Kathleen	2003
+Sebelius, Kathleen	2004
+Sebelius, Kathleen	2005
+Sebelius, Kathleen	2006
+Sebelius, Kathleen	2007
+Sebelius, Kathleen	2008
+Parkinson, Mark	2009
+Parkinson, Mark	2010
+Brownback, Sam	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+Fields, William J.	1926
+Fields, William J.	1927
+Sampson, Flem D.	1928
+Sampson, Flem D.	1929
+Sampson, Flem D.	1930
+Sampson, Flem D.	1931
+Lafoon, Ruby	1932
+Lafoon, Ruby	1933
+Lafoon, Ruby	1934
+Lafoon, Ruby	1935
+Chandler, Albert "Happy"	1936
+Chandler, Albert "Happy"	1937
+Chandler, Albert "Happy"	1938
+Chandler, Albert "Happy"	1939
+Johnson, Keen	1940
+Johnson, Keen	1941
+Johnson, Keen	1942
+Johnson, Keen	1943
+Willis, Simeon S.	1944
+Willis, Simeon S.	1945
+Willis, Simeon S.	1946
+Willis, Simeon S.	1947
+Clements, Earle C.	1948
+Clements, Earle C.	1949
+Clements, Earle C.	1950
+Wetherby, Lawrence W.	1951
+Wetherby, Lawrence W.	1952
+Wetherby, Lawrence W.	1953
+Wetherby, Lawrence W.	1954
+Wetherby, Lawrence W.	1955
+Chandler, Albert B. (Happy)	1956
+Chandler, Albert B. (Happy)	1957
+Chandler, Albert B. (Happy)	1958
+Chandler, Albert B. (Happy)	1959
+Combs, Bert T.	1960
+Combs, Bert T.	1961
+Combs, Bert T.	1962
+Combs, Bert T.	1963
+Breathitt, Edward T.	1964
+Breathitt, Edward T.	1965
+Breathitt, Edward T.	1966
+Breathitt, Edward T.	1967
+Nunn, Louie B.	1968
+Nunn, Louie B.	1969
+Nunn, Louie B.	1970
+Nunn, Louie B.	1971
+Ford, Wendell H.	1972
+Ford, Wendell H.	1973
+Ford, Wendell H.	1974
+Caroll, Julian	1975
+Caroll, Julian	1976
+Caroll, Julian	1977
+Caroll, Julian	1978
+Caroll, Julian	1979
+Brown, John Y. Jr.	1980
+Brown, John Y. Jr.	1981
+Brown, John Y. Jr.	1982
+Brown, John Y. Jr.	1983
+Collins, Martha Layne	1984
+Collins, Martha Layne	1985
+Collins, Martha Layne	1986
+Collins, Martha Layne	1987
+Wilkinson, Wallace G.	1988
+Wilkinson, Wallace G.	1989
+Wilkinson, Wallace G.	1990
+Wilkinson, Wallace G.	1991
+Jones, Brereton C.	1992
+Jones, Brereton C.	1993
+Jones, Brereton C.	1994
+Jones, Brereton C.	1995
+Patton, Paul E.	1996
+Patton, Paul E.	1997
+Patton, Paul E.	1998
+Patton, Paul E.	1999
+Patton, Paul E.	2000
+Patton, Paul E.	2001
+Patton, Paul E.	2002
+Patton, Paul E.	2003
+Fletcher, Ernie	2004
+Fletcher, Ernie	2005
+Fletcher, Ernie	2006
+Fletcher, Ernie	2007
+Beshear, Steven L.	2008
+Beshear, Steven L.	2009
+Beshear, Steven L.	2010
+Beshear, Steven L.	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+	1926
+Simpson, Oramel H.	1927
+Long, Huey P.	1928
+Long, Huey P.	1929
+Long, Huey P.	1930
+Long, Huey P.	1931
+Allen, Oscar K.	1932
+Allen, Oscar K.	1933
+Allen, Oscar K.	1934
+Allen, Oscar K.	1935
+Leche, Richard W.	1936
+Leche, Richard W.	1937
+Leche, Richard W.	1938
+	1939
+	1940
+Jones, Sam H.	1941
+Jones, Sam H.	1942
+Jones, Sam H.	1943
+	1944
+Davis, James H.	1945
+Davis, James H.	1946
+Davis, James H.	1947
+	1948
+Long, Earl K.	1949
+Long, Earl K.	1950
+Long, Earl K.	1951
+	1952
+Kennon, Robert F.	1953
+Kennon, Robert F.	1954
+Kennon, Robert F.	1955
+Long, Earl K.	1956
+Long, Earl K.	1957
+Long, Earl K.	1958
+Long, Earl K.	1959
+Davis, James H.	1960
+Davis, James H.	1961
+Davis, James H.	1962
+Davis, James H.	1963
+McKeithen, John J.	1964
+McKeithen, John J.	1965
+McKeithen, John J.	1966
+McKeithen, John J.	1967
+McKeithen, John J.	1968
+McKeithen, John J.	1969
+McKeithen, John J.	1970
+McKeithen, John J.	1971
+Edwards, Edwin W.	1972
+Edwards, Edwin W.	1973
+Edwards, Edwin W.	1974
+Edwards, Edwin W.	1975
+Edwards, Edwin W.	1976
+Edwards, Edwin W.	1977
+Edwards, Edwin W.	1978
+Edwards, Edwin W.	1979
+Treen, David C.	1980
+Treen, David C.	1981
+Treen, David C.	1982
+Treen, David C.	1983
+Edwards, Edwin W.	1984
+Edwards, Edwin W.	1985
+Edwards, Edwin W.	1986
+Edwards, Edwin W.	1987
+Roemer, Charles	1988
+Roemer, Charles	1989
+Roemer, Charles	1990
+Roemer, Charles	1991
+Edwards, Edwin W.	1992
+Edwards, Edwin W.	1993
+Edwards, Edwin W.	1994
+Edwards, Edwin W.	1995
+Foster, Mike	1996
+Foster, Mike	1997
+Foster, Mike	1998
+Foster, Mike	1999
+Foster, Mike	2000
+Foster, Mike	2001
+Foster, Mike	2002
+Foster, Mike	2003
+Blanco, Kathleen Babineaux	2004
+Blanco, Kathleen Babineaux	2005
+Blanco, Kathleen Babineaux	2006
+Blanco, Kathleen Babineaux	2007
+Jindal, Bobby	2008
+Jindal, Bobby	2009
+Jindal, Bobby	2010
+Jindal, Bobby	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+Brewster, Ralph O.	1926
+Brewster, Ralph O.	1927
+Brewster, Ralph O.	1928
+Gardiner, William T.	1929
+Gardiner, William T.	1930
+Gardiner, William T.	1931
+Gardiner, William T.	1932
+Brann, Louis J.	1933
+Brann, Louis J.	1934
+Brann, Louis J.	1935
+Brann, Louis J.	1936
+Barrows, Lewis O.	1937
+Barrows, Lewis O.	1938
+Barrows, Lewis O.	1939
+Barrows, Lewis O.	1940
+Sewall, Sumner	1941
+Sewall, Sumner	1942
+Sewall, Sumner	1943
+Sewall, Sumner	1944
+Hildreth, Horace A.	1945
+Hildreth, Horace A.	1946
+Hildreth, Horace A.	1947
+Hildreth, Horace A.	1948
+Payne, Frederick G.	1949
+Payne, Frederick G.	1950
+Payne, Frederick G.	1951
+Payne, Frederick G.	1952
+Cross, Burton M.	1953
+Cross, Burton M.	1954
+Muskie, Edmund S.	1955
+Muskie, Edmund S.	1956
+Muskie, Edmund S.	1957
+Muskie, Edmund S.	1958
+Clauson, Clinton A.	1959
+Reed, John H.	1960
+Reed, John H.	1961
+Reed, John H.	1962
+Reed, John H.	1963
+Reed, John H.	1964
+Reed, John H.	1965
+Reed, John H.	1966
+Curtis, Kenneth M.	1967
+Curtis, Kenneth M.	1968
+Curtis, Kenneth M.	1969
+Curtis, Kenneth M.	1970
+Curtis, Kenneth M.	1971
+Curtis, Kenneth M.	1972
+Curtis, Kenneth M.	1973
+Curtis, Kenneth M.	1974
+Longley, James B.	1975
+Longley, James B.	1976
+Longley, James B.	1977
+Longley, James B.	1978
+Brennan, Joseph E.	1979
+Brennan, Joseph E.	1980
+Brennan, Joseph E.	1981
+Brennan, Joseph E.	1982
+Brennan, Joseph E.	1983
+Brennan, Joseph E.	1984
+Brennan, Joseph E.	1985
+Brennan, Joseph E.	1986
+McKernan, John R. Jr.	1987
+McKernan, John R. Jr.	1988
+McKernan, John R. Jr.	1989
+McKernan, John R. Jr.	1990
+McKernan, John R. Jr.	1991
+McKernan, John R. Jr.	1992
+McKernan, John R. Jr.	1993
+McKernan, John R. Jr.	1994
+King, Angus Jr.	1995
+King, Angus Jr.	1996
+King, Angus Jr.	1997
+King, Angus Jr.	1998
+King, Angus Jr.	1999
+King, Angus Jr.	2000
+King, Angus Jr.	2001
+King, Angus Jr.	2002
+Baldacci, John	2003
+Baldacci, John	2004
+Baldacci, John	2005
+Baldacci, John	2006
+Baldacci, John	2007
+Baldacci, John	2008
+Baldacci, John	2009
+Baldacci, John	2010
+LePage, Paul	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+Ritchie, Albert C.	1926
+Ritchie, Albert C.	1927
+Ritchie, Albert C.	1928
+Ritchie, Albert C.	1929
+Ritchie, Albert C.	1930
+Ritchie, Albert C.	1931
+Ritchie, Albert C.	1932
+Ritchie, Albert C.	1933
+Ritchie, Albert C.	1934
+Nice, Harry W.	1935
+Nice, Harry W.	1936
+Nice, Harry W.	1937
+Nice, Harry W.	1938
+O'Conor, Herbert R.	1939
+O'Conor, Herbert R.	1940
+O'Conor, Herbert R.	1941
+O'Conor, Herbert R.	1942
+O'Conor, Herbert R.	1943
+O'Conor, Herbert R.	1944
+O'Conor, Herbert R.	1945
+O'Conor, Herbert R.	1946
+Lane, William P. Jr.	1947
+Lane, William P. Jr.	1948
+Lane, William P. Jr.	1949
+Lane, William P. Jr.	1950
+McKeldin, Theodore R.	1951
+McKeldin, Theodore R.	1952
+McKeldin, Theodore R.	1953
+McKeldin, Theodore R.	1954
+McKeldin, Theodore R.	1955
+McKeldin, Theodore R.	1956
+McKeldin, Theodore R.	1957
+McKeldin, Theodore R.	1958
+Tawes, J. Millard	1959
+Tawes, J. Millard	1960
+Tawes, J. Millard	1961
+Tawes, J. Millard	1962
+Tawes, J. Millard	1963
+Tawes, J. Millard	1964
+Tawes, J. Millard	1965
+Tawes, J. Millard	1966
+Agnew, Spiro T.	1967
+Agnew, Spiro T.	1968
+Mandel, Marvin	1969
+Mandel, Marvin	1970
+Mandel, Marvin	1971
+Mandel, Marvin	1972
+Mandel, Marvin	1973
+Mandel, Marvin	1974
+Mandel, Marvin	1975
+Mandel, Marvin	1976
+Mandel, Marvin and then Blair Lee	1977
+Lee, Blair	1978
+Hughes, Harry	1979
+Hughes, Harry	1980
+Hughes, Harry	1981
+Hughes, Harry	1982
+Hughes, Harry	1983
+Hughes, Harry	1984
+Hughes, Harry	1985
+Hughes, Harry	1986
+Schaefer, William D.	1987
+Schaefer, William D.	1988
+Schaefer, William D.	1989
+Schaefer, William D.	1990
+Schaefer, William D.	1991
+Schaefer, William D.	1992
+Schaefer, William D.	1993
+Schaefer, William D.	1994
+Glendening, Parris N.	1995
+Glendening, Parris N.	1996
+Glendening, Parris N.	1997
+Glendening, Parris N.	1998
+Glendening, Parris N.	1999
+Glendening, Parris N.	2000
+Glendening, Parris N.	2001
+Glendening, Parris N.	2002
+Ehrlich, Robert L. Jr.	2003
+Ehrlich, Robert L. Jr.	2004
+Ehrlich, Robert L. Jr.	2005
+Ehrlich, Robert L. Jr.	2006
+O'Malley, Martin	2007
+O'Malley, Martin	2008
+O'Malley, Martin	2009
+O'Malley, Martin	2010
+O'Malley, Martin	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+	1926
+	1927
+	1928
+	1929
+	1930
+	1931
+	1932
+	1933
+	1934
+	1935
+	1936
+	1937
+	1938
+	1939
+	1940
+	1941
+	1942
+	1943
+	1944
+	1945
+	1946
+	1947
+	1948
+	1949
+	1950
+	1951
+	1952
+	1953
+	1954
+	1955
+Herter, Christian A.	1956
+Furcolo, Foster J.	1957
+Furcolo, Foster J.	1958
+Furcolo, Foster J.	1959
+Furcolo, Foster J.	1960
+Volpe, John A.	1961
+Volpe, John A.	1962
+Peabody, Endicott	1963
+Peabody, Endicott	1964
+Volpe, John A.	1965
+Volpe, John A.	1966
+Volpe, John A.	1967
+Volpe, John A.	1968
+Sargent, Francis W.	1969
+Sargent, Francis W.	1970
+Sargent, Francis W.	1971
+Sargent, Francis W.	1972
+Sargent, Francis W.	1973
+Sargent, Francis W.	1974
+Dukakis, Michael S.	1975
+Dukakis, Michael S.	1976
+Dukakis, Michael S.	1977
+Dukakis, Michael S.	1978
+King, Edward J.	1979
+King, Edward J.	1980
+King, Edward J.	1981
+King, Edward J.	1982
+Dukakis, Michael S.	1983
+Dukakis, Michael S.	1984
+Dukakis, Michael S.	1985
+Dukakis, Michael S.	1986
+Dukakis, Michael S.	1987
+Dukakis, Michael S.	1988
+Dukakis, Michael S.	1989
+Dukakis, Michael S.	1990
+Weld, William F.	1991
+Weld, William F.	1992
+Weld, William F.	1993
+Weld, William F.	1994
+Weld, William F.	1995
+Weld, William F.	1996
+Switch; Weld then Argeo Paul Cellucci-R	1997
+Cellucci, Argeo Paul	1998
+Cellucci, Argeo Paul	1999
+Cellucci, Argeo Paul	2000
+Switch; Paul Cellucci then Swift	2001
+Swift, Jane	2002
+Romney, Mitt	2003
+Romney, Mitt	2004
+Romney, Mitt	2005
+Romney, Mitt	2006
+Patrick, Deval L.	2007
+Patrick, Deval L.	2008
+Patrick, Deval L.	2009
+Patrick, Deval L.	2010
+Patrick, Deval L.	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+	1926
+	1927
+	1928
+	1929
+	1930
+	1931
+	1932
+	1933
+	1934
+	1935
+	1936
+	1937
+	1938
+	1939
+	1940
+	1941
+	1942
+	1943
+	1944
+	1945
+	1946
+	1947
+	1948
+	1949
+	1950
+	1951
+	1952
+	1953
+	1954
+	1955
+Williams, G. Mennen	1956
+Williams, G. Mennen	1957
+Williams, G. Mennen	1958
+Williams, G. Mennen	1959
+Williams, G. Mennen	1960
+Swainson, John B.	1961
+Swainson, John B.	1962
+Romney, George W.	1963
+Romney, George W.	1964
+Romney, George W.	1965
+Romney, George W.	1966
+Romney, George W.	1967
+Romney, George W.	1968
+Milliken, William G.	1969
+Milliken, William G.	1970
+Milliken, William G.	1971
+Milliken, William G.	1972
+Milliken, William G.	1973
+Milliken, William G.	1974
+Milliken, William G.	1975
+Milliken, William G.	1976
+Milliken, William G.	1977
+Milliken, William G.	1978
+Milliken, William G.	1979
+Milliken, William G.	1980
+Milliken, William G.	1981
+Milliken, William G.	1982
+Blanchard, James J.	1983
+Blanchard, James J.	1984
+Blanchard, James J.	1985
+Blanchard, James J.	1986
+Blanchard, James J.	1987
+Blanchard, James J.	1988
+Blanchard, James J.	1989
+Blanchard, James J.	1990
+Engler, John	1991
+Engler, John	1992
+Engler, John	1993
+Engler, John	1994
+Engler, John	1995
+Engler, John	1996
+Engler, John	1997
+Engler, John	1998
+Engler, John	1999
+Engler, John	2000
+Engler, John	2001
+Engler, John	2002
+Granholm, Jennifer	2003
+Granholm, Jennifer	2004
+Granholm, Jennifer	2005
+Granholm, Jennifer	2006
+Granholm, Jennifer	2007
+Granholm, Jennifer	2008
+Granholm, Jennifer	2009
+Granholm, Jennifer	2010
+Snyder, Rick	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+	1926
+	1927
+	1928
+	1929
+	1930
+	1931
+	1932
+	1933
+	1934
+	1935
+	1936
+	1937
+	1938
+	1939
+	1940
+	1941
+	1942
+	1943
+	1944
+	1945
+	1946
+	1947
+	1948
+	1949
+	1950
+	1951
+	1952
+	1953
+	1954
+	1955
+Freeman, Orville L.	1956
+Freeman, Orville L.	1957
+Freeman, Orville L.	1958
+Freeman, Orville L.	1959
+Freeman, Orville L.	1960
+Andersen, Elmer L.	1961
+Andersen, Elmer L.	1962
+Andersen, Elmer L. followed by Karl F. Rolvaag	1963
+Rolvaag, Karl F.	1964
+Rolvaag, Karl F.	1965
+Rolvaag, Karl F.	1966
+LeVander, Harold	1967
+LeVander, Harold	1968
+LeVander, Harold	1969
+LeVander, Harold	1970
+Anderson, Wendell R.	1971
+Anderson, Wendell R.	1972
+Anderson, Wendell R.	1973
+Anderson, Wendell R.	1974
+Anderson, Wendell R.	1975
+Anderson, Wendell R.	1976
+Perpich, Rudy	1977
+Perpich, Rudy	1978
+Quie, Albert H.	1979
+Quie, Albert H.	1980
+Quie, Albert H.	1981
+Quie, Albert H.	1982
+Perpich, Rudy	1983
+Perpich, Rudy	1984
+Perpich, Rudy	1985
+Perpich, Rudy	1986
+Perpich, Rudy	1987
+Perpich, Rudy	1988
+Perpich, Rudy	1989
+Perpich, Rudy	1990
+Carlson, Arne H.	1991
+Carlson, Arne H.	1992
+Carlson, Arne H.	1993
+Carlson, Arne H.	1994
+Carlson, Arne H.	1995
+Carlson, Arne H.	1996
+Carlson, Arne H.	1997
+Carlson, Arne H.	1998
+Ventura, Jesse	1999
+Ventura, Jesse	2000
+Ventura, Jesse	2001
+Ventura, Jesse	2002
+Pawlenty, Tim	2003
+Pawlenty, Tim	2004
+Pawlenty, Tim	2005
+Pawlenty, Tim	2006
+Pawlenty, Tim	2007
+Pawlenty, Tim	2008
+Pawlenty, Tim	2009
+Pawlenty, Tim	2010
+Dayton, Mark	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+Whitfield, Henry Lewis	1926
+	1927
+Bilbo, Theodore Gilmore	1928
+Bilbo, Theodore Gilmore	1929
+Bilbo, Theodore Gilmore	1930
+Bilbo, Theodore Gilmore	1931
+Conner, Martin Sennett	1932
+Conner, Martin Sennett	1933
+Conner, Martin Sennett	1934
+Conner, Martin Sennett	1935
+White, Hugh L.	1936
+White, Hugh L.	1937
+White, Hugh L.	1938
+White, Hugh L.	1939
+Johnson, Paul B.	1940
+Johnson, Paul B.	1941
+Johnson, Paul B.	1942
+Johnson, Paul B.	1943
+Bailey, Thomas L.	1944
+Bailey, Thomas L.	1945
+Bailey, Thomas L.	1946
+Wright, Fielding L.	1947
+Wright, Fielding L.	1948
+Wright, Fielding L.	1949
+Wright, Fielding L.	1950
+Wright, Fielding L.	1951
+White, Hugh L.	1952
+White, Hugh L.	1953
+White, Hugh L.	1954
+White, Hugh L.	1955
+Coleman, J.P.	1956
+Coleman, J.P.	1957
+Coleman, J.P.	1958
+Coleman, J.P.	1959
+Barnett, Rose R.	1960
+Barnett, Rose R.	1961
+Barnett, Rose R.	1962
+Barnett, Rose R.	1963
+Johnson, Paul B. Jr.	1964
+Johnson, Paul B. Jr.	1965
+Johnson, Paul B. Jr.	1966
+Johnson, Paul B. Jr.	1967
+Williams, John Bell	1968
+Williams, John Bell	1969
+Williams, John Bell	1970
+Williams, John Bell	1971
+Waller, William Lowe	1972
+Waller, William Lowe	1973
+Waller, William Lowe	1974
+Waller, William Lowe	1975
+Finch, Cliff	1976
+Finch, Cliff	1977
+Finch, Cliff	1978
+Finch, Cliff	1979
+Winter, William	1980
+Winter, William	1981
+Winter, William	1982
+Winter, William	1983
+Allain, Bill	1984
+Allain, Bill	1985
+Allain, Bill	1986
+Allain, Bill	1987
+Mabus, Ray	1988
+Mabus, Ray	1989
+Mabus, Ray	1990
+Mabus, Ray	1991
+Fordice, Kirk	1992
+Fordice, Kirk	1993
+Fordice, Kirk	1994
+Fordice, Kirk	1995
+Fordice, Kirk	1996
+Fordice, Kirk	1997
+Fordice, Kirk	1998
+Fordice, Kirk	1999
+Musgrove, Ronnie	2000
+Musgrove, Ronnie	2001
+Musgrove, Ronnie	2002
+Musgrove, Ronnie	2003
+Barbour, Haley	2004
+Barbour, Haley	2005
+Barbour, Haley	2006
+Barbour, Haley	2007
+Barbour, Haley	2008
+Barbour, Haley	2009
+Barbour, Haley	2010
+Barbour, Haley	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+Baker, Samuel A.	1926
+Baker, Samuel A.	1927
+Baker, Samuel A.	1928
+Caulfield, Henry S.	1929
+Caulfield, Henry S.	1930
+Caulfield, Henry S.	1931
+Caulfield, Henry S.	1932
+Park, Guy B.	1933
+Park, Guy B.	1934
+Park, Guy B.	1935
+Park, Guy B.	1936
+Stark, Lloyd C.	1937
+Stark, Lloyd C.	1938
+Stark, Lloyd C.	1939
+Stark, Lloyd C.	1940
+Donnell, Forrest C.	1941
+Donnell, Forrest C.	1942
+Donnell, Forrest C.	1943
+Donnell, Forrest C.	1944
+Donnelly, Phil M.	1945
+Donnelly, Phil M.	1946
+Donnelly, Phil M.	1947
+Donnelly, Phil M.	1948
+Smith, Forrest	1949
+Smith, Forrest	1950
+Smith, Forrest	1951
+Smith, Forrest	1952
+Donnelly, Phil M.	1953
+Donnelly, Phil M.	1954
+Donnelly, Phil M.	1955
+Donnelly, Phil M.	1956
+Blair, Jame T. Jr.	1957
+Blair, Jame T. Jr.	1958
+Blair, Jame T. Jr.	1959
+Blair, Jame T. Jr.	1960
+Dalton, John M.	1961
+Dalton, John M.	1962
+Dalton, John M.	1963
+Dalton, John M.	1964
+Hearnes, Warren E.	1965
+Hearnes, Warren E.	1966
+Hearnes, Warren E.	1967
+Hearnes, Warren E.	1968
+Hearnes, Warren E.	1969
+Hearnes, Warren E.	1970
+Hearnes, Warren E.	1971
+Hearnes, Warren E.	1972
+Bond, Christopher S.	1973
+Bond, Christopher S.	1974
+Bond, Christopher S.	1975
+Bond, Christopher S.	1976
+Teasdale, Joseph P.	1977
+Teasdale, Joseph P.	1978
+Teasdale, Joseph P.	1979
+Teasdale, Joseph P.	1980
+Bond, Christopher S.	1981
+Bond, Christopher S.	1982
+Bond, Christopher S.	1983
+Bond, Christopher S.	1984
+Ashcroft, John	1985
+Ashcroft, John	1986
+Ashcroft, John	1987
+Ashcroft, John	1988
+Ashcroft, John	1989
+Ashcroft, John	1990
+Ashcroft, John	1991
+Ashcroft, John	1992
+Carnahan, Mel E.	1993
+Carnahan, Mel E.	1994
+Carnahan, Mel E.	1995
+Carnahan, Mel E.	1996
+Carnahan, Mel E.	1997
+Carnahan, Mel E.	1998
+Carnahan, Mel E.	1999
+Split: Mel Carnahan-D and Roger B. Wilson-D	2000
+Holden, Bob	2001
+Holden, Bob	2002
+Holden, Bob	2003
+Holden, Bob	2004
+Blunt, Matt	2005
+Blunt, Matt	2006
+Blunt, Matt	2007
+Blunt, Matt	2008
+Nixon, Jay	2009
+Nixon, Jay	2010
+Nixon, Jay	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+	1926
+	1927
+	1928
+	1929
+	1930
+	1931
+	1932
+	1933
+	1934
+	1935
+	1936
+	1937
+	1938
+	1939
+	1940
+	1941
+	1942
+	1943
+	1944
+	1945
+	1946
+	1947
+	1948
+	1949
+	1950
+	1951
+	1952
+	1953
+	1954
+	1955
+Aronson, J. Hugo	1956
+Aronson, J. Hugo	1957
+Aronson, J. Hugo	1958
+Aronson, J. Hugo	1959
+Aronson, J. Hugo	1960
+Nutter, Donald G.	1961
+Babcock, Tim M.	1962
+Babcock, Tim M.	1963
+Babcock, Tim M.	1964
+Babcock, Tim M.	1965
+Babcock, Tim M.	1966
+Babcock, Tim M.	1967
+Babcock, Tim M.	1968
+Anderson, Forrest H.	1969
+Anderson, Forrest H.	1970
+Anderson, Forrest H.	1971
+Anderson, Forrest H.	1972
+Judge, Thomas L.	1973
+Judge, Thomas L.	1974
+Judge, Thomas L.	1975
+Judge, Thomas L.	1976
+Judge, Thomas L.	1977
+Judge, Thomas L.	1978
+Judge, Thomas L.	1979
+Judge, Thomas L.	1980
+Schwinden, Ted	1981
+Schwinden, Ted	1982
+Schwinden, Ted	1983
+Schwinden, Ted	1984
+Schwinden, Ted	1985
+Schwinden, Ted	1986
+Schwinden, Ted	1987
+Schwinden, Ted	1988
+Stephens, Stan	1989
+Stephens, Stan	1990
+Stephens, Stan	1991
+Stephens, Stan	1992
+Racicot, Marc F.	1993
+Racicot, Marc F.	1994
+Racicot, Marc F.	1995
+Racicot, Marc F.	1996
+Racicot, Marc F.	1997
+Racicot, Marc F.	1998
+Racicot, Marc F.	1999
+Racicot, Marc F.	2000
+Martz, Judy	2001
+Martz, Judy	2002
+Martz, Judy	2003
+Martz, Judy	2004
+Schweitzer, Brian	2005
+Schweitzer, Brian	2006
+Schweitzer, Brian	2007
+Schweitzer, Brian	2008
+Schweitzer, Brian	2009
+Schweitzer, Brian	2010
+Schweitzer, Brian	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+	1926
+	1927
+	1928
+	1929
+	1930
+	1931
+	1932
+	1933
+	1934
+	1935
+	1936
+	1937
+	1938
+	1939
+	1940
+	1941
+	1942
+	1943
+	1944
+	1945
+	1946
+	1947
+	1948
+	1949
+	1950
+	1951
+	1952
+	1953
+	1954
+	1955
+Anderson, Victor E.	1956
+Anderson, Victor E.	1957
+Anderson, Victor E.	1958
+Brooks, Ralph G.	1959
+Brooks, Ralph G. then Dwight W. Burney	1960
+Morrison, Frank B.	1961
+Morrison, Frank B.	1962
+Morrison, Frank B.	1963
+Morrison, Frank B.	1964
+Morrison, Frank B.	1965
+Morrison, Frank B.	1966
+Teimann, Norbert T.	1967
+Teimann, Norbert T.	1968
+Teimann, Norbert T.	1969
+Teimann, Norbert T.	1970
+Exon, J. James	1971
+Exon, J. James	1972
+Exon, J. James	1973
+Exon, J. James	1974
+Exon, J. James	1975
+Exon, J. James	1976
+Exon, J. James	1977
+Exon, J. James	1978
+Thone, Charles	1979
+Thone, Charles	1980
+Thone, Charles	1981
+Thone, Charles	1982
+Kerrey, Bob	1983
+Kerrey, Bob	1984
+Kerrey, Bob	1985
+Kerrey, Bob	1986
+Orr, Kay A.	1987
+Orr, Kay A.	1988
+Orr, Kay A.	1989
+Orr, Kay A.	1990
+Nelson, Earl "Ben"	1991
+Nelson, Earl "Ben"	1992
+Nelson, Earl "Ben"	1993
+Nelson, Earl "Ben"	1994
+Nelson, Earl "Ben"	1995
+Nelson, Earl "Ben"	1996
+Nelson, Earl "Ben"	1997
+Nelson, Earl "Ben"	1998
+Johanns, Mike	1999
+Johanns, Mike	2000
+Johanns, Mike	2001
+Johanns, Mike	2002
+Johanns, Mike	2003
+Johanns, Mike	2004
+Heineman, Dave	2005
+Heineman, Dave	2006
+Heineman, Dave	2007
+Heineman, Dave	2008
+Heineman, Dave	2009
+Heineman, Dave	2010
+Heineman, Dave	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+	1926
+	1927
+	1928
+	1929
+	1930
+	1931
+	1932
+	1933
+	1934
+	1935
+	1936
+	1937
+	1938
+	1939
+	1940
+	1941
+	1942
+	1943
+	1944
+	1945
+	1946
+	1947
+	1948
+	1949
+	1950
+	1951
+	1952
+	1953
+	1954
+	1955
+Russell, Charles H.	1956
+Russell, Charles H.	1957
+Russell, Charles H.	1958
+Sawyer, Grant	1959
+Sawyer, Grant	1960
+Sawyer, Grant	1961
+Sawyer, Grant	1962
+Sawyer, Grant	1963
+Sawyer, Grant	1964
+Sawyer, Grant	1965
+Sawyer, Grant	1966
+Laxalt, Paul D.	1967
+Laxalt, Paul D.	1968
+Laxalt, Paul D.	1969
+Laxalt, Paul D.	1970
+O'Callaghan, Mike	1971
+O'Callaghan, Mike	1972
+O'Callaghan, Mike	1973
+O'Callaghan, Mike	1974
+O'Callaghan, Mike	1975
+O'Callaghan, Mike	1976
+O'Callaghan, Mike	1977
+O'Callaghan, Mike	1978
+List, Robert F.	1979
+List, Robert F.	1980
+List, Robert F.	1981
+List, Robert F.	1982
+Bryan, Richard H.	1983
+Bryan, Richard H.	1984
+Bryan, Richard H.	1985
+Bryan, Richard H.	1986
+Bryan, Richard H.	1987
+Bryan, Richard H.	1988
+Miller, Bob J.	1989
+Miller, Bob J.	1990
+Miller, Bob J.	1991
+Miller, Bob J.	1992
+Miller, Bob J.	1993
+Miller, Bob J.	1994
+Miller, Bob J.	1995
+Miller, Bob J.	1996
+Miller, Bob J.	1997
+Miller, Bob J.	1998
+Guinn, Kenny	1999
+Guinn, Kenny	2000
+Guinn, Kenny	2001
+Guinn, Kenny	2002
+Guinn, Kenny	2003
+Guinn, Kenny	2004
+Guinn, Kenny	2005
+Guinn, Kenny	2006
+Gibbons, James A.	2007
+Gibbons, James A.	2008
+Gibbons, James A.	2009
+Gibbons, James A.	2010
+Sandoval, Brian	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+	1926
+	1927
+	1928
+	1929
+	1930
+	1931
+	1932
+	1933
+	1934
+	1935
+	1936
+	1937
+	1938
+	1939
+	1940
+	1941
+	1942
+	1943
+	1944
+	1945
+	1946
+	1947
+	1948
+	1949
+	1950
+	1951
+	1952
+	1953
+	1954
+	1955
+Dwinell, Lane	1956
+Dwinell, Lane	1957
+Dwinell, Lane	1958
+Powell, Wesley	1959
+Powell, Wesley	1960
+Powell, Wesley	1961
+Powell, Wesley	1962
+King, John W.	1963
+King, John W.	1964
+King, John W.	1965
+King, John W.	1966
+King, John W.	1967
+King, John W.	1968
+Peterson, Walter	1969
+Peterson, Walter	1970
+Peterson, Walter	1971
+Peterson, Walter	1972
+Thomson, Meldrim Jr.	1973
+Thomson, Meldrim Jr.	1974
+Thomson, Meldrim Jr.	1975
+Thomson, Meldrim Jr.	1976
+Thomson, Meldrim Jr.	1977
+Thomson, Meldrim Jr.	1978
+Gallen, Hugh J.	1979
+Gallen, Hugh J.	1980
+Gallen, Hugh J.	1981
+Gallen, Hugh J.	1982
+Sununu, John H.	1983
+Sununu, John H.	1984
+Sununu, John H.	1985
+Sununu, John H.	1986
+Sununu, John H.	1987
+Sununu, John H.	1988
+Gregg, Judd	1989
+Gregg, Judd	1990
+Gregg, Judd	1991
+Gregg, Judd	1992
+Merrill, Steve	1993
+Merrill, Steve	1994
+Merrill, Steve	1995
+Merrill, Steve	1996
+Shaheen, Jeanne	1997
+Shaheen, Jeanne	1998
+Shaheen, Jeanne	1999
+Shaheen, Jeanne	2000
+Shaheen, Jeanne	2001
+Shaheen, Jeanne	2002
+Benson-, Craig	2003
+Benson-, Craig	2004
+Lynch, John	2005
+Lynch, John	2006
+Lynch, John	2007
+Lynch, John	2008
+Lynch, John	2009
+Lynch, John	2010
+Lynch, John	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+Moore, Arthur Harry	1926
+Moore, Arthur Harry	1927
+Moore, Arthur Harry	1928
+Larson, Morgan F.	1929
+Larson, Morgan F.	1930
+Larson, Morgan F.	1931
+Moore, Arthur Harry	1932
+Moore, Arthur Harry	1933
+Moore, Arthur Harry	1934
+Hoffman, Harold G.	1935
+Hoffman, Harold G.	1936
+Hoffman, Harold G.	1937
+Moore, Arthur Harry	1938
+Moore, Arthur Harry	1939
+Moore, Arthur Harry	1940
+Edison, Charles	1941
+Edison, Charles	1942
+Edison, Charles	1943
+Edge, Walter E.	1944
+Edge, Walter E.	1945
+Edge, Walter E.	1946
+Driscoll, Alfred E.	1947
+Driscoll, Alfred E.	1948
+Driscoll, Alfred E.	1949
+Driscoll, Alfred E.	1950
+Driscoll, Alfred E.	1951
+Driscoll, Alfred E.	1952
+Driscoll, Alfred E.	1953
+Meyner, Robert B.	1954
+Meyner, Robert B.	1955
+Meyner, Robert B.	1956
+Meyner, Robert B.	1957
+Meyner, Robert B.	1958
+Meyner, Robert B.	1959
+Meyner, Robert B.	1960
+Meyner, Robert B.	1961
+Hughes, Richard J.	1962
+Hughes, Richard J.	1963
+Hughes, Richard J.	1964
+Hughes, Richard J.	1965
+Hughes, Richard J.	1966
+Hughes, Richard J.	1967
+Hughes, Richard J.	1968
+Hughes, Richard J.	1969
+Cahill, William T.	1970
+Cahill, William T.	1971
+Cahill, William T.	1972
+Cahill, William T.	1973
+Byrne, Brendan T.	1974
+Byrne, Brendan T.	1975
+Byrne, Brendan T.	1976
+Byrne, Brendan T.	1977
+Byrne, Brendan T.	1978
+Byrne, Brendan T.	1979
+Byrne, Brendan T.	1980
+Byrne, Brendan T.	1981
+Kean, Thomas H.	1982
+Kean, Thomas H.	1983
+Kean, Thomas H.	1984
+Kean, Thomas H.	1985
+Kean, Thomas H.	1986
+Kean, Thomas H.	1987
+Kean, Thomas H.	1988
+Kean, Thomas H.	1989
+Florio, James J.	1990
+Florio, James J.	1991
+Florio, James J.	1992
+Florio, James J.	1993
+Whitman, Christine Todd	1994
+Whitman, Christine Todd	1995
+Whitman, Christine Todd	1996
+Whitman, Christine Todd	1997
+Whitman, Christine Todd	1998
+Whitman, Christine Todd	1999
+Whitman, Christine Todd	2000
+Donald T. DiFrancesco-R, took over January 31, 2001, because Whitman resigned on January 31, 2001.	2001
+McGreevey, James E.	2002
+McGreevey, James E.	2003
+McGreevey then Richard J. Codey-D	2004
+Codey, Richard J.	2005
+corzine, Jon Stevens	2006
+Corzine, Jon	2007
+Corzine, Jon	2008
+Corzine, Jon	2009
+Christie, Chris	2010
+Christie, Chris	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+Hannett, Arthur T.	1926
+Dillon, Richard C.	1927
+Dillon, Richard C.	1928
+Dillon, Richard C.	1929
+Dillon, Richard C.	1930
+Seligman, Arthur	1931
+Seligman, Arthur	1932
+Seligman, Arthur	1933
+Hockenhull, Andrew W.	1934
+Tingley, Clyde	1935
+Tingley, Clyde	1936
+Tingley, Clyde	1937
+Tingley, Clyde	1938
+Miles, John E.	1939
+Miles, John E.	1940
+Miles, John E.	1941
+Miles, John E.	1942
+Dempsey, John J.	1943
+Dempsey, John J.	1944
+Dempsey, John J.	1945
+Dempsey, John J.	1946
+Mabry, Thomas J.	1947
+Mabry, Thomas J.	1948
+Mabry, Thomas J.	1949
+Mabry, Thomas J.	1950
+Mechem, Edwin L.	1951
+Mechem, Edwin L.	1952
+Mechem, Edwin L.	1953
+Mechem, Edwin L.	1954
+Simms, John F.	1955
+Simms, John F.	1956
+Mechem, Edwin L.	1957
+Mechem, Edwin L.	1958
+Burroughs, John	1959
+Burroughs, John	1960
+Mechem, Edwin L.	1961
+Mechem, Edwin L.	1962
+Campbell, Jack M.	1963
+Campbell, Jack M.	1964
+Campbell, Jack M.	1965
+Campbell, Jack M.	1966
+Cargo, David F.	1967
+Cargo, David F.	1968
+Cargo, David F.	1969
+Cargo, David F.	1970
+King, Bruce	1971
+King, Bruce	1972
+King, Bruce	1973
+King, Bruce	1974
+Apodaca, Jerry	1975
+Apodaca, Jerry	1976
+Apodaca, Jerry	1977
+Apodaca, Jerry	1978
+King, Bruce	1979
+King, Bruce	1980
+King, Bruce	1981
+King, Bruce	1982
+Anaya, Toney	1983
+Anaya, Toney	1984
+Anaya, Toney	1985
+Anaya, Toney	1986
+Carruthers, Garrey E.	1987
+Carruthers, Garrey E.	1988
+Carruthers, Garrey E.	1989
+Carruthers, Garrey E.	1990
+King, Bruce	1991
+King, Bruce	1992
+King, Bruce	1993
+King, Bruce	1994
+Johnson, Gary E.	1995
+Johnson, Gary E.	1996
+Johnson, Gary E.	1997
+Johnson, Gary E.	1998
+Johnson, Gary E.	1999
+Johnson, Gary E.	2000
+Johnson, Gary E.	2001
+Johnson, Gary E.	2002
+Richardson, Bill	2003
+Richardson, Bill	2004
+Richardson, Bill	2005
+Richardson, Bill	2006
+Richardson, Bill	2007
+Richardson, Bill	2008
+Richardson, Bill	2009
+Richardson, Bill	2010
+Martinez, Susana	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+	1926
+	1927
+	1928
+	1929
+	1930
+	1931
+	1932
+	1933
+	1934
+	1935
+	1936
+	1937
+	1938
+	1939
+	1940
+	1941
+	1942
+	1943
+	1944
+	1945
+	1946
+	1947
+	1948
+	1949
+	1950
+	1951
+	1952
+	1953
+	1954
+	1955
+Harriman, W. Averell	1956
+Harriman, W. Averell	1957
+Harriman, W. Averell	1958
+Rockefeller, Nelson A.	1959
+Rockefeller, Nelson A.	1960
+Rockefeller, Nelson A.	1961
+Rockefeller, Nelson A.	1962
+Rockefeller, Nelson A.	1963
+Rockefeller, Nelson A.	1964
+Rockefeller, Nelson A.	1965
+Rockefeller, Nelson A.	1966
+Rockefeller, Nelson A.	1967
+Rockefeller, Nelson A.	1968
+Rockefeller, Nelson A.	1969
+Rockefeller, Nelson A.	1970
+Rockefeller, Nelson A.	1971
+Rockefeller, Nelson A.	1972
+Rockefeller, Nelson A.	1973
+Wilson, Malcolm	1974
+Carey, Hugh	1975
+Carey, Hugh	1976
+Carey, Hugh	1977
+Carey, Hugh	1978
+Carey, Hugh	1979
+Carey, Hugh	1980
+Carey, Hugh	1981
+Carey, Hugh	1982
+Cuomo, Mario M.	1983
+Cuomo, Mario M.	1984
+Cuomo, Mario M.	1985
+Cuomo, Mario M.	1986
+Cuomo, Mario M.	1987
+Cuomo, Mario M.	1988
+Cuomo, Mario M.	1989
+Cuomo, Mario M.	1990
+Cuomo, Mario M.	1991
+Cuomo, Mario M.	1992
+Cuomo, Mario M.	1993
+Cuomo, Mario M.	1994
+Pataki, George E.	1995
+Pataki, George E.	1996
+Pataki, George E.	1997
+Pataki, George E.	1998
+Pataki, George E.	1999
+Pataki, George E.	2000
+Pataki, George E.	2001
+Pataki, George E.	2002
+Pataki, George E.	2003
+Pataki, George E.	2004
+Pataki, George E.	2005
+Pataki, George E.	2006
+Spitzer, Eliot	2007
+Paterson, David A.	2008
+Paterson, David A.	2009
+Paterson, David A.	2010
+Cuomo, Andrew	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+McLean, Angus Wilton	1926
+McLean, Angus Wilton	1927
+McLean, Angus Wilton	1928
+Gardner, O. Max	1929
+Gardner, O. Max	1930
+Gardner, O. Max	1931
+Gardner, O. Max	1932
+Ehringhaus, John C.B.	1933
+Ehringhaus, John C.B.	1934
+Ehringhaus, John C.B.	1935
+Ehringhaus, John C.B.	1936
+Hoey, Clyde R.	1937
+Hoey, Clyde R.	1938
+Hoey, Clyde R.	1939
+Hoey, Clyde R.	1940
+Broughton, J. Melville	1941
+Broughton, J. Melville	1942
+Broughton, J. Melville	1943
+Broughton, J. Melville	1944
+Cherry, R. Gregg	1945
+Cherry, R. Gregg	1946
+Cherry, R. Gregg	1947
+Cherry, R. Gregg	1948
+Scott, W. Kerr	1949
+Scott, W. Kerr	1950
+Scott, W. Kerr	1951
+Scott, W. Kerr	1952
+Umstead, William B.	1953
+Umstead, William B.	1954
+Hodges, Luther H.	1955
+Hodges, Luther H.	1956
+Hodges, Luther H.	1957
+Hodges, Luther H.	1958
+Hodges, Luther H.	1959
+Hodges, Luther H.	1960
+Sandord, Terry	1961
+Sandord, Terry	1962
+Sandord, Terry	1963
+Sandord, Terry	1964
+Moore, Dan K.	1965
+Moore, Dan K.	1966
+Moore, Dan K.	1967
+Moore, Dan K.	1968
+Scott, Robert W.	1969
+Scott, Robert W.	1970
+Scott, Robert W.	1971
+Scott, Robert W.	1972
+Holshouser, James E. Jr.	1973
+Holshouser, James E. Jr.	1974
+Holshouser, James E. Jr.	1975
+Holshouser, James E. Jr.	1976
+Hunt, James B. Jr.	1977
+Hunt, James B. Jr.	1978
+Hunt, James B. Jr.	1979
+Hunt, James B. Jr.	1980
+Hunt, James B. Jr.	1981
+Hunt, James B. Jr.	1982
+Hunt, James B. Jr.	1983
+Hunt, James B. Jr.	1984
+Martin, James G.	1985
+Martin, James G.	1986
+Martin, James G.	1987
+Martin, James G.	1988
+Martin, James G.	1989
+Martin, James G.	1990
+Martin, James G.	1991
+Martin, James G.	1992
+Hunt, James B. Jr.	1993
+Hunt, James B. Jr.	1994
+Hunt, James B. Jr.	1995
+Hunt, James B. Jr.	1996
+Hunt, James B. Jr.	1997
+Hunt, James B. Jr.	1998
+Hunt, James B. Jr.	1999
+Hunt, James B. Jr.	2000
+Easley, Michael F.	2001
+Easley, Michael F.	2002
+Easley, Michael F.	2003
+Easley, Michael F.	2004
+Easley, Michael F.	2005
+Easley, Michael F.	2006
+Easley, Michael F.	2007
+Easley, Michael F.	2008
+Perdue, Beverly	2009
+Perdue, Beverly	2010
+Perdue, Beverly	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+	1926
+	1927
+	1928
+	1929
+	1930
+	1931
+	1932
+	1933
+	1934
+	1935
+	1936
+	1937
+	1938
+	1939
+	1940
+	1941
+	1942
+	1943
+	1944
+	1945
+	1946
+	1947
+	1948
+	1949
+	1950
+	1951
+	1952
+	1953
+	1954
+	1955
+Brunsdale, C. Norman	1956
+Davis, John E.	1957
+Davis, John E.	1958
+Davis, John E.	1959
+Davis, John E.	1960
+Guy, William L.	1961
+Guy, William L.	1962
+Guy, William L.	1963
+Guy, William L.	1964
+Guy, William L.	1965
+Guy, William L.	1966
+Guy, William L.	1967
+Guy, William L.	1968
+Guy, William L.	1969
+Guy, William L.	1970
+Guy, William L.	1971
+Guy, William L.	1972
+Link, Arthur A.	1973
+Link, Arthur A.	1974
+Link, Arthur A.	1975
+Link, Arthur A.	1976
+Link, Arthur A.	1977
+Link, Arthur A.	1978
+Link, Arthur A.	1979
+Link, Arthur A.	1980
+Olson, Allen I.	1981
+Olson, Allen I.	1982
+Olson, Allen I.	1983
+Olson, Allen I.	1984
+Sinner, George	1985
+Sinner, George	1986
+Sinner, George	1987
+Sinner, George	1988
+Sinner, George	1989
+Sinner, George	1990
+Sinner, George	1991
+Sinner, George	1992
+Schafer, Edward T.	1993
+Schafer, Edward T.	1994
+Schafer, Edward T.	1995
+Schafer, Edward T.	1996
+Schafer, Edward T.	1997
+Schafer, Edward T.	1998
+Schafer, Edward T.	1999
+Schafer, Edward T.	2000
+Hoeven, John	2001
+Hoeven, John	2002
+Hoeven, John	2003
+Hoeven, John	2004
+Hoeven, John	2005
+Hoeven, John	2006
+Hoeven, John	2007
+Hoeven, John	2008
+Hoeven, John	2009
+Hoeven, John	2010
+Dalrymple, Jack	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+	1926
+	1927
+	1928
+	1929
+	1930
+	1931
+	1932
+	1933
+	1934
+	1935
+	1936
+	1937
+	1938
+	1939
+	1940
+	1941
+	1942
+	1943
+	1944
+	1945
+	1946
+	1947
+	1948
+	1949
+	1950
+	1951
+	1952
+	1953
+	1954
+	1955
+Lausche, Frank J.	1956
+O'Neill, C. William	1957
+O'Neill, C. William	1958
+DiSalle, Michael V.	1959
+DiSalle, Michael V.	1960
+DiSalle, Michael V.	1961
+DiSalle, Michael V.	1962
+Rhodes, James A.	1963
+Rhodes, James A.	1964
+Rhodes, James A.	1965
+Rhodes, James A.	1966
+Rhodes, James A.	1967
+Rhodes, James A.	1968
+Rhodes, James A.	1969
+Rhodes, James A.	1970
+Gilligan, John J.	1971
+Gilligan, John J.	1972
+Gilligan, John J.	1973
+Gilligan, John J.	1974
+Rhodes, James A.	1975
+Rhodes, James A.	1976
+Rhodes, James A.	1977
+Rhodes, James A.	1978
+Rhodes, James A.	1979
+Rhodes, James A.	1980
+Rhodes, James A.	1981
+Rhodes, James A.	1982
+Celeste, Richard F.	1983
+Celeste, Richard F.	1984
+Celeste, Richard F.	1985
+Celeste, Richard F.	1986
+Celeste, Richard F.	1987
+Celeste, Richard F.	1988
+Celeste, Richard F.	1989
+Celeste, Richard F.	1990
+Voinovich, George V.	1991
+Voinovich, George V.	1992
+Voinovich, George V.	1993
+Voinovich, George V.	1994
+Voinovich, George V.	1995
+Voinovich, George V.	1996
+Voinovich, George V.	1997
+Voinovich, George V.	1998
+Taft, Bob	1999
+Taft, Bob	2000
+Taft, Bob	2001
+Taft, Bob	2002
+Taft, Bob	2003
+Taft, Bob	2004
+Taft, Bob	2005
+Taft, Bob	2006
+Strickland, Ted	2007
+Strickland, Ted	2008
+Strickland, Ted	2009
+Strickland, Ted	2010
+Kasich, John	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+Trapp, Martin E.	1926
+Johnson, Henry S.	1927
+Johnson, Henry S.	1928
+Holloway, William J.	1929
+Holloway, William J.	1930
+Murray, William H.	1931
+Murray, William H.	1932
+Murray, William H.	1933
+Murray, William H.	1934
+Marland, Ernest W.	1935
+Marland, Ernest W.	1936
+Marland, Ernest W.	1937
+Marland, Ernest W.	1938
+Phillips, Leon C.	1939
+Phillips, Leon C.	1940
+Phillips, Leon C.	1941
+Phillips, Leon C.	1942
+Kerr, Robert S.	1943
+Kerr, Robert S.	1944
+Kerr, Robert S.	1945
+Kerr, Robert S.	1946
+Turner, Roy J.	1947
+Turner, Roy J.	1948
+Turner, Roy J.	1949
+Turner, Roy J.	1950
+Murray, Johnston	1951
+Murray, Johnston	1952
+Murray, Johnston	1953
+Murray, Johnston	1954
+Gary, Raymond D.	1955
+Gary, Raymond D.	1956
+Gary, Raymond D.	1957
+Gary, Raymond D.	1958
+Edmondson, J. Howard	1959
+Edmondson, J. Howard	1960
+Edmondson, J. Howard	1961
+Edmondson, J. Howard	1962
+Bellmon, Henry L.	1963
+Bellmon, Henry L.	1964
+Bellmon, Henry L.	1965
+Bellmon, Henry L.	1966
+Bartlett, Dewey F.	1967
+Bartlett, Dewey F.	1968
+Bartlett, Dewey F.	1969
+Bartlett, Dewey F.	1970
+Hall, David	1971
+Hall, David	1972
+Hall, David	1973
+Hall, David	1974
+Boren, David L.	1975
+Boren, David L.	1976
+Boren, David L.	1977
+Boren, David L.	1978
+Nigh, George	1979
+Nigh, George	1980
+Nigh, George	1981
+Nigh, George	1982
+Nigh, George	1983
+Nigh, George	1984
+Nigh, George	1985
+Nigh, George	1986
+Bellmon, Henry L.	1987
+Bellmon, Henry L.	1988
+Bellmon, Henry L.	1989
+Bellmon, Henry L.	1990
+Walters, David	1991
+Walters, David	1992
+Walters, David	1993
+Walters, David	1994
+Keating, Frank	1995
+Keating, Frank	1996
+Keating, Frank	1997
+Keating, Frank	1998
+Keating, Frank	1999
+Keating, Frank	2000
+Keating, Frank	2001
+Keating, Frank	2002
+Henry, Brad	2003
+Henry, Brad	2004
+Henry, Brad	2005
+Henry, Brad	2006
+Henry, Brad	2007
+Henry, Brad	2008
+Henry, Brad	2009
+Henry, Brad	2010
+Fallin, Mary	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+Pierce, Walter M.	1926
+Patterson, Isaac L.	1927
+Patterson, Isaac L.	1928
+Patterson, Isaac L.	1929
+Norblad, A.W.	1930
+Meier, Julius	1931
+Meier, Julius	1932
+Meier, Julius	1933
+Meier, Julius	1934
+Martin, Charles H.	1935
+Martin, Charles H.	1936
+Martin, Charles H.	1937
+Martin, Charles H.	1938
+Sprague, Charles A.	1939
+Sprague, Charles A.	1940
+Sprague, Charles A.	1941
+Sprague, Charles A.	1942
+Snell, Earl	1943
+Snell, Earl	1944
+Snell, Earl	1945
+Snell, Earl	1946
+Snell, Earl	1947
+Hall, John H.	1948
+McKay, Douglas	1949
+McKay, Douglas	1950
+McKay, Douglas	1951
+McKay, Douglas	1952
+Patterson, Paul L.	1953
+Patterson, Paul L.	1954
+Patterson, Paul L.	1955
+Smith, Elmo	1956
+Holmes, Robert D.	1957
+Holmes, Robert D.	1958
+Hatfield, Mark O.	1959
+Hatfield, Mark O.	1960
+Hatfield, Mark O.	1961
+Hatfield, Mark O.	1962
+Hatfield, Mark O.	1963
+Hatfield, Mark O.	1964
+Hatfield, Mark O.	1965
+Hatfield, Mark O.	1966
+McCall, Tom	1967
+McCall, Tom	1968
+McCall, Tom	1969
+McCall, Tom	1970
+McCall, Tom	1971
+McCall, Tom	1972
+McCall, Tom	1973
+McCall, Tom	1974
+Straub, Robert W.	1975
+Straub, Robert W.	1976
+Straub, Robert W.	1977
+Straub, Robert W.	1978
+Atiyeh, Victor	1979
+Atiyeh, Victor	1980
+Atiyeh, Victor	1981
+Atiyeh, Victor	1982
+Atiyeh, Victor	1983
+Atiyeh, Victor	1984
+Atiyeh, Victor	1985
+Atiyeh, Victor	1986
+Goldschmidt, Neil	1987
+Goldschmidt, Neil	1988
+Goldschmidt, Neil	1989
+Goldschmidt, Neil	1990
+Roberts, Barbara	1991
+Roberts, Barbara	1992
+Roberts, Barbara	1993
+Roberts, Barbara	1994
+Kitzhaber, John	1995
+Kitzhaber, John	1996
+Kitzhaber, John	1997
+Kitzhaber, John	1998
+Kitzhaber, John	1999
+Kitzhaber, John	2000
+Kitzhaber, John	2001
+Kitzhaber, John	2002
+Kulongoski, Ted	2003
+Kulongoski, Ted	2004
+Kulongoski, Ted	2005
+Kulongoski, Ted	2006
+Kulongoski, Ted	2007
+Kulongoski, Ted	2008
+Kulongoski, Ted	2009
+Kulongoski, Ted	2010
+Kitzhaber, John A.	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+Pinchot, Gifford	1926
+Fisher, John S.	1927
+Fisher, John S.	1928
+Fisher, John S.	1929
+Fisher, John S.	1930
+Pinchot, Gifford	1931
+Pinchot, Gifford	1932
+Pinchot, Gifford	1933
+Pinchot, Gifford	1934
+Earle, George H.	1935
+Earle, George H.	1936
+Earle, George H.	1937
+Earle, George H.	1938
+James, Arthur H.	1939
+James, Arthur H.	1940
+James, Arthur H.	1941
+James, Arthur H.	1942
+Martin, Edward	1943
+Martin, Edward	1944
+Martin, Edward	1945
+Martin, Edward	1946
+Duff, James H.	1947
+Duff, James H.	1948
+Duff, James H.	1949
+Duff, James H.	1950
+Fine, John S.	1951
+Fine, John S.	1952
+Fine, John S.	1953
+Fine, John S.	1954
+Leader, George M.	1955
+Leader, George M.	1956
+Leader, George M.	1957
+Leader, George M.	1958
+Lawrence, David L.	1959
+Lawrence, David L.	1960
+Lawrence, David L.	1961
+Lawrence, David L.	1962
+Scranton, William W.	1963
+Scranton, William W.	1964
+Scranton, William W.	1965
+Scranton, William W.	1966
+Shafer, Raymond P.	1967
+Shafer, Raymond P.	1968
+Shafer, Raymond P.	1969
+Shafer, Raymond P.	1970
+Shapp, Milton J.	1971
+Shapp, Milton J.	1972
+Shapp, Milton J.	1973
+Shapp, Milton J.	1974
+Shapp, Milton J.	1975
+Shapp, Milton J.	1976
+Shapp, Milton J.	1977
+Shapp, Milton J.	1978
+Thornburgh, Richard L.	1979
+Thornburgh, Richard L.	1980
+Thornburgh, Richard L.	1981
+Thornburgh, Richard L.	1982
+Thornburgh, Richard L.	1983
+Thornburgh, Richard L.	1984
+Thornburgh, Richard L.	1985
+Thornburgh, Richard L.	1986
+Casey, Robert P.	1987
+Casey, Robert P.	1988
+Casey, Robert P.	1989
+Casey, Robert P.	1990
+Casey, Robert P.	1991
+Casey, Robert P.	1992
+Casey, Robert P.	1993
+Casey, Robert P.	1994
+Ridge, Tom	1995
+Ridge, Tom	1996
+Ridge, Tom	1997
+Ridge, Tom	1998
+Ridge, Tom	1999
+Ridge, Tom	2000
+Switch; Ridge then Schweiker	2001
+Schweiker, Mark	2002
+Rendell, Edward G.	2003
+Rendell, Edward G.	2004
+Rendell, Edward G.	2005
+Rendell, Edward G.	2006
+Rendell, Edward G.	2007
+Rendell, Edward G.	2008
+Rendell, Edward G.	2009
+Rendell, Edward G.	2010
+Corbett, Tom	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+	1926
+	1927
+	1928
+	1929
+	1930
+	1931
+	1932
+	1933
+	1934
+	1935
+	1936
+	1937
+	1938
+	1939
+	1940
+	1941
+	1942
+	1943
+	1944
+	1945
+	1946
+	1947
+	1948
+	1949
+	1950
+	1951
+	1952
+	1953
+	1954
+	1955
+Roberts, Dennis J.	1956
+Roberts, Dennis J.	1957
+Roberts, Dennis J.	1958
+Del Sesto, Christopher	1959
+Del Sesto, Christopher	1960
+Notte, John A. Jr.	1961
+Notte, John A. Jr.	1962
+Chafee, John H.	1963
+Chafee, John H.	1964
+Chafee, John H.	1965
+Chafee, John H.	1966
+Chafee, John H.	1967
+Chafee, John H.	1968
+Licht, Frank	1969
+Licht, Frank	1970
+Licht, Frank	1971
+Licht, Frank	1972
+Noel, Philip W.	1973
+Noel, Philip W.	1974
+Noel, Philip W.	1975
+Noel, Philip W.	1976
+Garrahy, Joseph J.	1977
+Garrahy, Joseph J.	1978
+Garrahy, Joseph J.	1979
+Garrahy, Joseph J.	1980
+Garrahy, Joseph J.	1981
+Garrahy, Joseph J.	1982
+Garrahy, Joseph J.	1983
+Garrahy, Joseph J.	1984
+DiPrete, Edward D.	1985
+DiPrete, Edward D.	1986
+DiPrete, Edward D.	1987
+DiPrete, Edward D.	1988
+DiPrete, Edward D.	1989
+DiPrete, Edward D.	1990
+Sundlun, Bruce	1991
+Sundlun, Bruce	1992
+Sundlun, Bruce	1993
+Sundlun, Bruce	1994
+Almond, Lincoln C.	1995
+Almond, Lincoln C.	1996
+Almond, Lincoln C.	1997
+Almond, Lincoln C.	1998
+Almond, Lincoln C.	1999
+Almond, Lincoln C.	2000
+Almond, Lincoln C.	2001
+Almond, Lincoln C.	2002
+Carcieri, Don	2003
+Carcieri, Don	2004
+Carcieri, Don	2005
+Carcieri, Don	2006
+Carcieri, Don	2007
+Carcieri, Don	2008
+Carcieri, Don	2009
+Carcieri, Don	2010
+Chafee, Lincoln	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+McLeod, Thomas G.	1926
+Richards, John G.	1927
+Richards, John G.	1928
+Richards, John G.	1929
+Richards, John G.	1930
+Blackwood, Ibra C.	1931
+Blackwood, Ibra C.	1932
+Blackwood, Ibra C.	1933
+Blackwood, Ibra C.	1934
+Johnston, Olin D.	1935
+Johnston, Olin D.	1936
+Johnston, Olin D.	1937
+Johnston, Olin D.	1938
+Maybank, Burnet R.	1939
+Maybank, Burnet R.	1940
+Maybank, Burnet R.	1941
+Jeffries, Richard M.	1942
+Johnston, Olin D.	1943
+Johnston, Olin D.	1944
+Williams, Ransome J.	1945
+Williams, Ransome J.	1946
+Thurmond, J. Strom	1947
+Thurmond, J. Strom	1948
+Thurmond, J. Strom	1949
+Thurmond, J. Strom	1950
+Byrnes, James F.	1951
+Byrnes, James F.	1952
+Byrnes, James F.	1953
+Byrnes, James F.	1954
+Timmerman, George Bell Jr.	1955
+Timmerman, George Bell Jr.	1956
+Timmerman, George Bell Jr.	1957
+Timmerman, George Bell Jr.	1958
+Hollings, Ernest F.	1959
+Hollings, Ernest F.	1960
+Hollings, Ernest F.	1961
+Hollings, Ernest F.	1962
+Russell, Donald S.	1963
+Russell, Donald S.	1964
+Russell, Donald S. followed by Robert E. McNair	1965
+McNair, Robert E.	1966
+McNair, Robert E.	1967
+McNair, Robert E.	1968
+McNair, Robert E.	1969
+McNair, Robert E.	1970
+West, John C.	1971
+West, John C.	1972
+West, John C.	1973
+West, John C.	1974
+Edwards, James	1975
+Edwards, James	1976
+Edwards, James	1977
+Edwards, James	1978
+Riley, Richard	1979
+Riley, Richard	1980
+Riley, Richard	1981
+Riley, Richard	1982
+Riley, Richard	1983
+Riley, Richard	1984
+Riley, Richard	1985
+Riley, Richard	1986
+Campbell, Carroll	1987
+Campbell, Carroll	1988
+Campbell, Carroll	1989
+Campbell, Carroll	1990
+Campbell, Carroll	1991
+Campbell, Carroll	1992
+Campbell, Carroll	1993
+Campbell, Carroll	1994
+Beasley, David	1995
+Beasley, David	1996
+Beasley, David	1997
+Beasley, David	1998
+Hodges, Jim	1999
+Hodges, Jim	2000
+Hodges, Jim	2001
+Hodges, Jim	2002
+Sanford, Mark	2003
+Sanford, Mark	2004
+Sanford, Mark	2005
+Sanford, Mark	2006
+Sanford, Mark	2007
+Sanford, Mark	2008
+Sanford, Mark	2009
+Sanford, Mark	2010
+Haley, Nikki R.	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+	1926
+	1927
+	1928
+	1929
+	1930
+	1931
+	1932
+	1933
+	1934
+	1935
+	1936
+	1937
+	1938
+	1939
+	1940
+	1941
+	1942
+	1943
+	1944
+	1945
+	1946
+	1947
+	1948
+	1949
+	1950
+	1951
+	1952
+	1953
+	1954
+	1955
+Foss, Joe	1956
+Foss, Joe	1957
+Foss, Joe	1958
+Herseth, Ralph E.	1959
+Herseth, Ralph E.	1960
+Gubbrud, Archie M.	1961
+Gubbrud, Archie M.	1962
+Gubbrud, Archie M.	1963
+Gubbrud, Archie M.	1964
+Boe, Nils A.	1965
+Boe, Nils A.	1966
+Boe, Nils A.	1967
+Boe, Nils A.	1968
+Farrar, Frank L.	1969
+Farrar, Frank L.	1970
+Kneip, Richard F.	1971
+Kneip, Richard F.	1972
+Kneip, Richard F.	1973
+Kneip, Richard F.	1974
+Kneip, Richard F.	1975
+Kneip, Richard F.	1976
+Kneip, Richard F.	1977
+Kneip, Richard F. followed by Harvey L. Wollman	1978
+Janklow, William J.	1979
+Janklow, William J.	1980
+Janklow, William J.	1981
+Janklow, William J.	1982
+Janklow, William J.	1983
+Janklow, William J.	1984
+Janklow, William J.	1985
+Janklow, William J.	1986
+Mickelson, George S.	1987
+Mickelson, George S.	1988
+Mickelson, George S.	1989
+Mickelson, George S.	1990
+Mickelson, George S.	1991
+Mickelson, George S.	1992
+Mickelson, George S. followed by Walter D. Miller	1993
+Miller, Walter D.	1994
+Janklow, William J.	1995
+Janklow, William J.	1996
+Janklow, William J.	1997
+Janklow, William J.	1998
+Janklow, William J.	1999
+Janklow, William J.	2000
+Janklow, William J.	2001
+Janklow, William J.	2002
+Rounds, Mike	2003
+Rounds, Mike	2004
+Rounds, Mike	2005
+Rounds, Mike	2006
+Rounds, Mike	2007
+Rounds, Mike	2008
+Rounds, Mike	2009
+Rounds, Mike	2010
+Daugaard, Dennis	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+Peay, Austin	1926
+Peay, Austin	1927
+Horton, Henry H.	1928
+Horton, Henry H.	1929
+Horton, Henry H.	1930
+Horton, Henry H.	1931
+Horton, Henry H.	1932
+McAlister, Hill	1933
+McAlister, Hill	1934
+McAlister, Hill	1935
+McAlister, Hill	1936
+Browning, Gordon	1937
+Browning, Gordon	1938
+Cooper, Prentice	1939
+Cooper, Prentice	1940
+Cooper, Prentice	1941
+Cooper, Prentice	1942
+Cooper, Prentice	1943
+Cooper, Prentice	1944
+McCord, James N.	1945
+McCord, James N.	1946
+McCord, James N.	1947
+McCord, James N.	1948
+Browning, Gordon	1949
+Browning, Gordon	1950
+Browning, Gordon	1951
+Browning, Gordon	1952
+Clement, Frank G.	1953
+Clement, Frank G.	1954
+Clement, Frank G.	1955
+Clement, Frank G.	1956
+Clement, Frank G.	1957
+Clement, Frank G.	1958
+Ellington, Buford	1959
+Ellington, Buford	1960
+Ellington, Buford	1961
+Ellington, Buford	1962
+Clement, Frank G.	1963
+Clement, Frank G.	1964
+Clement, Frank G.	1965
+Clement, Frank G.	1966
+Ellington, Buford	1967
+Ellington, Buford	1968
+Ellington, Buford	1969
+Ellington, Buford	1970
+Dunn, Winfield	1971
+Dunn, Winfield	1972
+Dunn, Winfield	1973
+Dunn, Winfield	1974
+Blanton, Ray	1975
+Blanton, Ray	1976
+Blanton, Ray	1977
+Blanton, Ray	1978
+Alexander, Lamar	1979
+Alexander, Lamar	1980
+Alexander, Lamar	1981
+Alexander, Lamar	1982
+Alexander, Lamar	1983
+Alexander, Lamar	1984
+Alexander, Lamar	1985
+Alexander, Lamar	1986
+McWherter, Ned R.	1987
+McWherter, Ned R.	1988
+McWherter, Ned R.	1989
+McWherter, Ned R.	1990
+McWherter, Ned R.	1991
+McWherter, Ned R.	1992
+McWherter, Ned R.	1993
+McWherter, Ned R.	1994
+Sundquist, Don	1995
+Sundquist, Don	1996
+Sundquist, Don	1997
+Sundquist, Don	1998
+Sundquist, Don	1999
+Sundquist, Don	2000
+Sundquist, Don	2001
+Sundquist, Don	2002
+Bredesen, Phil	2003
+Bredesen, Phil	2004
+Bredesen, Phil	2005
+Bredesen, Phil	2006
+Bredesen, Phil	2007
+Bredesen, Phil	2008
+Bredesen, Phil	2009
+Bredesen, Phil	2010
+Haslam, Bill	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+	1926
+	1927
+	1928
+	1929
+	1930
+	1931
+	1932
+	1933
+	1934
+	1935
+	1936
+	1937
+	1938
+	1939
+	1940
+	1941
+	1942
+	1943
+	1944
+	1945
+	1946
+	1947
+	1948
+	1949
+	1950
+	1951
+	1952
+	1953
+	1954
+	1955
+Shivers, Allan	1956
+Price, Daniel	1957
+Price, Daniel	1958
+Price, Daniel	1959
+Price, Daniel	1960
+Price, Daniel	1961
+Price, Daniel	1962
+Connally, John B.	1963
+Connally, John B.	1964
+Connally, John B.	1965
+Connally, John B.	1966
+Connally, John B.	1967
+Connally, John B.	1968
+Smith, Preston	1969
+Smith, Preston	1970
+Smith, Preston	1971
+Smith, Preston	1972
+Briscoe, Dolph	1973
+Briscoe, Dolph	1974
+Briscoe, Dolph	1975
+Briscoe, Dolph	1976
+Briscoe, Dolph	1977
+Briscoe, Dolph	1978
+Clements, William P.	1979
+Clements, William P.	1980
+Clements, William P.	1981
+Clements, William P.	1982
+White, Mark	1983
+White, Mark	1984
+White, Mark	1985
+White, Mark	1986
+Clements, William P.	1987
+Clements, William P.	1988
+Clements, William P.	1989
+Clements, William P.	1990
+Richards, Ann W.	1991
+Richards, Ann W.	1992
+Richards, Ann W.	1993
+Richards, Ann W.	1994
+Bush, George W.	1995
+Bush, George W.	1996
+Bush, George W.	1997
+Bush, George W.	1998
+Bush, George W.	1999
+Bush, George W.	2000
+Perry, Rick	2001
+Perry, Rick	2002
+Perry, Rick	2003
+Perry, Rick	2004
+Perry, Rick	2005
+Perry, Rick	2006
+Perry, Rick	2007
+Perry, Rick	2008
+Perry, Rick	2009
+Perry, Rick	2010
+Perry, Rick	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+	1926
+	1927
+	1928
+	1929
+	1930
+	1931
+	1932
+	1933
+	1934
+	1935
+	1936
+	1937
+	1938
+	1939
+	1940
+	1941
+	1942
+	1943
+	1944
+	1945
+	1946
+	1947
+	1948
+	1949
+	1950
+	1951
+	1952
+	1953
+	1954
+	1955
+Lee, J. Bracken	1956
+Clyde, George Dewey	1957
+Clyde, George Dewey	1958
+Clyde, George Dewey	1959
+Clyde, George Dewey	1960
+Clyde, George Dewey	1961
+Clyde, George Dewey	1962
+Clyde, George Dewey	1963
+Clyde, George Dewey	1964
+Rampton, Calvin L.	1965
+Rampton, Calvin L.	1966
+Rampton, Calvin L.	1967
+Rampton, Calvin L.	1968
+Rampton, Calvin L.	1969
+Rampton, Calvin L.	1970
+Rampton, Calvin L.	1971
+Rampton, Calvin L.	1972
+Rampton, Calvin L.	1973
+Rampton, Calvin L.	1974
+Rampton, Calvin L.	1975
+Rampton, Calvin L.	1976
+Matheson, Scott M.	1977
+Matheson, Scott M.	1978
+Matheson, Scott M.	1979
+Matheson, Scott M.	1980
+Matheson, Scott M.	1981
+Matheson, Scott M.	1982
+Matheson, Scott M.	1983
+Matheson, Scott M.	1984
+Bangerter, Norman H.	1985
+Bangerter, Norman H.	1986
+Bangerter, Norman H.	1987
+Bangerter, Norman H.	1988
+Bangerter, Norman H.	1989
+Bangerter, Norman H.	1990
+Bangerter, Norman H.	1991
+Bangerter, Norman H.	1992
+Leavitt, Mike O.	1993
+Leavitt, Mike O.	1994
+Leavitt, Mike O.	1995
+Leavitt, Mike O.	1996
+Leavitt, Mike O.	1997
+Leavitt, Mike O.	1998
+Leavitt, Mike O.	1999
+Leavitt, Mike O.	2000
+Leavitt, Mike O.	2001
+Leavitt, Mike O.	2002
+Leavitt, Mike O.	2003
+Walker, Olene S.	2004
+Huntsman, Jon Jr.	2005
+Huntsman, Jon Jr.	2006
+Huntsman, Jon M. Jr.	2007
+Huntsman, Jon M. Jr.	2008
+Huntsman, Jon M. Jr.	2009
+Herbert, Gary	2010
+Herbert, Gary	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+	1926
+	1927
+	1928
+	1929
+	1930
+	1931
+	1932
+	1933
+	1934
+	1935
+	1936
+	1937
+	1938
+	1939
+	1940
+	1941
+	1942
+	1943
+	1944
+	1945
+	1946
+	1947
+	1948
+	1949
+	1950
+	1951
+	1952
+	1953
+	1954
+	1955
+Johnson, Joseph B.	1956
+Johnson, Joseph B.	1957
+Johnson, Joseph B.	1958
+Stafford, Robert T.	1959
+Stafford, Robert T.	1960
+Keyser, Frank Ray Jr.	1961
+Keyser, Frank Ray Jr.	1962
+Hoff, Philip H.	1963
+Hoff, Philip H.	1964
+Hoff, Philip H.	1965
+Hoff, Philip H.	1966
+Hoff, Philip H.	1967
+Hoff, Philip H.	1968
+Davis, Deane C.	1969
+Davis, Deane C.	1970
+Davis, Deane C.	1971
+Davis, Deane C.	1972
+Salmon, Thomas P.	1973
+Salmon, Thomas P.	1974
+Salmon, Thomas P.	1975
+Salmon, Thomas P.	1976
+Snelling, Richard A.	1977
+Snelling, Richard A.	1978
+Snelling, Richard A.	1979
+Snelling, Richard A.	1980
+Snelling, Richard A.	1981
+Snelling, Richard A.	1982
+Snelling, Richard A.	1983
+Snelling, Richard A.	1984
+Kunin, Madeleine M.	1985
+Kunin, Madeleine M.	1986
+Kunin, Madeleine M.	1987
+Kunin, Madeleine M.	1988
+Kunin, Madeleine M.	1989
+Kunin, Madeleine M.	1990
+Snelling, Richard A. followed by Howard Dean	1991
+Dean, Howard	1992
+Dean, Howard	1993
+Dean, Howard	1994
+Dean, Howard	1995
+Dean, Howard	1996
+Dean, Howard	1997
+Dean, Howard	1998
+Dean, Howard	1999
+Dean, Howard	2000
+Dean, Howard	2001
+Dean, Howard	2002
+Douglas, Jim	2003
+Douglas, Jim	2004
+Douglas, Jim	2005
+Douglas, Jim	2006
+Douglas, Jim	2007
+Douglas, Jim	2008
+Douglas, Jim	2009
+Douglas, Jim	2010
+Shumlin, Peter	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+Byrd, Harry F.	1926
+Byrd, Harry F.	1927
+Byrd, Harry F.	1928
+Byrd, Harry F.	1929
+Pollard, John G.	1930
+Pollard, John G.	1931
+Pollard, John G.	1932
+Pollard, John G.	1933
+Peery, George C.	1934
+Peery, George C.	1935
+Peery, George C.	1936
+Peery, George C.	1937
+Price, James H.	1938
+Price, James H.	1939
+Price, James H.	1940
+Price, James H.	1941
+Darden, Colgage W. Jr.	1942
+Darden, Colgage W. Jr.	1943
+Darden, Colgage W. Jr.	1944
+Darden, Colgage W. Jr.	1945
+Tuck, William M.	1946
+Tuck, William M.	1947
+Tuck, William M.	1948
+Tuck, William M.	1949
+Battle, John S.	1950
+Battle, John S.	1951
+Battle, John S.	1952
+Battle, John S.	1953
+Stanley, Thomas B.	1954
+Stanley, Thomas B.	1955
+Stanley, Thomas B.	1956
+Stanley, Thomas B.	1957
+Almond, James Lindsay Jr.	1958
+Almond, James Lindsay Jr.	1959
+Almond, James Lindsay Jr.	1960
+Almond, James Lindsay Jr.	1961
+Harrison, Albertis, S. Jr.	1962
+Harrison, Albertis, S. Jr.	1963
+Harrison, Albertis, S. Jr.	1964
+Harrison, Albertis, S. Jr.	1965
+Godwin, Mills E. Jr.	1966
+Godwin, Mills E. Jr.	1967
+Godwin, Mills E. Jr.	1968
+Godwin, Mills E. Jr.	1969
+Holton, Linwood	1970
+Holton, Linwood	1971
+Holton, Linwood	1972
+Holton, Linwood	1973
+Godwin, Mills E. Jr.	1974
+Godwin, Mills E. Jr.	1975
+Godwin, Mills E. Jr.	1976
+Godwin, Mills E. Jr.	1977
+Dalton, John	1978
+Dalton, John	1979
+Dalton, John	1980
+Dalton, John	1981
+Robb, Charles S.	1982
+Robb, Charles S.	1983
+Robb, Charles S.	1984
+Robb, Charles S.	1985
+Baliles, Gerald L.	1986
+Baliles, Gerald L.	1987
+Baliles, Gerald L.	1988
+Baliles, Gerald L.	1989
+Wilder, L. Douglas	1990
+Wilder, L. Douglas	1991
+Wilder, L. Douglas	1992
+Wilder, L. Douglas	1993
+Allen, George F.	1994
+Allen, George F.	1995
+Allen, George F.	1996
+Allen, George F.	1997
+Gilmore, Jame S. III	1998
+Gilmore, Jame S. III	1999
+Gilmore, Jame S. III	2000
+Gilmore, Jame S. III	2001
+Warner, Mark	2002
+Warner, Mark	2003
+Warner, Mark	2004
+Warner, Mark	2005
+Kaine, Tim	2006
+Kaine, Tim	2007
+Kaine, Tim	2008
+Kaine, Tim	2009
+McDonnell, Bob	2010
+McDonnell, Bob	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+	1926
+	1927
+	1928
+	1929
+	1930
+	1931
+	1932
+	1933
+	1934
+	1935
+	1936
+	1937
+	1938
+	1939
+	1940
+	1941
+	1942
+	1943
+	1944
+	1945
+	1946
+	1947
+	1948
+	1949
+	1950
+	1951
+	1952
+	1953
+	1954
+	1955
+Langlie, Arthur B.	1956
+Rosellini, Albert D.	1957
+Rosellini, Albert D.	1958
+Rosellini, Albert D.	1959
+Rosellini, Albert D.	1960
+Rosellini, Albert D.	1961
+Rosellini, Albert D.	1962
+Rosellini, Albert D.	1963
+Rosellini, Albert D.	1964
+Evans, Daniel J.	1965
+Evans, Daniel J.	1966
+Evans, Daniel J.	1967
+Evans, Daniel J.	1968
+Evans, Daniel J.	1969
+Evans, Daniel J.	1970
+Evans, Daniel J.	1971
+Evans, Daniel J.	1972
+Evans, Daniel J.	1973
+Evans, Daniel J.	1974
+Evans, Daniel J.	1975
+Evans, Daniel J.	1976
+Ray, Dixy Lee	1977
+Ray, Dixy Lee	1978
+Ray, Dixy Lee	1979
+Ray, Dixy Lee	1980
+Spellman, John D.	1981
+Spellman, John D.	1982
+Spellman, John D.	1983
+Spellman, John D.	1984
+Gardner, Booth	1985
+Gardner, Booth	1986
+Gardner, Booth	1987
+Gardner, Booth	1988
+Gardner, Booth	1989
+Gardner, Booth	1990
+Gardner, Booth	1991
+Gardner, Booth	1992
+Lowry, Mike	1993
+Lowry, Mike	1994
+Lowry, Mike	1995
+Lowry, Mike	1996
+Locke, Gary	1997
+Locke, Gary	1998
+Locke, Gary	1999
+Locke, Gary	2000
+Locke, Gary	2001
+Locke, Gary	2002
+Locke, Gary	2003
+Locke, Gary	2004
+Gregoire, Christine	2005
+Gregoire, Christine	2006
+Gregoire, Christine	2007
+Gregoire, Christine	2008
+Gregoire, Christine	2009
+Gregoire, Christine	2010
+Gregoire, Christine	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+Gore, Howard M.	1926
+Gore, Howard M.	1927
+Gore, Howard M.	1928
+	1929
+Conley, William G.	1930
+Conley, William G.	1931
+Conley, William G.	1932
+	1933
+Kump, Herman G.	1934
+Kump, Herman G.	1935
+Kump, Herman G.	1936
+Holt, Homer A.	1937
+Holt, Homer A.	1938
+Holt, Homer A.	1939
+Holt, Homer A.	1940
+Neely, Matthew M.	1941
+Neely, Matthew M.	1942
+Neely, Matthew M.	1943
+Neely, Matthew M.	1944
+Meadows, Clarence W.	1945
+Meadows, Clarence W.	1946
+Meadows, Clarence W.	1947
+Meadows, Clarence W.	1948
+Patteson, Okey L.	1949
+Patteson, Okey L.	1950
+Patteson, Okey L.	1951
+Patteson, Okey L.	1952
+Marland, William C.	1953
+Marland, William C.	1954
+Marland, William C.	1955
+Marland, William C.	1956
+Underwood, Cecil H.	1957
+Underwood, Cecil H.	1958
+Underwood, Cecil H.	1959
+Underwood, Cecil H.	1960
+Barron, William W.	1961
+Barron, William W.	1962
+Barron, William W.	1963
+Barron, William W.	1964
+Smith, Hulett C.	1965
+Smith, Hulett C.	1966
+Smith, Hulett C.	1967
+Smith, Hulett C.	1968
+Moore, Arch A. Jr.	1969
+Moore, Arch A. Jr.	1970
+Moore, Arch A. Jr.	1971
+Moore, Arch A. Jr.	1972
+Moore, Arch A. Jr.	1973
+Moore, Arch A. Jr.	1974
+Moore, Arch A. Jr.	1975
+Moore, Arch A. Jr.	1976
+Rockefeller, John D.	1977
+Rockefeller, John D.	1978
+Rockefeller, John D.	1979
+Rockefeller, John D.	1980
+Rockefeller, John D.	1981
+Rockefeller, John D.	1982
+Rockefeller, John D.	1983
+Rockefeller, John D.	1984
+Moore, Arch A. Jr.	1985
+Moore, Arch A. Jr.	1986
+Moore, Arch A. Jr.	1987
+Moore, Arch A. Jr.	1988
+Caperton, Gaston	1989
+Caperton, Gaston	1990
+Caperton, Gaston	1991
+Caperton, Gaston	1992
+Caperton, Gaston	1993
+Caperton, Gaston	1994
+Caperton, Gaston	1995
+Caperton, Gaston	1996
+Underwood, Cecil H.	1997
+Underwood, Cecil H.	1998
+Underwood, Cecil H.	1999
+Underwood, Cecil H.	2000
+Wise, Bob	2001
+Wise, Bob	2002
+Wise, Bob	2003
+Wise, Bob	2004
+Manchin, Joe III	2005
+Manchin, Joe III	2006
+Manchin, Joe III	2007
+Manchin, Joe III	2008
+Manchin, Joe III	2009
+Manchin, Joe III	2010
+Tomblin, Earl Ray	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+	1926
+	1927
+	1928
+	1929
+	1930
+	1931
+	1932
+	1933
+	1934
+	1935
+	1936
+	1937
+	1938
+	1939
+	1940
+	1941
+	1942
+	1943
+	1944
+	1945
+	1946
+	1947
+	1948
+	1949
+	1950
+	1951
+	1952
+	1953
+	1954
+	1955
+Kohler, Walter J. Jr.	1956
+Thomson, Vernon W.	1957
+Thomson, Vernon W.	1958
+Nelson, Gaylord A.	1959
+Nelson, Gaylord A.	1960
+Nelson, Gaylord A.	1961
+Nelson, Gaylord A.	1962
+Reynolds, John W.	1963
+Reynolds, John W.	1964
+Knowles, Warren P.	1965
+Knowles, Warren P.	1966
+Knowles, Warren P.	1967
+Knowles, Warren P.	1968
+Knowles, Warren P.	1969
+Knowles, Warren P.	1970
+Lucey, Patrick J.	1971
+Lucey, Patrick J.	1972
+Lucey, Patrick J.	1973
+Lucey, Patrick J.	1974
+Lucey, Patrick J.	1975
+Lucey, Patrick J.	1976
+Lucey, Patrick J. followed by M.J. Schreiber	1977
+Schreiber, M.J.	1978
+Dreyfus, Lee S.	1979
+Dreyfus, Lee S.	1980
+Dreyfus, Lee S.	1981
+Dreyfus, Lee S.	1982
+Earl, Anthony S.	1983
+Earl, Anthony S.	1984
+Earl, Anthony S.	1985
+Earl, Anthony S.	1986
+Thompson, Tommy G.	1987
+Thompson, Tommy G.	1988
+Thompson, Tommy G.	1989
+Thompson, Tommy G.	1990
+Thompson, Tommy G.	1991
+Thompson, Tommy G.	1992
+Thompson, Tommy G.	1993
+Thompson, Tommy G.	1994
+Thompson, Tommy G.	1995
+Thompson, Tommy G.	1996
+Thompson, Tommy G.	1997
+Thompson, Tommy G.	1998
+Thompson, Tommy G.	1999
+Thompson, Tommy G.	2000
+Switch; thompson then McCallum	2001
+McCallum, Scott	2002
+Doyle, Jim	2003
+Doyle, Jim	2004
+Doyle, Jim	2005
+Doyle, Jim	2006
+Doyle, Jim	2007
+Doyle, Jim	2008
+Doyle, Jim	2009
+Doyle, Jim	2010
+Walker, Scott	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	1925
+	1926
+	1927
+	1928
+	1929
+	1930
+	1931
+	1932
+	1933
+	1934
+	1935
+	1936
+	1937
+	1938
+	1939
+	1940
+	1941
+	1942
+	1943
+	1944
+	1945
+	1946
+	1947
+	1948
+	1949
+	1950
+	1951
+	1952
+	1953
+	1954
+	1955
+Simpson, Milward L.	1956
+Simpson, Milward L.	1957
+Simpson, Milward L.	1958
+Hickey, John J.	1959
+Hickey, John J.	1960
+Gage, Jack R.	1961
+Gage, Jack R.	1962
+Hansen, Clifford	1963
+Hansen, Clifford	1964
+Hansen, Clifford	1965
+Hansen, Clifford	1966
+Hathaway, Stanley K.	1967
+Hathaway, Stanley K.	1968
+Hathaway, Stanley K.	1969
+Hathaway, Stanley K.	1970
+Hathaway, Stanley K.	1971
+Hathaway, Stanley K.	1972
+Hathaway, Stanley K.	1973
+Hathaway, Stanley K.	1974
+Herschler, Ed	1975
+Herschler, Ed	1976
+Herschler, Ed	1977
+Herschler, Ed	1978
+Herschler, Ed	1979
+Herschler, Ed	1980
+Herschler, Ed	1981
+Herschler, Ed	1982
+Herschler, Ed	1983
+Herschler, Ed	1984
+Herschler, Ed	1985
+Herschler, Ed	1986
+Sullivan, Michael J.	1987
+Sullivan, Michael J.	1988
+Sullivan, Michael J.	1989
+Sullivan, Michael J.	1990
+Sullivan, Michael J.	1991
+Sullivan, Michael J.	1992
+Sullivan, Michael J.	1993
+Sullivan, Michael J.	1994
+Geringer, Jim	1995
+Geringer, Jim	1996
+Geringer, Jim	1997
+Geringer, Jim	1998
+Geringer, Jim	1999
+Geringer, Jim	2000
+Geringer, Jim	2001
+Geringer, Jim	2002
+Freudenthal, Dave	2003
+Freudenthal, Dave	2004
+Freudenthal, Dave	2005
+Freudenthal, Dave	2006
+Freudenthal, Dave	2007
+Freudenthal, Dave	2008
+Freudenthal, Dave	2009
+Freudenthal, Dave	2010
+Mead, Matthew	2011
+	2012
+	2013
+	2014
+	2015
+	2016
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

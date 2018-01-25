@@ -1,0 +1,15 @@
+Public Statements
+Inslee Fights Content Discrimination on Internet
+By: Jay Inslee
+Date: April 26, 2006
+Location: Unknown
+
+
+Inslee fights content discrimination on Internet
+Along with three fellow members of the House commerce panel, U.S. Rep. Jay Inslee (D-Wash.) fought for stronger Internet freedom protections by offering an amendment to a telecommunications reform bill that would ban phone and cable companies from charging Web sites for faster data transmission, or blocking their online competitors' content and services.
+As currently written, the legislation does not ensure so-called network or Net neutrality. It leaves open the possibility that phone companies and cable operators could charge their competitors Internet tolls and send more slowly the content of those who don't pay.
+"The basic structure and brilliance of the Internet is its open architecture, and its free and unfettered access to content of our choosing," said Inslee, during the House Energy and Commerce Committee markup of broad legislation aimed at updating the 1996 Telecommunications Act. "The right to choose what sites to visit, without financial penalty, should remain protected."
+The provision offered by Inslee and U.S. Reps. Ed Markey (D-Mass.), Anna Eshoo (D-Calif.) and Rick Boucher (D-Va.) failed on a 22-34 vote. It did gain support, however, since being rejected on April 5 by an 8-23 margin in the Telecommunications and the Internet Subcommittee markup of the underlying legislation.
+"The fundamental future of the Internet is at risk," added Inslee. "Although the toll would be placed on the site, rather than the user, those costs ultimately would be passed on to the consumer."
+The bill, titled the Communications Opportunity, Promotion, and Enhancement Act of 2006, is expected to be approved by the full committee this afternoon and sent to the floor in coming weeks for consideration by the entire House. Sponsors of the Net neutrality amendment will continue to push for the inclusion of their measure in the bill before a final vote.
+http://www.house.gov/inslee/issues/technology/internet_content_discrimination.html

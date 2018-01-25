@@ -1,0 +1,28 @@
+Public Statements
+Governor McAuliffe Orders Evaluation of Major Information Technology and Service Contracts in State Government
+Press Release
+By: Terry McAuliffe
+Date: July 9, 2014
+Location: Unknown
+
+Today Governor Terry McAuliffe issued Executive Directive Number Two, directing the Virginia Secretaries of Administration, Finance and Technology to deliver a report on the Commonwealth's practices with respect to information technology and service contracting and to make recommendations on how to spend taxpayer dollars with greater efficiency and accountability.
+As the directive states, the Governor requested the review out of his concern that Virginia government is "inappropriately dependent on expensive contract labor when traditionally-appointed state employees can perform at a higher level at a lower cost." In addition to requesting a report on the state of the Commonwealth's IT workforce and contracts, the Governor directed the Secretaries to evaluate the impacts of insourcing vs. outsourcing contract services and to study the extent to which contracting companies may misclassify workers as "independent contractors" rather than employees, a distinction that often results in employees being denied benefits like health coverage.
+The Governor's full Executive Director is below:
+Executive Directive 2 (2014)
+ASSESSING AND EVALUATING MAJOR INFORMATION TECHNOLOGY AND SERVICE CONTRACTS
+One of the primary responsibilities of the Chief Executive Officer of the Commonwealth of Virginia is to ensure that every taxpayer dollar is being spent as efficiently and transparently as possible. In the face of a revenue shortfall and potential budget cuts, the urgency to increase accountability and find cost savings in Virginia government is even greater. Virginia taxpayers spend millions of dollars annually on contractors for information technology (IT) and other services outside of our state workforce. I am concerned that state government is inappropriately dependent on expensive contract labor when traditionally-appointed state employees can perform at a higher level at a lower cost.
+In an effort to ensure that procurement decisions in state government are based on sound fiscal analysis, I am directing my Secretaries of Administration, Finance and Technology to report to me by October 1, 2014 on the following:
+An assessment of all IT full time equivalents (FTE) in state government, both contractors and state employees. From 2012 to 2013, Virginia state government saw an increase in more than 100 contingency IT contractors, costing the state an additional $17 million. This IT contingency labor program is outside the scope of larger IT contracts and projects (i.e. Northrop Grumman). A thorough review of the amount of IT personnel in each agency is needed to fully understand the issue.
+A thorough evaluation of (1) all existing major IT projects and contracts, (2) the Master Services Agreement, and (3) other major service contracts not IT related[1]. The evaluation of these contracts would include:
+Contract term
+Procurement method and history
+Original amount negotiated in contract versus actual amount currently being paid
+Number of change orders or amendments to contract
+Number of employees working on project (state employees and contractors)
+Performance standards and benchmarks
+A cost-benefit analysis of insourcing versus outsourcing these contracted jobs. This analysis would consider the costs and benefits of hiring full-time state employees instead of using contractors. The cost of health insurance and other employee benefits for these individuals should be considered in this analysis.
+Worker classifications of all contracted employees. Worker misclassification occurs when an employer improperly classifies a worker as an "independent contractor" instead of an employee of that organization. A 2012 report of the Joint Legislative Audit and Review Commission (JLARC) recommended that if misclassified employees are working on state contracts, the employer should be issued a stop work order and possibly be prohibited from bidding on future contracts for a specified period of time.
+A review of the process and protocol for approving major contracts, amendments to contracts or change orders. Currently, there is no clear singular protocol for approving contracts or amendments of major contracts. A thorough review is needed to streamline the process and to make recommendations on how to proceed more efficiently with the appropriate oversight.
+Recommendations for cost savings and efficiencies through this review.
+
+Source: https://governor.virginia.gov/news/newsarticle?articleId=5372

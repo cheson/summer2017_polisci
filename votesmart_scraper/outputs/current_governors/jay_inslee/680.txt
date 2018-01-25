@@ -1,0 +1,44 @@
+Public Statements
+Letter to Julius Genachowski, Chairman, Federal Communications Commission
+Letter
+By: Maria Cantwell Jay Inslee
+Date: Dec. 10, 2010
+Location: Washington, DC
+
+Today, Senator Maria Cantwell (D-WA) and U.S. Representative Jay Inslee (D-WA-01) urged the Chairman of the Federal Communications Commission (FCC) to ensure the final rules on net neutrality protect consumers, promote innovation and investment, and preserve the free and open Internet. In a letter sent to FCC Chairman Julius Genachowski, Cantwell and Inslee urged the Commission to consider a number of specific changes to strengthen the final rules, which are expected to be released sometime after a vote on the issue at the FCC's December 21st meeting.
+
+"As you know, the President made a commitment to "keep the Internet as it should be -- open and free,'" Cantwell and Inslee wrote."The President's commitment is just one reason why we had hoped that the Commission would take the bold actions necessary to ensure that the public Internet would remain an economic driver, and not be divided into fast and slow lanes based on someone's ability and willingness to pay. We hope that you will seize this opportunity and ensure that future generations of Americans have access to the innovation and economic potential of a free and open internet."
+
+Below is the full text of the letter:
+
+December 9, 2010
+
+Chairman Julius Genachowski
+Federal Communications Commission
+445 Twelfth Street, SW,
+Washington, DC 20554
+
+Dear Chairman Genachowski,
+
+We congratulate you on reaching an important milestone in the Commission's proceeding to preserve the open Internet. As you know, the President made a commitment to "keep the Internet as it should be -- open and free." The President's commitment is just one reason why we had hoped that the Commission would take the bold actions necessary to ensure that the public Internet would remain an economic driver, and not be divided into fast and slow lanes based on someone's ability and willingness to pay. We publicly stood by you when you released the net neutrality NPRM last year. We publicly stood by you when you released your third way. And we want to be able to say on the December 21st that we strongly support the new rules the Commission have issued to keep the Internet open and free.
+
+As you work with your colleagues at the Commission to finalize the rulemaking, we appreciate you take the following thoughts into consideration. First, at a high level, we believe that the proposed language in the FCC's October 2009 Notice of Proposed Rulemaking regarding non discrimination must be included. The language states: "subject to reasonable network management, a provider of broadband Internet access service must treat lawful content, applications, and services in a nondiscriminatory manner". Taking that idea one step further, we believe there should be no paid prioritization.
+
+Second, there needs to be one set of rules that applies to all broadband Internet access, both fixed and mobile. Consumers do not distinguish between the internet access they receive on their mobile device, and the access they receive on their desktop. The specifics of what constitutes reasonable network management, and not the rules themselves, should be used to account for the different architectures and technical constraints of broadband Internet platforms. We all know the direction the market is going. In fact, the priority the Commission is placing on alleviating the so-called spectrum crunch is confirmation of what we all see around us -- mobile is the future of the Internet. It is essential to get mobile right. If strong net neutrality rules for mobile internet access are not put in place today, through the final order, it will become too late to take action once business models become entrenched. We have seen this pattern time and time again.
+
+Additionally, we cannot underscore how critical it is to get right the definitions of broadband Internet access and reasonable network management. Our experience in the legislative trenches tells us that definitions determine who and what is covered by the rules, and where there may be loopholes that could be exploited. We recommend the starting point for the definition of broadband Internet access needs to be somewhere between the straight forward one included in the October 2009 NPRM and the definition in Chairman Waxman's draft.
+
+Regardless of any other actions the Commission takes under your leadership, the final order on the open Internet proceeding is what you will be remembered for. We hope that you will seize this opportunity and ensure that future generations of Americans have access to the innovation and economic potential of a free and open internet.
+
+Sincerely,
+
+Senator Maria Cantwell
+Representative Jay Inslee
+
+Cc:
+Michael J. Copps, Commissioner, Federal Communications Commission
+Robert McDowell, Commissioner, Federal Communications Commission
+Mignon Clyburn, Commissioner, Federal Communications Commission
+Meredith Attwell Baker, Commissioner, Federal Communications Commission
+
+Source: http://cantwell.senate.gov/news/record.cfm?id=328965

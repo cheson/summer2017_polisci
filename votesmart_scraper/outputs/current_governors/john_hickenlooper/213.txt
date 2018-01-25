@@ -1,0 +1,21 @@
+Public Statements
+Colorado Ranks Second in National Information Technology Survey
+Press Release
+By: John Hickenlooper
+Date: Sept. 3, 2014
+Location: Denver, CO
+
+Colorado ranks second in the nation when it comes to the use of information technology for its transportation and motor vehicle initiatives, according to a survey published today by the Digital States Survey.
+The 2014 Digital States Survey identifies and promotes best and emerging practices in the public sector information technology (IT) community. The biennial survey grades states on multiple categories and determines an overall grade for each state's IT efforts in government.
+"This national recognition is a testament to Colorado's momentum in innovation and the continued progress in making government efficient and effective," said Gov. John Hickenlooper. "It's great to see our collaborative spirit and commitment to finding creative solutions making a difference to our residents, our state and setting the example for the nation."
+The survey found that Colorado's transportation IT initiatives were forward-thinking, innovative and effective. In particular the survey noted the following projects:
+-The Governor's Office of Information Technology (OIT) completed upgrades to the Colorado Department of Transportation's (CDOT) Systems Applications and Products (SAP). The upgrades opened 22 new business functions and increased business capabilities and accounting project systems. This improved processes for CDOT business owners and customers.
+-Colorado converted the Oversize and Overweight Permitting System to an online system that is integrated with the Colorado State Patrol with the port of entry monitoring. This greatly reduces costs, improves efficiency and highway safety.
+-OIT and CDOT's use of Google Hangouts for video conferencing is innovative.
+Leveraging the features provided by Google Apps for Government, OIT worked with the Colorado Department of Transportation to test and implement Google Hangouts to create a video conference system used to communicate with CDOT's 3,000+ employees across the state. This has saved time and money by allowing CDOT employees to "skip the trip' to headquarters while enabling easy, cost-effective communication and collaboration between regional CDOT locations throughout the state.
+-The survey also noted national recognition ("White House Champion of Change for Transportation Innovation") that CDOT received in 2013 for "CDOT Mobile", an app that gives travelers real-time information on highway conditions, speeds and major traffic projects.
+This year, Colorado's overall grade was a "B+", which by survey definition indicates that the state is trending up with its IT initiatives and shows positive results in many of the survey categories. That grade also indicates that Colorado's leaders are using modernization to change entrenched practices to attain more sustainable operations, and that key measurements are being used to quantify results. Colorado also received a "B+" in 2012.
+The complete list of survey rankings for all 50 states can be found at www.centerdigitalgov.com.
+About the Digital States Survey: The Digital States Survey is conducted by the Center for Digital Government. It is produced biennially in even years and is a comprehensive study that examines best practices, policies and progress made by state governments in their use of digital technologies to better serve their citizens and streamline operations. The survey is conducted approximately April - June (2010, 2012, etc.) The awards are presented during the National Association of State CIOs (NASCIO) annual conference in September. The Center for Digital Government is a national research and advisory institute on information technology policies and best practices in state and local government. Through its diverse and dynamic programs and services, the Center provides public and private sector leaders with decision support, knowledge, and opportunities to help them effectively incorporate new technologies in the 21st century.
+
+Source: http://www.colorado.gov/cs/Satellite?c=Page&childpagename=GovHickenlooper%2FCBONLayout&cid=1251656578005&pagename=CBONWrapper

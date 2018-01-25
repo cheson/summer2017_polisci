@@ -1,0 +1,13 @@
+Public Statements
+Governor Chris Christie Signs E.O. To Bolster NJ's Cyber Security, IT Enterprise
+Press Release
+By: Chris Christie
+Date: June 1, 2017
+Location: Trenton, NJ
+
+Today, Governor Chris Christie signed an Executive Order that sets the State on a firm course to operate in this new digital age with flexibility to adapt to a volatile, dynamic, and ever-changing technological landscape. Executive Order No. 225 directs the Chief Technology Officer (CTO) to set in motion a course of action that will deliver more secure, efficient and reliable IT services across the Executive Branch.
+"The New Jersey Cybersecurity and Communications Integration Cell, which I established by Executive Order nearly two years ago, is now the envy of other states when it comes to detecting, analyzing, and sharing information about cyber threats to our state's networks. My administration has invested $10 million over the last year to bolster the state's cyber defenses and reduce the risks to our sprawling IT enterprise, resulting in millions of dollars in efficiency savings that we will generate for the next administration. Secure and efficient IT operations are of little value if they are not reliable, which is why we are engaging in multi-year projects to boost the dependability of the state's network and hosting environment. We are making New Jersey's digital domain better than we found it."
+The Executive Order includes software decentralization. The CTO has already undertaken a thorough review of the State's software functions that currently reside in OIT and has identified agency-specific functions where the programs are only used by one State agency. Those functions, including the people and assets associated, will be decentralized from OIT to the agency. Only software functions that are used by more than one agency or across the Executive Branch will remain with OIT.
+In addition, the EO calls for hardware centralization. The CTO will require all State agencies to provide him with an inventory of their hardware assets, including computer, storage, network and data center assets within 30 days of the EO. Within 180 days of the EO, the CTO will inform the Governor of his plan to centralize the hardware assets with OIT. The CTO is authorized to transfer the ownership and management of any agency's hardware assets to OIT
+
+Source:

@@ -1,0 +1,16 @@
+Public Statements
+GO-TIME: Advanced Cyber Analytics Saving Over $600,000 per Year While Strengthening Security
+Press Release
+By: Tom Wolf
+Date: July 22, 2016
+Location: Harrisburg, PA
+
+Governor Wolf and Secretary of Administration Sharon Minnich announced today that the implementation of advanced cyber analytics for the commonwealth's IT systems resulted in over $600,000 in efficiency gains in the previous fiscal year while also keeping Pennsylvania at the forefront of cybersecurity.
+"This is just one example of how agencies are leveraging technology to enable employees to be more productive and strengthen our programs," Governor Wolf said. "Through GO-TIME, we will continue to pursue opportunities to modernize government so that we can provide better service to the people of Pennsylvania and accomplish more with our existing resources."
+The National Association of State Chief Information Officers (NASCIO) recently published a call to action for states to develop advanced cyber analytics capabilities, which apply big data tools and techniques to respond more quickly to potential threats. The volume of data the commonwealth collects from various IT security monitoring systems and other sources has increased 10-fold. Advanced cyber analytics can correlate massive amounts of data from a multitude of sources to allow IT security staff to conduct investigations more efficiently and have greater insight into activity on the state computer network.
+"Pennsylvania has long been recognized as a leader among states in cybersecurity," said Secretary Minnich. "Advanced cyber analytics has improved the effectiveness of all of our other security tools."
+"Hackers and other cyber criminals are constantly developing new techniques to attack computer systems. We must continue to adapt to these evolving threats to help prevent sensitive data belonging to our citizens and businesses from falling into the wrong hands."
+Prior to advanced cyber analytics, a typical phishing incident took an average of 15 hours to analyze and investigate. Today, the same work can be done in less than 45 minutes. More complex investigations that used to take up to 30 days can now be done in under 30 minutes. Overall, the tool generated over $600,000 in staff efficiencies during the 15-16 fiscal year.
+The adoption of advanced cyber analytics is part of the Governor's GO-TIME initiative, which is focused on improving government operations to achieve savings and efficiencies while preserving services.
+
+Source: https://www.governor.pa.gov/go-time-advanced-cyber-analytics-saving-over-600000-per-year-while-strengthening-security/

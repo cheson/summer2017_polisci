@@ -1,0 +1,21 @@
+Public Statements
+Governor McAuliffe Announces Virginia's Continued Progress on Telehealth and Broadband Expansion
+Press Release
+By: Terry McAuliffe
+Date: Feb. 7, 2014
+Location: Unknown
+
+Today Governor Terry McAuliffe announced the results of the Virginia Center for Innovative Technology's 2013 Health Information Technology (IT) Assessment, which once again demonstrates Virginia's national leadership in telehealth initiatives. It also documents faster broadband speeds across the Commonwealth and an increase in adoption rates of electronic health records by Virginia physicians.
+"Expanding access and use of cutting edge technologies to grow Virginia's economy and improve our quality of life is one of my highest priorities," said Governor McAuliffe. "I am encouraged by this report showing that Virginia is a national leader in telehealth initiatives that will keep communities healthier and that will encourage more entrepreneurs, families, and businesses to locate in the Commonwealth. I look forward to building upon the progress we have made so far to continue to expand broadband access and health technology infrastructure to every region across Virginia."
+The annual assessment identifies gaps in broadband access, trend data related to how gaps are closing and the development of health IT initiatives in Virginia. It also identifies changes in broadband connectivity across health care provider segments, generates new data used to populate the Commonwealth's Broadband Map for healthcare facilities and providers, and classifies progress in adoption of key health IT capabilities across the Commonwealth, such as electronic health records (EHR), health information exchange (HIE) and telehealth services.
+Dr. Bill Hazel, Virginia's Secretary of Health and Human Resources, said, "Virginia continues to be a strong leader in the application of health IT, and we are looking forward to accelerating our efforts in this area."
+Important findings include:
+Virginia is a leader in telehealth adoption and utilization;
+The HIE marketplace in Virginia is more dynamic and has a larger provider pool relative to many states;
+Virginia ranks third nationally in EHR adoption among the hospital sector; and
+Virginia ranks third nationally in download speeds (11.1 Mbps > national average of 8.7 Mbps), which is critical for successful HIE.
+The assessment shows that Virginia continues to make progress in broadband deployment. Since last year, the Commonwealth has risen from 8th to 3rd in national rankings for average download speeds. Moreover, average broadband speeds have more than doubled since 2010, and Virginia has jumped from 5th to 3rd in its national ranking for hospital-based adoption of Electronic Medical Records over the past two years.
+Virginia's Secretary of Technology Karen Jackson said, "This assessment once again shows that we are continuing to grow the health IT marketplace by building the infrastructure, innovation and expertise needed for sustainable growth."
+The CIT Broadband service line completed the survey in partnership with Broad Axe Technology Partners and in conjunction with the Secretaries of Health and Human Resources and Technology. It was funded by CIT's State Broadband Initiative grant awarded by the National Telecommunication and Information Administration.
+
+Source: https://governor.virginia.gov/news/newsarticle?articleId=3237

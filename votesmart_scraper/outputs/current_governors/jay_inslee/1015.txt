@@ -1,0 +1,13 @@
+Public Statements
+Microsoft's "Open Platform Principles" Announcement
+By: Jay Inslee
+Date: July 19, 2006
+Location: Washington, DC
+
+
+MICROSOFT'S ``OPEN PLATFORM PRINCIPLES'' ANNOUNCEMENT
+Mr. INSLEE. Mr. Speaker, I commend Microsoft's announcement today that it will adopt a set of ``Open Platform Principles'' that will govern the development of Windows desktop operating systems.
+Four years ago, the Justice Department rejected calls to force Microsoft to remove code out of Windows and to reorganize its business. Instead, the department adopted a consent decree setting out basic rules to preserve competitive opportunities for other companies, while ensuring that Microsoft could continue to improve its products. As a result, the U.S. software industry is thriving with competition and innovation.
+The ``Open Platform Principles'' that Microsoft announced today give me tremendous confidence that innovation and competition will continue. The principles broaden the Department's consent decree and makes them a standard part of how Microsoft does business. They give every company, large and small, confidence that they will be treated fairly and can compete equally.
+In 2004, the European Commission ordered Microsoft to delete code out of Windows. To the commission's shock, absolutely no one bought this substandard version of Windows. The commission now appears intent on actively managing how Microsoft designs Vista, its new platform. Microsoft's new guiding principles ensure that Windows will continue to be a great platform for innovation and competition. The fact that Microsoft adopted these principles voluntarily shows that it recognizes the important responsibilities that come with being an industry leader. I congratulate Microsoft for taking this important and forward-looking step.
+http://thomas.loc.gov

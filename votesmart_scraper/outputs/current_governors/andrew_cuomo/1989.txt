@@ -1,0 +1,13 @@
+Public Statements
+Governor Cuomo Announces Milestone for Global 450mm Consortium
+Press Release
+By: Andrew Cuomo
+Date: April 2, 2014
+Location: Albany, NY
+
+Governor Andrew M. Cuomo, along with Nikon Corporation, Tokyo Electron, and the SUNY College of Nanoscale Science and Engineering (CNSE) announced today that the world's first 450mm immersion photolithography tool will begin patterning and delivery of wafers in June of 2014 in support of the Global 450mm Consortium (G450C). The G450C, which is headquartered at CNSE in Albany, New York, is a public-private partnership announced by Governor Cuomo in September 2011 that is designed in part to facilitate the nanotech industry's transition to next generation computer chip technology.
+This critical milestone will enable G450C founding members and CNSE to perform 10 nanometer (1 nanometer is a billionth of a meter) and smaller size photolithography on full silicon wafers, while optimizing tool configuration and performance. Upon completion of optimization, the Nikon Corporation tool will be delivered to CNSE in April of 2015 in accordance with the project timeline.
+"New York is becoming a world leader in nanotechnology which is creating jobs and growing our economy in upstate New York," Governor Cuomo said. "These public-private partnerships are spurring innovations that will one day change the way we live our lives. It's one more way New York is pioneering the jobs and industries of the future, including the semiconductor industry which is already responsible for thousands of jobs in the state."
+In July, Governor Cuomo announced a $350 million partnership between Nikon Corporation and CNSE to develop next generation 450mm photolithography technology and create 100 high tech jobs. Photolithography is the highly sophisticated technique of using intense light to imprint complex circuitry in the computer chip fabrication process. Over the last few years, photolithography has become the major enabling step in the manufacturing of nanometer size transistors that are the buildings blocks of today's computer chips. Nikon Corporation, Tokyo Electron, and CNSE have worked aggressively to bring the first of its kind tool online in less than 12 months and further advance the industry transition from the current 300mm wafer platform to the next generation 450mm wafer platform.
+
+Source:

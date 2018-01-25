@@ -1,0 +1,18 @@
+Public Statements
+Governor's Office News Release: Text-to-911 Service Launches in Hawaiʻi
+Press Release
+By: David Ige
+Date: Oct. 13, 2016
+Location: Honolulu, HI
+
+Gov. David Ige announced today that Hawaiʻi has launched an enhanced 911 service allowing residents to report an emergency to 911 as a text message.
+Text-to-911 can support plain text Short Messaging Services (SMS) messages only and is limited to 160 characters per text. Pictures, videos and emojis currently cannot be processed. In addition, callers must have active wireless service including a text or data plan, and the device's location service must be turned on. Text-to-911 may not be available if the wireless phone is roaming or outside of the provider's coverage area.
+Consumers are advised to call 911 when possible because calling is a faster, more efficient way to relay an emergency as the caller's location isn't automatically sent to emergency responders in a text.
+"While voice calls are always best, text-to-911 service provides practical mobile emergency communications for our deaf, hard of hearing and speech-impaired communities," said Gov. Ige.
+"Given Hawai"i's unique and rural geography, technology advances, and the hearing/speech-impaired members of our community, it's critical that we close the gap to ensure everyone has access to our first responders. The "Text-to-911' service is a revolution in how we alert the authorities to emergent, life-or-death situations that do not allow for a caller to speak to a dispatcher, such as with home invasions, domestic violence cases, or active shooter scenarios. This new service will help save lives all across Hawaiʻi. As one of only seven states to implement this program, Hawaiʻi is leading the way in serving all members of our community," said Congresswoman Tulsi Gabbard (HI-02).
+E911 Board chair and Hawaii County Police Department Deputy Chief Paul Ferreira reported a total cost of over $3-4 million dollars per local area public safety answering points (PSAP) to upgrade the Computer Assisted Dispatch software systems and infrastructure that can now receive text messages.
+Steve Schutte, Verizon government account manager, represented private telecomm service providers and acknowledged HawaiianTel support in achieving this technological challenge to enable text messaging. Extensive testing with all wireless carriers was conducted at all PSAP locations prior to this statewide launch, and ongoing testing continues to ensure smooth operations. "As Hawaiʻi's only local service provider, our team is dedicated to leveraging the power of technology to meet the needs of our customers and our community," said Mr. Schutte.
+"Text messaging is one of the primary ways we communicate today and texting 911 can save lives when it's safer not to speak such as a home invasion or situations involving domestic violence or an active shooter," said Courtney Tagupa, Executive Director of Hawaiʻi's Enhanced 911 Board. "We're grateful to our telecommunications service providers and all of our PSAPs for their leadership and dedication to this important project."
+According to the Federal Communications Commission, Hawaiʻi joins New Hampshire, Vermont, Maine, Indiana, New Jersey and North Dakota as states where text-to-911 is available statewide.
+
+Source: http://governor.hawaii.gov/newsroom/governors-office-news-release-text-to-911-service-launches-in-hawai%CA%BBi/

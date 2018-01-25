@@ -1,0 +1,42 @@
+Public Statements
+Letter To The Honorable Lisa P. Jackson, Administrator, U.S. Environmental Protection Agency
+Letter
+By: Kit Bond Ben Nelson Claire McCaskill Pat Roberts Sam Brownback Timothy Johnson Kent Conrad John Thune Chuck Grassley Robert Corker Jon Tester Tom Harkin
+Date: March 16, 2009
+Location: Washington, DC
+
+A bipartisan group of 12 U.S. Senators led by Tom Harkin (D-IA) and Chuck Grassley (R-IA) called on the Environmental Protection Agency (EPA) not to propose regulations assuming that greater U.S. biofuels use would increase carbon dioxide emissions. The senators argued the data and methods for calculating such "indirect land use changes" such as from forest or grassland to crops are not adequately developed, and thus should not be used in ways making it harder for ethanol and biodiesel to meet requirements of the Energy Independence and Security Act of 2007 for reduced carbon emissions from advanced biofuels under the Renewable Fuel Standard (RFS).
+"This Renewable Fuel Standard is essential to breaking our over-dependence on oil. To do that, we need new domestic fuels as well as new vehicle technologies," said Harkin, Chairman of the Senate Committee on Agriculture, Nutrition and Forestry. "With the RFS, we put ourselves on a clear path of producing and using steadily increasing levels of a variety of biofuels over the next 15 years, and we included these emissions' limits to ensure that these new fuels would also be good for our environment and climate. However, for this to work, we simply must have valid data and methods for calculating the emissions. Otherwise, we'll exclude some good biofuels and stifle the investment that is so essential to our national renewable fuels strategy.
+"It defies common sense that EPA would publish a proposed rulemaking with harmful conclusions for biofuels based on incomplete science and inaccurate assumptions," Grassley said. "EPA's actions, if based on erroneous indirect land use assumptions, could hinder biofuels development and actually extend America's reliance on dirtier fossil fuels. Agricultural practices and land use decisions in other countries are not driven by U.S. biofuels policy, and should not be used to undermine our domestic biofuels industry."
+Their letter to EPA Administrator Jackson recommends that EPA refrain from including calculations of the effects of indirect land use changes in their rulemaking at this time. The law requires biofuels to meet certain life-cycle greenhouse gas emission caps in order to qualify for the RFS. And, it specifies that those life-cycle greenhouse gas emissions are to include the effects of indirect land use changes. The challenge is that the ability to calculate future indirect land use changes resulting from production of biofuels is very limited by the lack of both proven and accepted land use models and sufficient information about input data. For example, future land use policies may well be major factors in determining future land use changes, and yet adequate information and approaches for calculating the effects of such as-yet-unknown policies aren't available.
+The full text of the letter follows.
+March 13, 2009
+The Honorable Lisa P. Jackson
+Administrator
+U.S. Environmental Protection Agency
+Ariel Rios Building
+1200 Pennsylvania Ave., NW
+Washington, DC 20460
+Dear Administrator Jackson:
+In a letter to Administrator Johnson in November several of us recommended that the EPA not include calculations of indirect land use change (ILUC) effects as contributors to life-cycle greenhouse gas (GHG) emissions for biofuels in the forthcoming Notice of Proposed Rulemaking (NOPR) for implementation of the updated Renewable Fuels Standard (RFS-2) enacted in the Energy Independence and Security Act (EISA) of 2007 (P.L. 110-140). This letter repeats that recommendation and expands on its basis.
+Under RFS-2, various biofuels must meet specified life-cycle GHG emission reduction targets to qualify. The law specifies that life-cycle GHG emissions are to include "direct emissions and significant indirect emissions such as significant emissions from land use changes, as determined by the Administrator." Thus, for example, if increased production of a specific type of biofuel in the United States can be shown to cause a shift in land use, the immediate and future greenhouse gas emissions resulting from that land use change are to be included in the life-cycle GHG emissions for that biofuel when determining whether it is eligible to be counted towards the RFS-2 mandate.
+We understand that EPA has developed a methodology for calculating the indirect land use change components of the life-cycle GHG emissions for various biofuels and intends to include results of that methodology in its proposed rulemaking for the RFS-2. We also understand that, according to EPA's methodology, the ILUC components contribute substantially to the life-cycle GHG emissions for several biofuels, including corn ethanol, sugarcane-based ethanol, and soy-based biodiesel. Indeed, according to EPA's current ILUC calculations, existing soy-based biodiesel production may not count towards the biodiesel mandate in RFS-2.
+EPA acknowledges that quantification of the ILUC components of life-cycle GHG emissions for biofuels is very difficult at this time. Many factors drive land use changes. Quantifying land use changes resulting from biofuels production needs to take into account these other factors, such as population growth, economic growth that drives demand for land-based food, feed and fiber production, urbanization, extracting lumber or mineral resources, and, of course, the very different and rapidly evolving land use policies of the United States and other nations. Not only are the land use impacts of these factors difficult to quantify; there is considerable uncertainty about predicting their future magnitude and effects. There also is an unresolved debate about how present and future GHG emissions should be compared, specifically whether a discount rate should be applied to future GHG emissions, and if so, what might be an appropriate discount rate for future GHG emissions.
+An additional complication for the EPA methodology is that it cannot foresee or model future land use restrictions that might result from future national or international agreements or policies. Because land use changes such as deforestation can result in very large GHG emissions, it is possible that future domestic and international climate change policies will include major provisions restricting land use changes. Indeed, that may be the most appropriate and effective way to reduce GHG emissions associated with land use changes. At the same time, these land use restrictions in future international climate change policies are a major factor whose effects cannot be quantified until they are adopted. And yet, ignoring them introduces a major uncertainty into quantifying the ILUC components of life-cycle GHG emission calculations for biofuels today.
+Given the complexity and uncertainty of this issue as well as what we believe are basic analytical limitations, we urge EPA to refrain from including any calculations of the ILUC components in determining life-cycle GHG emissions for biofuels at this time. The premature publication and use of inaccurate or incomplete data could compromise the ability to formulate a sound approach to implementing this life cycle GHG emissions requirement in the future. And the resultant rulemaking confusion could seriously harm our U.S. biofuels growth strategy by introducing uncertainty and discouraging future investments. Instead, EPA should move forward in a manner that allows for public review and refinement of the methodology that is ultimately used to calculate the contributions to GHG emissions associated with ILUC.
+Thank you in advance for your consideration of these recommendations.
+Sincerely,
+Senator Tom Harkin
+Senator Charles Grassley
+Senator Kit Bond
+Senator Sam Brownback
+Senator Bob Corker
+Senator Kent Conrad
+Senator Tim Johnson
+Senator Claire McCaskill
+Senator Ben Nelson
+Senator Pat Roberts
+Senator Jon Tester
+Senator John Thune
+
+Source: http://harkin.senate.gov/pr/p.cfm?i=309849

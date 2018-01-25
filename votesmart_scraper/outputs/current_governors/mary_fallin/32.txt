@@ -1,0 +1,22 @@
+Public Statements
+Gov. Fallin, OMES on Cybersecurity Incident: Unification Essential to Prevent Cybersecurity Attacks
+Press Release
+By: Mary Fallin
+Date: Feb. 14, 2017
+Location: Oklahoma City, OK
+
+Governor Mary Fallin and the Oklahoma Office of Management and Enterprise Services (OMES) are offering the following information regarding a cyberattack against a state agency that was referenced last week during a state House of Representatives Government Modernization Committee meeting.
+The agency referenced did not pay a ransom as a result of the cyber incident, an investigation by Oklahoma CyberCommand, an arm of OMES Information Services, confirmed today.
+The incident in question was a ransomware attack on an agency that had not had its information technology (IT) unified under House Bill 1304 passed in 2011. The fact that the incident even brought about the consideration of paying a ransom shows the importance of IT unification.
+"This incident further illustrates how essential IT unification has been in protecting our state's technological infrastructure," Fallin said. "The importance of state agencies unifying their IT with OMES to have the best cybersecurity available cannot be understated. "
+Unification allows agencies to have the updated resources of Oklahoma CyberCommand that quickly detect and prevent ransomware attacks, said Oklahoma CyberCommand Director Mark Gower.
+"CyberCommand has created a specific set of technical and response capabilities for dealing with an increase in ransomware attacks that can encrypt state computers and make them inaccessible until ransom has been paid," Gower said. "Not a single unified state agency has been forced to pay ransom. Nonunified agencies don't have access to the same levels of services through CyberCommand and can therefore be more vulnerable."
+In 2016, CyberCommand successfully responded to about 32,000 cases of unique malware, about 750 instances of malicious activity, nearly 400 occasions of unauthorized access and two denial-of-service attacks. The state's ongoing information technology unification effort and the OMES Security Operations Center can identify and respond quickly 24/7 to cyberattack. Nonunified agencies are responsible for their own cybersecurity and typically don't have the same updated resources available through Oklahoma CyberCommand.
+"This just validates that unification efforts are proving to be successful on this front in addition to saving Oklahomans millions of dollars," said Secretary of Finance, Administration and Information Technology Preston L. Doerflinger, who is the director of OMES.
+"Any calls to unwind the mandated unification of state agencies or exempt certain state agencies from the unification process are misguided and motivated by something other than the best interests of the state of Oklahoma," Doerflinger said. "Further, as this incident shows, those misguided efforts could expose Oklahomans private information to greater chances of falling into the wrong hands."
+To date, 58 of 78 legislatively mandated agencies have unified their information technology with OMES. Another 31 agencies have voluntarily unified their IT with OMES. Unifying IT services has not only resulted in a combined reduced spending and projected savings of about $129 million, but also provides better access to security resources, said Oklahoma Chief Information Officer Bo Reese.
+"The state continues to have cyber threats, and the services unified agencies have afford greater protections than agencies that have not yet consolidated," Reese said.
+At this time, no further details of the referenced incident are available for release as it could compromise the cybersecurity of the agency in question and possibly other agencies.
+As part of the unification effort, the remaining 20 legislatively mandated agencies are expected to be unified with OMES by the end of the fiscal year.
+
+Source: https://www.ok.gov/triton/modules/newsroom/newsroom_article.php?id=223&article_id=29400

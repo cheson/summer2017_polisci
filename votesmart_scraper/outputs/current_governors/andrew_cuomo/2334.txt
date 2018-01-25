@@ -1,0 +1,44 @@
+Public Statements
+Governor Cuomo Announces Investigation Uncovers Billions of Dollars in Hidden Shadow Insurance Risk that Could Threaten Policyholder and Taxpayer Interests
+Press Release
+By: Andrew Cuomo
+Date: June 12, 2013
+Location: Albany, NY
+
+Governor Andrew M. Cuomo today announced that a nearly year-long New York State Department of Financial Services (DFS) investigation has uncovered that New York-based insurers and their affiliates are on the hook for at least $48 billion in hidden "shadow insurance' transactions through shell companies in other states and offshore. Shadow insurance is a little-known loophole that puts policyholders and taxpayers at greater risk by allowing insurers to make their balance sheets appear artificially rosy and divert policyholder reserves to other purposes.
+
+"Shadow insurance undermines transparency and accountability in the financial and insurance industries which is critical to our economy," Governor Cuomo said. "It is vital that companies compete based on the quality of their products and services -- rather than which ones can best exploit financial loopholes like shadow insurance that put consumers and taxpayers at greater risk. Our investigation shows that this is a problem all across the nation, so I encourage other state governments -- as well as our federal officials -- to look into these questionable transactions immediately to protect all consumers."
+
+Benjamin M. Lawsky, Superintendent of Financial Services said: "A key lesson of the financial crisis is that regulators have a responsibility to shine a light on questionable financial practices that shift risk out of sight and into the shadows. If we let our guard down and ignore this regulatory race to the bottom, taxpayers and insurance policyholders are the ones who could get left holding the bag. We as regulators should consider hitting the pause button on these sorts of transactions."
+
+Background on DFS Investigation into Shadow Insurance
+
+In July 2012, DFS initiated an investigation into shadow insurance at New York-based insurance companies and their affiliates.
+Insurance companies use shadow insurance to shift blocks of insurance policy claims to special entities -- often in states outside where the companies are based, or else offshore (e.g., the Cayman Islands) -- in order to take advantage of looser reserve and regulatory requirements. Reserves are funds that insurers set aside to pay policyholder claims.
+
+In a typical shadow insurance transaction, an insurance company creates a "captive" insurance subsidiary, which is essentially a shell company owned by the insurer's parent. The company then "reinsures" a block of existing policy claims through the shell company -- and diverts the reserves that it had previously set aside to pay policyholders to other purposes, since the reserve and collateral requirements for the captive shell company are typically lower. Sometimes the parent company even effectively pays a commission to itself from the shell company when the transaction is complete.
+
+This financial alchemy, however, does not actually transfer the risk for those insurance policies off the parent company's books because, in many instances, the parent company is ultimately still on the hook for paying claims if the shell company's weaker reserves are exhausted through a "parental guarantee." That means that when the time finally comes for a policyholder to collect their promised benefits after years of paying premiums -- such as when there is a death in their family -- there is a smaller reserve buffer available at the insurance company to ensure that the policyholders receive the benefits to which they are legally entitled.
+
+The Findings of DFS's Extensive Investigation
+
+DFS's nearly year-long investigation into shadow insurance uncovered:
+
+48 Billion in Shadow Insurance at New York-based Insurers and Their Affiliates Alone. New York-based insurance companies and their affiliates engaged in at least $48 billion of shadow insurance transactions to lower their reserve and regulatory requirements.
+Inconsistent, Spotty, and Incomplete Disclosures. New York-based insurance companies failed to disclose the parental guarantees associated with nearly 80 percent ($38 billion) of that $48 billion in shadow insurance in their statutory, annual financial statements. And where those companies did make disclosures, those disclosures were often spotty and incomplete.
+Reserves Diverted, Artificially Rosy Capital Buffers. As previously noted, shadow insurance allows companies to divert reserves for other purposes besides paying policyholder claims. Those other purposes may include anything from an acquisition of another company to executive compensation to paying dividends to investors. In most cases, though, DFS's investigation revealed that insurance companies manipulated those reserves in order to artificially boost the risk-based capital ("RBC") buffers that they reported to regulators, investors, and the broader public -- all without actually raising any new capital or reducing risk. In other words, shadow insurance makes a company's capital buffers -- which serve as shock absorbers against unexpected losses or financial shocks -- appear larger and rosier than they actually are.
+Weak Transparency, Regulatory Blind Spots. Most states have laws that provide for strict confidentiality on financial information related to shadow insurance. These confidentiality requirements prevent regulators from outside that state from having a full window into the risks that those transactions create. Indeed, the current lack of transparency surrounding shadow insurance is what, in great part, drove DFS to undertake this investigation.
+Regulatory Race to the Bottom. A number of the other states outside New York where shadow insurance is written permit the use of riskier types of "collateral" to back shadow insurance claims, such as "hollow assets," "naked parental guarantees," and "conditional letters of credit." Those weaker collateral requirements mean that policyholders are at greater risk.
+As part of its investigation, under Section 308 of the New York Insurance Law, DFS required all life insurers based in New York to provide information on shadow insurance transactions. However, the findings of this investigation and DFS's authority under Section 308 are limited to New York-based life insurers. As such, the $48 billion in shadow insurance transactions that DFS's investigation uncovered are likely just a fraction of the total shadow insurance outstanding nationwide. There are almost certainly tens, if not hundreds, of billions of dollars of additional shadow insurance on the books of insurance companies across the country.
+
+Superintendent Lawsky added: "This is just the tip of the iceberg. There are billions of dollars in additional shadow insurance risk on the books of other companies that hasn't been disclosed. Other state regulators and federal officials should move quickly to conduct similar investigations so that the public has a more complete picture of the shadow that this questionable practice casts over the insurance industry."
+
+DFS's Recommendations on Shadow Insurance
+
+Given the troubling findings uncovered during its investigation, DFS is making several immediate recommendations to address the potential risks and lack of transparency surrounding shadow insurance:
+Through its authority under New York Insurance Law, DFS will require detailed disclosure of shadow insurance transactions by New York-based insurers and their affiliates.
+In the interest of national uniformity, the National Association of Insurance Commissioners ("NAIC") should develop enhanced disclosure requirements for shadow insurance across the country.
+The Federal Insurance Office ("FIO"), Office of Financial Research ("OFR"), the NAIC, and other state insurance commissioners should conduct investigations similar to DFS's to document a more complete picture of the full extent of shadow insurance written nationwide.
+State insurance commissioners should consider an immediate national moratorium on approving additional shadow insurance transactions until those investigations are complete and a fuller picture emerges.
+
+Source: http://www.governor.ny.gov/press/06122013cuomo-announces-uncover-insurance-risk

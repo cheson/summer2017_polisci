@@ -1,0 +1,142 @@
+Public Statements
+Department of Justice and Department of Defense Respond to Congressional Request for Investigation of Alleged NSA Espionage
+By: Jay Inslee
+Date: Jan. 11, 2006
+Location: Washington, DC
+
+
+Department of Justice and Department of Defense Respond to Congressional Request for Investigation of Alleged NSA Espionage
+January 11, 2006
+
+Washington, DC - The Department of Justice and Department of Defense have responded to requests for investigations by Rep. Zoe Lofgren (D-San Jose) and 38 other Members of Congress into reports that the President authorized and the National Security Agency (NSA) engaged in espionage of persons inside the United States without obtaining court-ordered warrants. Below are the text of the initial letter and subsequent correspondence from the Department of Justice and the Department of Defense:
+December 20, 2005
+Thomas F. Gimble, Acting Inspector General
+United States Department of Defense
+c/o Office of the Inspector General of the Department of Defense
+Office of Communications and Congressional Liaison
+400 Army Navy Drive
+Arlington, VA 22202-4704
+Glenn A. Fine, Inspector General
+United States Department of Justice
+Office of the Inspector General
+950 Pennsylvania Avenue, N.W., Suite 4706
+Washington, DC 20530-0001
+David M. Walker
+Comptroller General
+U.S. Government Accountability Office
+441 G Street, NW
+Washington, DC 20548
+Dear Sirs:
+We, the undersigned Members of Congress, write to seek immediate investigations of reports that the Attorney General has authorized and that the National Security Agency (NSA) has engaged in espionage of persons inside the United States without obtaining court-ordered warrants authorizing these searches.
+The New York Times reports that since 2002 the NSA has monitored international telephone calls and email messages of hundreds and possibly thousands of people inside the United States without warrants.[1] According to this report, the NSA began conducting such domestic surveillance following a 2002 order by the President of the United States. Furthermore, the report states that, even according to its own officials, such domestic espionage is unprecedented in the NSA's history.
+It is apparent that such domestic surveillance violates section 1802(a) of the Foreign Intelligence Surveillance Act, 50 U.S.C. § 1802(a). That law permits electronic surveillance of communications without a court order only if the Attorney General certifies that (1) these communications are exclusively between or among foreign powers; and (2) there is no substantial likelihood that the surveillance will acquire the contents of any communication to which a United States person is a party.[2] According to the report in the New York Times, the NSA appears to have routinely violated these prohibitions by conducting surveillance on at least 500 and possibly thousands of individuals located in the United States, "including American citizens [and] permanent legal residents"[3] who are United States persons within the meaning of FISA.[4]
+We ask that you begin immediate investigations of these alleged violations of the law and misuse of appropriated funds by the Attorney General of the United States, the Director of the National Security Agency, and any of their subordinate officials. We ask that you be ready to brief us, the undersigned Members of Congress, on the results of your investigations no later than January 31, 2006.
+Sincerely,
+Zoe Lofgren (D-CA)
+Gary Ackerman (D-NY)
+Brian Baird (D-WA)
+Howard Berman (D-CA)
+Earl Blumenauer (D-OR)
+Madeleine Bordallo (D-GU)
+Rick Boucher (D-VA)
+Sherrod Brown (D-OH)
+Lois Capps (D-CA)
+Julia Carson (D-IN)
+John Conyers (D-MI)
+Peter DeFazio (D-OR)
+Diana DeGette (D-CO)
+John Dingell (D-MI)
+Eliot Engel (D-NY)
+Barney Frank (D-MA)
+Al Green (D-TX)
+Raul Grijalva (D-AZ)
+Michael Honda (D-CA)
+Jay Inslee (D-WA)
+Barbara Lee (D-CA)
+Nita Lowey (D-NY)
+Carolyn Maloney (D-NY)
+Edward Markey (D-MA)
+Doris Matsui (D-CA)
+James McGovern (D-MA)
+Martin Meehan (D-MA)
+George Miller (D-CA)
+Jerrold Nadler (D-NY)
+Steven Rothman (D-NJ)
+Bernard Sanders (I-VT)
+Janice Schakowsky (D-IL)
+Allyson Schwartz (D-PA)
+Bobby Scott (D-VA)
+Adam Smith (D-WA)
+Ted Strickland (D-OH)
+Bennie Thompson (D-MS)
+Mark Udall (D-CO)
+Chris Van Hollen (D-MD)
+***
+January 4, 2006
+The Honorable Zoe Lofgren
+U.S. House of Representatives
+Washington D.C. 20515
+Dear Congresswoman Lofgren:
+This is in response to your letter of December 20, 2005, in which you and 37 other Members of Congress requested that the Department of Justice Office of the Inspecter General (OIG), the Department of Defense OIG, and the Government Accountability Office (GAO) investigate issues related to surveillance activities by the National Security Agency (NSA). Specifically, your letter raises concerns about the legality and appropriateness of NSA surveillance activities and requests an investigation of, among other things, the Attorney General's reported actions in authorizing the program.
+After reviewing your letter, we have determined that the issue of the Attorney General's actions in this matter falls outside the jurisdiction of the OIG. Specifically, the actions of the Attorney General or other Department attorneys in providing legal advice regarding the legality of warrantless surveillance by NSA relates to the legal duties of Department attorneys, which falls within the jurisdiction of the Department's Office of Professional Responsibility (OPR), not the OIG. As a result, we have contacted the Counsel for the Department's OPR and have forwarded your letter to OPR for its review and any action it deems appropriate.
+Given the large number of signatories to your December 20 letter, we would appreciate it if you could share this response with interested Members.
+Sincerely,
+Glenn A. Fine
+Inspector General
+Cc: H. Marshall Jarrett, Counsel
+Office of Professional Responsibility
+***
+January 9, 2006
+Glenn A. Fine, Inspector General
+United States Department of Justice
+Office of the Inspector General
+950 Pennsylvania Avenue, N.W., Suite 4706
+Washington, DC 20530-0001
+Dear Mr. Fine:
+This is in response to your letter of January 4, 2006, in which you state your view that investigation by your office of the Attorney General's authorization of domestic warrantless surveillance by the National Security Agency (NSA) would fall outside the scope of your office's jurisdiction but instead within the jurisdiction of the Department of Justice's Office of Professional Responsibility (OPR).
+We write to disagree with this conclusion and to renew our request that you promptly begin an investigation of these alleged abuses, pursuant to your statutory responsibilities under the Inspector General Act.
+Under that law, the Department of Justice (DOJ) Office of Inspector General has the "duty and responsibility" to report to Congress "abuses and deficiencies relating to the administration of programs and operations" within the Department of Justice.[5] Furthermore, under Section 1001 of the PATRIOT Act, your office is designated as the one entity responsible for the review of information and complaints regarding civil rights and civil liberties violations by DOJ employees and officials.[6] We disagree with your characterization of the jurisdiction of DOJ's Office of Professional Responsibility in this matter. Under the order establishing the OPR, its jurisdiction extends only to allegations of misconduct by attorneys in the "exercise of their authority to investigate, litigate or provide legal advice."[7] This authorizing language parallels the jurisdictional language in the Inspector General Act, allowing OPR referrals for allegations of misconduct relating to the "exercise of the authority of an attorney to investigate, litigate, or provide legal advice."[8]
+Notwithstanding your characterization to the contrary, the allegations at issue here do not relate to the Attorney General's provision of legal advice to any party, but rather allegations of his non-compliance with the Foreign Intelligence Surveillance Act (FISA) in the conduct of his official duties. Your letter fails to explain how, in the absence of any investigation by your office, you have concluded that the Attorney General's conduct in question extends no further than "provid[ing] legal advice."
+A refusal to investigate the Attorney General may not rest on the mere fact of his being an attorney in the employ of DOJ. Such a reading of the Inspector General Act would effectively eviscerate the investigation by your office of any attorneys engaged in official misconduct, largely defeating our purpose in creating your office. It would hardly be a sensible reading of your statutory duty that empowers you to investigate only the non-attorneys employed at the Department of Justice.
+Federal courts have been careful to distinguish between the roles government employees fill as attorneys providing counsel as opposed to as officials conducting government business. The D.C. Circuit Court of Appeals has ruled that an attorney in the White House Counsel's office may not refuse to testify about possible criminal conduct on the basis of attorney-client privilege. As the Court of Appeals stated, "the Office of the President is a part of the federal government, consisting of government employees doing government business, and neither legal authority nor policy nor experience suggests that a federal government entity can maintain the ordinary common law attorney-client privilege to withhold information relating to a federal criminal offense."[9] The Court further stated, "With respect to investigations of federal criminal offenses, and especially offenses committed by those in government, government attorneys stand in a far different position from members of the private bar. Their duty is not to defend clients against criminal charges and it is not to protect wrongdoers from public exposure. The constitutional responsibility of the President, and all members of the Executive Branch, is to 'take Care that the Laws be faithfully executed.' U.S. CONST. art. II, § 3."[10] In light of this careful distinction between government employees acting as legal counsel versus acting as officials conducting government business, we fail to see how you conclude, without any investigation, that the Attorney General's alleged criminal violations of FISA constitute the simple provision of legal advice.[11]
+For the foregoing reasons, we disagree with your proffered basis for refusing to conduct the investigation we called for in our previous letter - an investigation that is your "duty and responsibility" under the law.[12] We ask that you respond in writing by January 11, 2006, confirming that you will conduct the investigation we called for in our previous letter and present your results to us by January 31. We request your immediate attention to this highly serious matter.
+Sincerely,
+Zoe Lofgren
+Mark Udall
+Sam Farr
+Diana DeGette
+Ed Markey
+Peter DeFazio
+Rick Boucher
+Doris Matsui
+John Conyers
+Carolyn Maloney
+Jan Schakowsky
+Gwen Moore
+John Dingell
+Jay Inslee
+Jim McGovern
+***
+Jan. 10, 2006
+The Honorable Zoe Lofgren
+U.S. House of Representatives
+Washington, DC 20515-0516
+Dear Representative Lofgren:
+Thank you for the letter from you and your colleagues dated December 20, 2005, concerning press reports of certain surveillance activates by the National Security Agency (NSA). We have determined that the Inspector General of NSA is already actively reviewing aspects of that program. The NSA's Office of Inspector General is a well-staffed, highly professional organization with considerable expertise in the oversight of electronic surveillance, and we work closely with them on a number of issues. I should also note that the program you inquire about is highly classified. In light of those facts, and in light of our confidence in the competence and integrity of the NSA Inspector General and his staff, we have referred your letter to him with the suggestion that he review it an d reply through the appropriate channel, which in this instance would be the Chairman and Ranking Member of the House Permanent Select Committee on Intelligence. He has agreed to do so.
+I appreciate your expression of concern and trust this letter response to your inquiry. A similar letter has been sent to other Members who cosigned the letter. Should you have any questions regarding this matter, please contact me or Mr. John R. Crane, Assistant Inspector General for Communications and Congressional Liaison at (703)604-8324.
+Sincerely,
+Thomas F. Gimble
+Acting
+[1] See "Bush Lets U.S. Spy on Callers without Courts," James Risen and Eric Lichtblau, New York Times, Dec. 16, 2005.
+[2] See 50 U.S.C. § 1802(a)(1).
+[3] See n. 1.
+[4] "United States persons" include U.S. citizens, lawful permanent residents, U.S. corporations, or associations consisting of a substantial number of U.S. citizens or permanent residents. See 50 U.S.C. § 1801(i).
+[5] 5 app. U.S.C. § 4(a)(5).
+[6] P.L. 107-56, Title X, § 1001, 115 Stat. 391.
+[7] "Jurisdiction for Investigation of Allegations of Misconduct by Department of Justice Employees," Order No. 1931-94, Office of the Attorney General (Nov. 8, 1994).
+[8] 5 app. U.S.C. § 8E(b)(3).
+[9] In re: Bruce R. Lindsey (Grand Jury Testimony), 148 F.3d 1100, 1102 (D.C. Cir. 1998), cert. denied Office of the President v. Office of Independent Counsel, 525 U.S. 996 (1998).
+[10] Id. at 1108.
+[11] See infra n. 8.
+[12] See infra n. 5.
+http://www.house.gov/apps/list/press/ca16_lofgren/pr_060111_DOJ_and_DOD_Respond.html

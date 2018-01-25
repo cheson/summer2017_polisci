@@ -1,0 +1,20 @@
+Public Statements
+Inslee Announces Measures to Strengthen Cyber Security and Digital Privacy
+Press Release
+By: Jay Inslee
+Date: Jan. 6, 2016
+Location: Unknown
+
+Gov. Jay Inslee on Wednesday announced an innovative partnership with the U.S. Department of Homeland Security to strengthen the protection of critical infrastructure and government services.
+He also signed an executive order creating a new state Office of Privacy and Data Protection. Both announcements were made at the Governor's Summit on Cyber Security and Privacy in Seattle.
+The partnership between Homeland Security and the Washington State Office of Cyber Security will explore new ways for state government to defend against increasingly sophisticated and targeted cyber threats.
+"We are the world's center for digital commerce. We know that in this digital era, good cyber security is essential to the continuity of global commerce and to a thriving economy," Inslee said. "We're excited that Washington's work in this area is being recognized by the Department of Homeland Security. They've chosen our state for an innovative pilot program that will further strengthen our efforts to defend our critical infrastructure."
+The partnership with Homeland Security is a pilot effort to develop a playbook of critical infrastructure defense strategies that states and local governments can adopt. These include:
+* Proven cyber defense measures for government services, and critical infrastructure such as utilities;
+* Vulnerability identification and prioritization strategies to defend against cyber-attacks; and
+* Operational response and mitigation tools.
+Homeland Security and the state Office of Cyber Security will establish an advisory board of experts from government, critical infrastructure providers, and intelligence organizations to guide development of the playbook.
+The new Office of Privacy and Data Protection, created by the governor's executive order, will build on work currently being done by the state Chief Privacy Officer, Alex Alben. The new office will provide privacy training and best practices to state agencies, and provide consumer outreach and education for Washington state residents.
+"People need to know that their data is secure," Inslee said. "I've taken this important step to provide Washington citizens with an important resource to help protect their digital identity, and help state agencies best safeguard the data entrusted to the state."
+
+Source: http://www.governor.wa.gov/news-media/inslee-announces-measures-strengthen-cyber-security-and-digital-privacy

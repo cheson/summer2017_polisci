@@ -1,0 +1,19 @@
+Public Statements
+State of Georgia Unveils New Innovative Online Portal
+Press Release
+By: Nathan Deal
+Date: May 25, 2012
+Location: Unknown
+
+Gov. Nathan Deal today announced a major redesign of the state's official website, www.georgia.gov, which offers friendlier navigation, greater usability and more robust search functions. GeorgiaGov, planned and implemented by the Georgia Technology Authority, provides information and services for more than 115 state agencies.
+"We are excited to announce this new innovation in Georgia's delivery of information, and we plan to stay in the forefront of e-government," said Deal. "With the Internet becoming the No. 1 way people interact with government, Georgians need to be able to access information and services quickly. It saves them time and saves our state money."
+New site features include:
+* GeorgiaGov is the first state portal in the country to be powered on Drupal, an open-source content management system that runs both the White House and House of Representatives websites.
+* It is the first state portal to use Responsive Web Design, a technique that adapts the layout of the site based on the device accessing it. This means that mobile users, a rapidly growing demographic, will have a site customized for their viewing.
+* "Popular Topics" pages feature information on the 50 most popular topics according to past search data and information from 1-800-Georgia, the state's call center. These pages provide basic facts, frequently asked questions, and links to common online services and forms.
+* The "This Week in Georgia" blog highlights new and noteworthy happenings in state government.
+* Improved City and County government pages now feature interactive maps and local contact information.
+GeorgiaGov draws traffic of an average 1.2 million page views a month. The state also plans to move over 54 other state agency websites to Drupal by fall 2012. By using a common platform, the websites will showcase consistency in layout, designs, and user experience while maintaining their own brand. The state will save around $4.6 million by moving to the new system.
+The GeorgiaGov redesign project took GTA 18 months to implement. Vendors who assisted on the project include Phase2 Technology, Atlanta-based MediaCurrent and Acquia.
+
+Source: http://gov.georgia.gov/00/press/detail/0,2668,165937316_184600248_185380533,00.html

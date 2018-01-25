@@ -1,0 +1,14 @@
+Public Statements
+Governor Cuomo Announces Construction Approval For Mesonet Early Warning Weather Detection System
+Press Release
+By: Andrew Cuomo
+Date: July 20, 2015
+Location: Albany, NY
+
+Real-Time, Advanced Weather Detection Data Will Support Emergency Management, Research, and Condition-Dependent Industries in New York State
+Governor Cuomo announced the approval of the first set of sites for New York State's mesonet early warning weather detection system. A total of 19 sites located across the state are the first stations that will be part of a 125-site interconnected weather system. The system provides state-of-the-art, real-time weather condition data to support emergency management, research, and condition-dependent industries vital to New York's economy, such as agriculture and energy production.
+"Extreme weather has impacted communities across our state in recent years, and today we are actively preparing for whatever Mother Nature brings," said Governor Cuomo. "The Mesonet system is part of how our administration is moving forward with future storms in mind, and I am proud to see this important milestone reached. We will continue building New York State back smarter and stronger in order to keep New Yorkers safe."
+Mesonet's sophisticated stations provide localized, accurate, and timely data on air, wind, soil, and radiation conditions. Each mesonet station houses a suite of automated sensors, sampling data every three to thirty seconds. Data is then packaged into 5 minute averages, and then transmitted in real-time to a central facility located at the University at Albany. While at the University at Albany, data from all sites are quality-controlled and processed into files to be disseminated, including to National Weather Service and New York State Division of Homeland Security and Emergency Services.
+The New York State mesonet complements the existing National Weather Service system of 27 automated stations by expanding the number of sites currently available to collect weather data and increasing the frequency of reports available across New York. New York is the seventh state in the nation to install a mesonet system, and is the first to include a "vertical profiler" feature that provides more comprehensive temperature, wind and moisture information to further improve weather monitoring and prediction.
+
+Source:

@@ -1,0 +1,64 @@
+Public Statements
+Governor Cuomo Launches Inquiry Into Cyber Threats at Largest Insurance Companies
+Press Release
+By: Andrew Cuomo
+Date: May 28, 2013
+Location: Albany, NY
+
+Governor Andrew M. Cuomo today launched an inquiry into the steps that insurers are taking to keep their customers and companies safe from cyber threats. New Yorkers entrust a wide variety of sensitive health, personal, and financial records to their insurers and it is critical to make sure that information is safeguarded.
+
+The New York State Department of Financial Services (DFS) today sent "308 Letters" to the largest insurance companies that DFS regulates, requesting information on the policies and procedures they have in place to protect against cyber attacks. A "308 letter" is a request for information to which insurers are legally required to respond.
+
+"The extraordinarily sensitive health, personal, and financial information that New Yorkers entrust to their insurance companies is a virtual treasure trove for hackers," said Governor Cuomo. "We're intensely focused on making sure that banks have the protections in place they need, but we always have to keep at least one eye on the lookout for the next big threat. It's vital that we stay ahead of the curve on cyber security because we know hackers aren't going to give us any breathing room."
+
+Benjamin M. Lawsky, Superintendent of Financial Services and Co-chair of the Governor's Cyber Security Advisory Board said: "Cyber security at insurance companies is something that often gets overlooked, but it's far too important to get caught in a blind spot. We need to make sure that those insurance records are protected from hack attacks that could put New Yorkers at risk."
+
+The 308 letters that DFS sent to insurers today request a wide variety of information as part of the Department's extensive inquiry, including:
+
+-Information on any cyber attacks the company has been subject to in the past three years
+-The cyber security safeguards the company has put in place
+-The company's information technology management policies
+-The amount of funds and other resources dedicated to cyber security at their company
+-The company's governance and internal control policies related to cyber security
+
+Earlier this year, DFS sent similar inquiries to the largest banks that it regulates, requesting information on their cyber security policies.
+
+Today's announcement comes on the heels of the formation of Governor Cuomo's Cyber Security Advisory Board, which is charged with advising the administration on developments in cyber security and making recommendations for protecting the state's critical infrastructure and information systems. The Governor first outlined the Cyber Security Advisory Board in his State of the State Address this January.
+
+Earlier this month, Governor Cuomo named the members of his Cyber Security Advisory Board. The board members are among the world's leading experts in cyber security and bring vast experience in both the public and private sectors. They include: Richard Clarke, Chairman and CEO, Good Harbor Consulting , LLC and Former White House Couter-terrorism and Cyber Security Advisor; Shawn Henry, President, CrowdStrike Services; Will Pelgrin, President and CEO, Center Internet Security ("CIS"), and Founder of the Multi-State Information Sharing and Analysis Center ("MS-ISAC"); Phil Reitinger, Senior Vice President and Chief Information Security Officer, Sony Corporation; and Howard Schmidt, Former White House Cyber Security Coordinator and Special Assistant to President Obama. The advisory board will be co-chaired by Deputy Secretary to the Governor for Public Safety Elizabeth Glazer and Superintendent of Financial Services Benjamin M. Lawsky.
+
+The full list of insurance companies that received 308 letters from DFS as part of the Cuomo Administration's inquiry on cyber security include:
+
+Aetna
+AIG
+Allstate
+AXA Equitable
+Berkshire Hathaway
+Capital District Physicians' Health Plan
+Chubb
+EmblemHealth
+Empire
+Excellus BlueCross BlueShield
+Guardian Life
+Healthnow New York
+Humana
+The Hartford
+Integrated Healthcare Association
+Liberty Mutual
+MassMutual
+Members Health Insurance
+MetLife
+MVP Health Care
+Nationwide
+New York Life
+Northwestern Mutual Life
+The Principal Financial Group
+Progressive
+Prudential
+State Farm
+TIAA-CREF
+Tower Group
+Travelers
+United Health Group
+
+Source: http://www.governor.ny.gov/press/05282013-cuomo-launches-inquiry-cyber-threats-insurance-companies

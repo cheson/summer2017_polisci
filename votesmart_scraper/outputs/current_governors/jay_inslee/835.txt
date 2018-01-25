@@ -1,0 +1,16 @@
+Public Statements
+FCC Releases Study on "White Spaces" before November 4 Commission Meeting
+Press Release
+By: Jay Inslee
+Date: Oct. 15, 2008
+Location: Washington, DC
+
+
+U.S. Rep. Jay Inslee (D-Wash.) expressed support for today's actions from the Federal Communications Commission (FCC) on the use of "white spaces," or vacant television airwaves, for experimental wireless broadband access. The FCC released a report on studies of white space technology late in the day after a news release showed a discussion of white space technology would be on the November 4th Commission meeting agenda.
+Inslee, sponsor of the Wireless Innovation Act of 2007, H.R. 1597, praised the FCC actions.
+"The report from the FCC Office of Engineering and Technology confirms what we've said all along - white spaces technology shows great promise for expanding fast, affordable internet access throughout the country using existing television airwaves. Device makers have gone to great lengths to invent new ways of accessing this spectrum that don't disturb existing users.
+"With the coming digital television transition in February 2009, white spaces' time has arrived. It's time to use this to help more people access the internet and the communication and information it makes possible, especially in rural and underserved areas. I hope we in Congress will continue to do all we can to inspire innovation in this important telecommunications field. I'm pleased to see that FCC Chairman Kevin Martin has placed this issue on the proposed agenda of the Commission's meeting on November 4th and I look forward to the Commission's decision on the subject."
+The FCC's Office of Engineering and Technology stated that "the burden of proof of concept' has been met" and that the FCC can proceed to address the authorization of technical standards and the development of white spaces devices. The report further explained that the lab and field tests demonstrated the ability of a variety of white spaces devices to operate safely in an array of environments as well as the ability to resolve potential interference concerns with other technologies such as wireless microphones. The FCC conducted tests with experimental white space devices in a range of situations, including both lab and field tests, and collected data for 18 months before reaching the conclusions outlined in the report.
+Read the October 15th FCC report on white space technologies at: http://www.fcc.gov/
+
+Source: http://www.house.gov/apps/list/press/wa01_inslee/whitespacestudy.shtml

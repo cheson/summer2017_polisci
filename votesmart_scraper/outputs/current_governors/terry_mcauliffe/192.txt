@@ -1,0 +1,76 @@
+Public Statements
+Governor McAuliffe Announces 2016 Research Commercialization Awards
+Press Release
+By: Terry McAuliffe
+Date: June 10, 2016
+Location: Richmond, VA
+
+Governor Terry McAuliffe announced today $3.4 million in funding to support 48 Commonwealth Research Commercialization Fund (CRCF) awards representing targeted areas of promising research commercialization, including cybersecurity, energy, data analytics, unmanned systems and life sciences.
+"This latest round of awards continues the Center for Innovative Technology's mission of commercializing lucrative research opportunities by leveraging public and private resources from across Virginia," Governor McAuliffe said. "Cybersecurity, data analytics, unmanned systems technology, and scientific research and development are on the cutting edge of American ingenuity, and our businesses and institutions in Virginia are leaders in these industries. We will continue to support emerging sectors that are pushing the boundaries of exciting research and development to help build the new Virginia economy."
+Secretary of Technology Karen Jackson added, "The Virginia technology community submitted nearly 150 proposals during this solicitation, an increase of more than 66 percent over the previous round in 2015. The awards made in this round will continue to produce the exciting outcomes already demonstrated by the portfolio, including intellectual property created and licensed, job and company creation, and follow-on investment."
+During this round, applications were invited under five programs: Commercialization, Eminent Researcher Recruitment, Matching Funds, Small Business Innovation Research Matching Funds, and Small Business Technology Transfer Matching Funds to support the private sector, academia, and nonprofit research institutes across the state.
+Applications underwent a four-step review process beginning with guideline compliance performed by CIT, followed by a review by subject matter experts from industry, academia and government. Applications were then reviewed by members of the Research and Technology Investment Advisory Committee (RTIAC) who made recommendations for funding to the CIT Board of Directors for approval. Managed by the CIT, the CRCF supports technology priorities identified in the Commonwealth Research and Technology Strategic Roadmap.
+The following CRCF projects will be awarded, contingent upon acceptance of award terms and conditions:
+Commercialization Program
+algorithmRx LLC (Richmond), Commercial Operation of aRx Statin Advisor in an Established Electronic Medical Record (EMR) System, Mark Tripodi, $45,000, Life Sciences
+Blue Ridge Envisioneering (Chantilly), Distributed Denial of Service (DDoS) Attack Alert Extensions (AE) to Border Gateway Protocol (BGP), Harley Green, $49,937, Cybersecurity
+Cambrian Design and Development LLC (Blacksburg), Real Time, Continuous Acoustic Monitor for Characteristic Crying of Babies with NAS, Michael Abbott, $50,000, Life Sciences
+Contraline, LLC (Charlottesville), Contraline: An Echogenic, Vas-Occlusive Male Contraceptive, Dr. John Herr, $50,000, Life Sciences
+Counter-Drone Research Corporation (Vienna), Rogue UAS Detection -- Prototype Development, Timothy O'Shea, $49,963, Unmanned Systems
+Covenant Therapeutics, LLC (Charlottesville), Development of a New Clinical Diagnostic Test to Assess Inflammation Relevant in COPD, Dr. Yun Shim, $50,000, Life Sciences
+Epodose (Charlottesville), Weekly EPO Peptide Analog with No Immunological Side Effects, Dr. Cyrille Gineste, $37,800, Life Sciences
+eTrans2020, Inc. (Fairfax), Connected Vehicle Cybersecurity, John Estrada, $50,000, Cybersecurity
+eTrans2020, Inc. (Fairfax), Connected Vehicle Data Analytics, Robert Baily, $50,000, Information Technology
+Green kW Energy, Inc. (Blacksburg), On-Site Waste Biomass-To-Energy Modules, Dr. John Novak, $50,000, Energy
+Locurity Incorporation (Herndon), Identity and Access Management for Enterprise by Recognizing Common Patterns in User's Gait (Biometric) and in User's Home-Office Commute to Determine User's Relative Location at Access Time Using Smartphone Sensor Data, Shrikant Palaskar, $50,000, Cybersecurity
+Netarus, LLC (Norfolk), Automated Data Capture and Analysis of Unmanned Vehicle Data, Christopher Machut, $45,000, Unmanned Systems
+PhotonVision, LLC (Charlottesville), Noninvasive Blood Glucose Monitor Based on Fiber-Optic Distributed Sensing, Dr. Dorothy Wang, $50,000, Life Sciences
+Pierce Global Threat Intelligence, Inc. (Dunn Loring), Extended Identification and Tracking of Malicious Actors, Roy Stephan, $49,980, Cybersecurity
+Ryzing Technologies (Staunton), Braided Inflatable Robotic Technology, Ryan Gundling, $45,000, Unmanned Systems
+Shevirah Inc. (Herndon), Commercialization of Mobile Device and Internet of Things Operating System Security Testing Software, Georgia Weidman, $50,000, Cybersecurity
+Shevirah Inc. (Herndon), Commercialization of Mobile Phishing Awareness Training Software, Georgia Weidman, $50,000, Cybersecurity
+SoundPipe LLC (Charlottesville), Co-Injection Drug Delivery with Contrast-Enhanced Intravascular Ultrasound, Dr. Joseph Kilroy, $50,000, Life Sciences
+SoundPipe LLC (Charlottesville), Dose Control with GUIDE-Tx for Patient Tailored PAD Therapy, Dr. Joseph Kilroy, $50,000, Life Sciences
+SphynKx Therapeutics, LLC (Charlottesville), Development of a High-Throughput Screening Assay for Sphingosine Kinase Inhibitor Therapeutics, Dr. Brandon Thorpe, $50,000, Life Sciences
+UpHex, LLC (Charlottesville), Multi-Channel Advertising Analysis, Bradley Kipp, $50,000, Information Technology
+Virgil Security, Inc. (Manassas), Moving to a Distributed Trust Model to Accelerate Commercialization of Virgil Security's Application Security Infrastructure, Dmitry Dain, $50,000, Cybersecurity
+Eminent Researcher Recruitment Program
+University of Virginia (Charlottesville), Safe and Secure Cyber-Physical Systems, Dr. Kamin Whitehouse, $195,000, Cybersecurity
+Virginia Commonwealth University (Richmond), Eminent Scholar in Pharmaceutical Engineering, Dr. Barbara Boyan, $250,000, Life Sciences
+Matching Funds Program
+College of William & Mary (Williamsburg), SUMO Biomarker Detection Reagents for Prostate Cancer Diagnosis, Oliver Kerscher, $91,962, Life Sciences
+Eastern Virginia Medical School (Norfolk), New Strategy to Regain Beta Cells in Diabetes, Dr. Yumi Imai, $100,000, Life Sciences
+Eastern Virginia Medical School (Norfolk), Peptide Inhibitor of Complement C1 (PIC1): Pre-Clinical Toxicology, Dr. Kenji Cunnion, $100,000, Life Sciences
+Eastern Virginia Medical School (Norfolk), Pre-Clinical Development of a Novel Approach to Preserve Beta Cell Function in Diabetes, Dr. David Taylor-Fishwick, $100,000, Life Sciences
+Hunter Holmes McGuire VA Medical Center (Richmond), Injection of Nanoparticle for Ablation of Ganglionated Autonomic Plexi to Prevent Atrial Fibrillation, Dr. Alex Tan, $99,970, Life Sciences
+National Institute of Aerospace (Hampton), Ultra-High Energy Efficiency Footwear Power Generators, Dr. Tian-Bing Xu, $100,000, Energy
+Southeastern Universities Research Association (Washington, D.C. / Newport News), Development of a Disposable Surgical Probe for Nuclear Medicine-Assisted Surgery, Dr. Andrew Weisenberger, $99,986, Life Sciences
+Southeastern Universities Research Association (Washington, D.C. / Newport News), Development of Light Weight, Low Power Neutron Sensor Compatible with Unmanned Systems, Dr. Andrew Weisenberger, $75,000, Unmanned Systems
+The George Washington University (Ashburn), Next Generation Power Generators with Selective Laser Melting of Thermoelectric Materials, Dr. Saniya LeBlanc, $99,342, Energy
+University of Virginia (Charlottesville), Accelerating Machine Learning with FPGAs, Dr. Kevin Skadron, $100,000, Information Technology
+Virginia Commonwealth University (Richmond), Chelation-Directed C-H Activation Reactions Catalyzed by Palladium(II) Supported on Multi-Walled Carbon Nanotubes [Pd(II)/MWCNT], Dr. Keith Ellis, $100,000, Life Sciences
+Virginia Commonwealth University (Richmond), Skintronics: Wireless, Skin-Wearable Electronics for Monitoring of Electrocardiogram, Dr. Woon-Hong Yeo, $98,585, Life Sciences
+Virginia Institute of Marine Science (Gloucester Point), NIRS Based Quantification of Chronic Oyster Disease for Advanced Breeding Objectives, Dr. Standish Allen Jr., $68,796, Life Sciences
+Virginia Tech (Blacksburg), Ocean Wave Energy Harvesting, Dr. Lei Zuo, $100,000, Energy
+Virginia Tech (Blacksburg), Railroad Energy Harvesting System, Dr. Lei Zuo, $100,000, Energy
+SBIR Matching Funds Program
+Ceres Nanosciences, Inc. (Manassas), Development of Nanotrap-Enabled Dried Matrix Spot Collection Cards, Ben Leprene, $49,990, Life Sciences
+dbS Productions LLC (Charlottesville), Integration of UAV Optimal Search Allocation Algorithm with Search and Rescue FIND Software, Robert Koester, $50,000, Unmanned Systems
+iHealthScreen Inc. (Charlottesville), A Novel Image Based Screening System for Early Detection of Age-Related Macular Degeneration, Dr. Alauddin Bhuiyan, $48,750, Life Sciences
+Pancopia, Inc. (Hampton), Rapid Activation of Biological Wastewater Treatment Systems, William Cumbie, $49,939, Energy
+Polymer Exploration Group, LLC (Ashland), Ice-Release Coatings, Dr. Wei Zhang, $50,000, Energy
+Rivanna Medical, LLC (Charlottesville), Bone Fracture Detection by 3D Bone-Enhanced Ultrasound in the Emergency Department, Dr. Will Mauldin, $50,000, Life Sciences
+Synthonics Inc. (Blacksburg), Levodopa Pharmacokinetics Optimization by Metal Coordination, Dr. Thomas Piccariello, $50,000, Life Sciences
+STTR Matching Funds Program
+Cell Free Bioinnovations Inc. (Blacksburg), Low-Cost Biosynthesis of Sugar Phosphates by Enzyme Cocktails without ATP, Dr. Daniel Wichelecki, $50,000, Life Sciences
+Covenant Therapeutics, LLC (Charlottesville), Optimization of New Anti-inflammatory Agent to Treat Lung Disease, Dr. Mikell Paige, $50,000, Life Science
+This list, along with award recipients from previous solicitations, can also be accessed at http://www.cit.org/initiatives/crcf-awards.
+CRCF FY2017 opportunities will be posted on the CIT website at: http://www.cit.org/initiatives/crcf. Those interested in receiving CRCF announcements should email crcf@cit.org.
+About the CRCF and R&T Roadmap
+The Commonwealth Research Commercialization Fund (CRCF) advances science- and technology-based research, development, and commercialization to drive economic growth in the Commonwealth, as well as to create and foster high potential technology companies.
+In support of the Commonwealth's overall plan to maximize the return on investment of taxpayer dollars and to enhance economic development, CRCF awards must further the goals set forth in the Commonwealth Research and Technology (R&T) Strategic Roadmap, a comprehensive planning tool the Commonwealth uses to identify research areas worthy of economic development and institutional focus. It provides elected and other officials with priorities in key industry sectors that have commercial promise and that are eligible for new CRCF awards.
+Supporting the Roadmap and the CRCF, including by making CRCF award recommendations to the CIT Board, is the Research and Technology Investment Advisory Committee (RTIAC), comprised of university, industry and economic development experts.
+About the Center for Innovative Technology
+Since 1985, the nonprofit corporation CIT has been Virginia's primary driver of innovation and entrepreneurship. CIT accelerates the next generation of technology and technology companies through commercialization, capital formation, market development and revenue generation services. To facilitate national innovation leadership and accelerate the rate of technology adoption, CIT creates partnerships between innovative technology start-up companies and advanced technology consumers. To learn more, please visit www.cit.org. Follow CIT on Twitter @CITorg and add the Center for Innovative Technology on LinkedIn andFacebook.
+
+Source: http://governor.virginia.gov/newsroom/newsarticle?articleId=15591

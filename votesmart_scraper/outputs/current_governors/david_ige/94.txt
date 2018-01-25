@@ -1,0 +1,15 @@
+Public Statements
+Governor's Office News Release: State, Coast Guard Partnership Completes Statewide Safety Network Anuenue Interisland Digital Microwave Network In Full Operation
+Press Release
+By: David Ige
+Date: Oct. 22, 2015
+Location: Honolulu, HI
+
+"Full operating capability" has been achieved on shared infrastructure designed by State of Hawai"i and U.S. Coast Guard (USCG) engineering professionals to provide robust and survivable communication links and facilities throughout Hawai"i.
+The ANUENUE Interisland Digital Microwave Network consists of high-capacity microwave links, radio towers, and facility buildings that interconnect and support the systems and networks relied upon by first responders, search and rescue, law enforcement, emergency services, and critical government operations. Twelve ANUENUE "high sites" located on mountain tops -- many at remote locations -- connect with eight sites located at state office buildings and USCG properties.
+Gov. David Y. Ige, state Chief Information Officer Todd Nacapuy, and Capt. James Jenkins, USCG District 14 Chief of Staff, gathered today in Executive Chambers to celebrate the completion of this joint project that has been many years in the making, as well as to recommit to the cooperative effort it represents.
+"A shared vision and trust between the State of Hawai"i and the Coast Guard resulted in a partnership that shares resources and capabilities to achieve a common goal of protecting and serving the people of Hawai"i," Gov. Ige said. "As a result, Hawai"i is more secure and better prepared for emergencies."
+"The ANUENUE Network is a testimony to the superb relationship between the U.S. Coast Guard and the State of Hawai"i," Capt. Jenkins said. "This vital system enhances the effectiveness and resiliency of communications among the entire first responder team during both routine operations and for emergent threats such as hurricanes and other natural disasters."
+The ANUENUE was designed to survive disasters, natural or otherwise. Its towers and buildings are designed to survive the 155 mph winds of a Category 4 hurricane, generators are ready to run for a week without commercial power and earthquake Zone 4-rated backbone facilities are located away from tsunami inundation zones. Backbone towers range in size from 50 to 180 feet tall and support microwave dish antennas as large as 15 feet in diameter. The microwave radio backbone provides a secure 155-Mbit/s SONET connection across the state.
+
+Source: http://governor.hawaii.gov/newsroom/governors-office-news-release-state-coast-guard-partnership-completes-statewide-safety-network-anuenue-interisland-digital-microwave-network-in-full-operation/

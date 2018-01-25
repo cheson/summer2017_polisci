@@ -1,0 +1,14 @@
+Public Statements
+Gov. Malloy Announces Release of PURA's Cybersecurity Action Plan
+Statement
+By: Dan Malloy
+Date: April 6, 2016
+Location: Hartford, CT
+
+Governor Dannel P. Malloy today announced the release of a report by the Connecticut Public Utilities Regulatory Authority (PURA) on strengthening preparedness for cybersecurity challenges. Specifically, the report offers new solutions for enhanced cybersecurity with the electricity, natural gas, and water sectors. The report and action plan are a follow-up to a 2014 PURA report, which presented the state with a roadmap to support cybersecurity defenses.
+"We know that our utility services are critical to our economy, and it's critical that we are prepared for a cyber attack. This report has yielded the type of collaboration that will better prepare us to defend against such an attack, and to more quickly recover in the event a utility is penetrated or compromised. As always, we are working to prepare for any contingency," Governor Malloy said.
+Following the release of the 2014 report, PURA held a series of collaborative meetings with the state's public utility companies to review the standards and guidelines that they currently follow as part of their cybersecurity risk management programs. Together, PURA and the utility companies have been exploring ways to review the adequacy of cyber defenses and reach consensus on standards.
+"In collaboration with Connecticut's public utilities, PURA has been exploring ways to review the adequacy of cyber defenses, reaching concurrence on standards and holding annual meetings with government participants," PURA Chairman Arthur H. House said. "This voluntary collaboration has produced new solutions for enhanced cybersecurity, public understanding of such collaboration and rudimentary plans with the electricity, natural gas and water sectors. PURA is grateful for the cooperation and goodwill the leaders of these sectors have demonstrated in the public interest."
+The report notes that public utilities in Connecticut and throughout the United States face the credible danger of cyber penetration, compromise and disruption. In addition to federal intelligence and national security activities, effective national deterrence and remediation must include action at the state level including partnership among public utilities, their regulators and emergency response managers. PURA's plan recognizes the rapidly evolving nature of cyber threats to public utilities and the need for cooperative, flexible collaboration as we strengthen defense and consider unprecedented consequences if or when an attack occurs.
+
+Source: http://portal.ct.gov/Departments_and_Agencies/Office_of_the_Governor/Press_Room/Press_Releases/2016/04-2016/Gov__Malloy_Announces_Release_of_PURA_s_Cybersecurity_Action_Plan/

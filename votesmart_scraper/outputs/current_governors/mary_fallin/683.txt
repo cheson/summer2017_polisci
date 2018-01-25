@@ -1,0 +1,18 @@
+Public Statements
+Governor's Plan To Save Millions Approved
+Press Release
+By: Mary Fallin
+Date: March 17, 2011
+Location: Oklahoma City, OK
+
+The Oklahoma House of Representatives has approved legislation proposed by Gov. Mary Fallin to save millions of taxpayers dollars through the implementation of information technology (IT) process reforms.
+Governor Fallin is seeking to realize $140 million of savings in the state's fiscal year 2012 budget from the incorporation of this reform, along with $50 million in savings from a temporary freeze on IT purchases, for a combined savings of $192 million.
+"This measure is an important step in providing the smaller, smarter government that conservative lawmakers promised to deliver to voters," Fallin said. "Consolidating our IT resources across state agencies will allow the government to operate more efficiently and effectively while saving taxpayers a large amount of money in the next fiscal year. I'm extremely pleased to see the House move forward on this legislation."
+House Bill 1304 seeks to implement a report from the Capgemini consulting firm, which found that the state utilizes 76 separate redundant financial tracking systems despite the fact that the state has one enterprise-wide financial software that all agencies should be using. There are 22 unique time and attendance systems, 17 imaging systems, 48 reporting and analytics applications, 30,000 desktop computers of which 2,000 are not in use, 25 different desktop operating systems, 133 email systems, and 27 SQL Server and Oracle systems with 92 percent of the SQL Server programs not being supported.
+The study also referenced a report by the Gartner Group, which indicates Oklahoma is spending $35.6 million more than the average IT spend of other state governments.
+"These massive amounts of waste and inefficiency have occurred because the state has failed to develop a cohesive IT strategy. This chaos provides a dangerous environment in which our data is not secure and taxpayer dollars are being wasted," said state Rep. David Derby, an Owasso Republican who authored the bill.
+Government Modernization Committee Chairman Jason Murphey (R-Guthrie) noted that the governor's proposal to eliminate the IT inefficiencies limits the application of across the board cuts to state agencies.
+"The governor's budget minimizes the amount of cuts to the agencies through the implementation of this common sense efficiency. Without this reform agencies can expect bigger budget cuts," he said.
+The proposal now goes before the Senate for consideration. An overview of the Capgemini report is online at hd31.org/50.
+
+Source: http://www.ok.gov/triton/modules/newsroom/newsroom_article.php?id=223&article_id=1141

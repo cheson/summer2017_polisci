@@ -1,0 +1,34 @@
+Public Statements
+Hearing of House Subcommittee on Telecommunications and Internet: How Internet Protocol-Enabled Services are Changing the Face of Communications...
+By: Jay Inslee
+Date: April 27, 2005
+Location: Washington, DC
+
+
+HEARING OF HOUSE SUBCOMMITTEE ON TELECOMMUNICATIONS AND THE INTERNET: HOW INTERNET PROTOCOL-ENABLED SERVICES ARE CHANGING THE FACE OF COMMUNICATIONS: A VIEW FROM GOVERNMENT OFFICIALS
+April 27, 2005
+BREAK IN TRANSCRIPT
+Mr. Inslee. Thank you.
+Mr. Fellman, I just came in the last part of your answer to Mr. Boucher's question. I just wonder if you can flesh out a little bit for me, if we were going to go to, let us say, you knew today there was going to be a statewide or national kind of franchise standard. What are the parameters of where you would put in how many access channels, how many hours, how many, you know, build-outs, how many miles--I mean, what parameters would you have to have to meet sort of the menu item of where you are right now?
+Mr. Fellman. Congressman Inslee, your question, I think, discloses why this would be so hard to accomplish. Because the answer is different in every different community, so I don't know.
+Congressman Boucher asked if we can start that discussion, and I think I am always willing to talk about anything, you know. ``No'' is always an appropriate answer in any kind of debate or discussion, but I think it is inherently difficult, extremely difficult to come up with a national rule on how to meet the local needs of every municipality and county in this Nation.
+Mr. Inslee. So I am trying to get a flavor of how far the spread is, like in your State, what is the smallest number of--let us start with number of access channels in a franchise----
+Mr. Fellman. That is easy, zero.
+Mr. Inslee. Zero.
+Mr. Fellman. Right.
+Mr. Inslee. Okay. So zero in your State? There is no access channels in----
+Mr. Fellman. Well, no, the smallest number.
+Mr. Inslee. Smallest number.
+Mr. Fellman. There are communities in my State that have no access channels.
+Mr. Inslee. And what is the highest number?
+Mr. Fellman. Well, I think Denver has eight or nine. Some of them are used internally for internal communications. It is somewhere in that range, maybe a few more or maybe a few less.
+Mr. Inslee. If you went around the country--I am just brainstorming here. I haven't thought through this. It doesn't mean I have bought any of this Kool-Aid at all, but I mean, if you were to go through and say well, if you looked at communities based on population size, when you get over a million you have--I wonder if you would find sort of fairly consistent patterns between population bases and number of access channels. Do you think you would, or not?
+Mr. Fellman. I don't think you would, and here is why: because it is not simply a function of population. And the example that I can give you from my State is the city of Durango in southwestern Colorado. A stand alone city, about 40,000 people. They are out there by themselves. They are the big metropolitan area in southwestern Colorado. They have an incredibly robust government access and public access broadcast operation. They get private donations as well as city money and cable money that promotes this kind of programming, and it is widely watched in that community.
+The city of Lewisville, Colorado, same population, about, in metropolitan Denver. A very different community; part of a much, much larger metro area of 2 to 3 million people and growing, and the needs in that community are different. So the number of channels, the amount of money that you would want for equipment, the type of programming that you would want to be producing, you know, you can say that all councils are going to want to broadcast their city council meetings and their planning commission meetings, but beyond that, it changes dramatically from community to community, regardless of the population.
+Mr. Inslee. In the States, I am told that some States have statewide franchising protocols now. How would you characterize the differences there than other States that have really local decisionmaking? Is there any way to generalize there or not?
+Mr. Fellman. A little bit. But now, we are getting a little bit out of my area of expertise. I know some States have more control in their local franchising. Others, like New York and New Jersey, the State will approve the franchise but the local government is allowed to and does, indeed, do the community needs assessment and negotiate based upon their local needs and ultimately, it just is given to the State to be adopted in accordance with State rules. So there are some heavy State control operations, and there are some partnerships where the local governments have a lot more control. So it just varies from State to State.
+Mr. Inslee. Does anyone else want to add to that at all?
+Ms. Munns. I will just add. I have a list of the States that do that. I know that they have varying models, and we would happy, if it would help the subcommittee, to try to provide that information.
+Mr. Inslee. That would be interesting. Thank you.
+BREAK IN TRANSCRIPT
+http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=109_house_hearings&docid=20750.wais

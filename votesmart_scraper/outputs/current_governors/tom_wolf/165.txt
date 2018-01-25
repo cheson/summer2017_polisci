@@ -1,0 +1,19 @@
+Public Statements
+Governor Wolf Announces Launch of New Open Data Program
+Press Release
+By: Tom Wolf
+Date: Aug. 22, 2016
+Location: Harrisburg, PA
+
+Today, Governor Wolf launched OpenDataPA to enhance access to valuable information by creating a central repository to share the commonwealth's data with the general public. Citizens, researchers, media, and developers can now browse through the first-released datasets at data.pa.gov, the home of OpenDataPA.
+"Since day one of my administration, I have been committed to making state government more open and transparent," said Governor Tom Wolf. "That's why I signed an executive order to release agency data to the public in an open, accessible format, and today, am launching OpenDataPA. One of our most valuable and underutilized resources in state government is data. Our goal is to make data available in order to engage citizens, create economic opportunities for businesses and entrepreneurs, and develop innovative policy solutions that improve program delivery and streamline operations."
+OpenDataPA has three main goals:
+Accountability -- OpenDataPA is the next step toward making Pennsylvania government more open to citizens. With the first datasets released, citizens will be able to track the progress of goals related to Governor Wolf's three governing objectives -- Schools That Teach, Jobs the Pay, Government That Works -- in an interactive, simple format.
+Modernization -- A vast improvement over the static agency reports of the past, OpenDataPA will both release newly collected datasets and consolidate datasets from other state agency websites to create a one-stop shop for all of the commonwealth's open data.
+Innovation -- OpenDataPA strives to be a source of innovation for citizens, entrepreneurs, civic developers, researchers, and policy makers who can manipulate the data we will be releasing to discover economic opportunities, create government applications, and make data-driven decisions.
+OpenDataPA launches with 12 valuable datasets, including information about job creation, school performance, bridges that are being repaired, and more, that relate to Governor Tom Wolf's Schools That Teach, Jobs That Pay, and Government That Works priorities. In the coming weeks, we will release a performance dashboard that uses these 12 datasets to track Governor Wolf's performance goals.
+Future data releases will go beyond performance metrics and include datasets from agencies and program areas across state government. The Wolf Administration is partnering with stakeholders -- including the Office of Open Records, colleges and universities, and cities -- to identify and prioritize future datasets for publication. There is also an online suggestion form on data.pa.gov for new datasets.
+In recent years, governments at the federal, state and local levels have adopted open data initiatives to increase transparency to citizens, spur innovation and economic opportunity, and demonstrate the effectiveness of state policies and programs.
+By making data easily accessible, the Wolf Administration hopes to encourage citizens to become more familiar with how their government is performing, engage with the state's developer community, and build tools and resources that ultimately make Pennsylvania an even better place to live and work.
+
+Source: https://www.governor.pa.gov/governor-wolf-announces-launch-of-new-open-data-program/

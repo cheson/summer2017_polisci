@@ -1,0 +1,19 @@
+Public Statements
+Governor McAuliffe Announces 2015-16 Data Internships
+Press Release
+By: Terry McAuliffe
+Date: July 23, 2015
+Location: Richmond, VA
+
+Governor Terry McAuliffe today announced that Virginia state government and the Virginia Commonwealth University School of Business will again work together on data re-engineering internships to explore the use of data to improve the effectiveness and efficiency of state government.
+In the 2014-2015 school year, the data internship program's first, 45 graduate students and more than 20 state agencies participated. Those internships have resulted in tangible dollar savings and improved agency processes. Student/agency teams have worked on successful projects, such as improving how the state prices and sells its goods and services, and more efficiently matching citizens to benefits when they enroll.
+"The first year of our data internship partnership has been a success," said Governor McAuliffe. "The program has helped the state save time and money by making some of our internal processes more efficient and modern. And it has given students valuable real-world experience. I look forward to seeing what the second year of the program can accomplish."
+"Data is an important resource that becomes even more critical as technology progresses," said VCU President Michael Rao, Ph.D. "VCU is uniquely positioned, both in its location and through the wealth of talent at the School of Business, to help state agencies run their data-centric systems more efficiently, while giving our students hands-on practice in the development of data systems."
+During their internships, pairs of VCU students work closely with state agency CIOs to identify specific business cases in which data can be used. Participants gain practical experience in using data to drive re-engineering, while participating CIOs have concrete examples of how to make better use of data to provide innovative and less costly services to citizens.
+"Working with the talented VCU students gave us a different perspective on what the data was telling us," said Dave Burhop, Deputy Commissioner/CIO of the Virginia Department of Motor Vehicles.
+"The VCU interns provided an invaluable resource to the Governor's Coordinating Council on Homelessness," said Pamela Kestner, Special Advisor on Families, Children and Poverty. "They very effectively reviewed the data assets available in the participating state agencies and identified analytic content that can be used to better serve the homeless population."
+"It's always useful to have "fresh eyes' on data that we are used to seeing," said Jim Rothrock, Commissioner of the Department for Aging and Rehabilitative Services. "Our interns challenged us and the way we interpret data. It was a refreshing and useful, and we cannot wait for new experiences with new students."
+The data internships support Governor McAuliffe's ongoing initiative to provide easier access to open data in Virginia. The internships also support treating data as an enterprise asset, one of four strategic goals of the enterprise information architecture strategy adopted by the Commonwealth in August 2013. Better use of data allows the Commonwealth to identify opportunities to avoid duplicative costs in collecting, maintaining and using information; and to integrate services across agencies and localities to improve responses to constituent needs and optimize government resources.
+Virginia Secretary of Technology Karen Jackson and CIO of the Commonwealth Nelson Moe are leading the effort on behalf of the state. Students who want to apply for internships should contact Peter Aiken (peter.aiken@vcu.edu) for additional information.
+
+Source: http://governor.virginia.gov/newsroom/newsarticle?articleId=12074

@@ -1,0 +1,16 @@
+Public Statements
+Governor McAuliffe Announces State Action to Protect Against Cybersecurity Threats
+Press Release
+By: Terry McAuliffe
+Date: April 20, 2015
+Location: Unknown
+
+Governor Terry McAuliffe announced today that the Commonwealth of Virginia is establishing the Nation's first state-level Information Sharing and Analysis Organization (ISAO).
+"Virginia's ISAO is our logical next step in building on the outstanding work of the Virginia Cyber Security Commission, Virginia Cyber Security Partnership, Virginia Information Technologies Agency, and the cybersecurity efforts of so many other public- and private-sector partners throughout the Commonwealth,"Governor McAuliffe said.
+On February 13, 2015, President Obama issued Executive Order 13691--Promoting Private Sector Cybersecurity Information Sharing, directing the federal Department of Homeland Security (DHS) to encourage the creation of ISAOs across the United States.
+Describing Virginia's initiative at the 2015 RSA Conference in San Francisco today, Secretary of Technology Karen Jackson stated, "With Governor McAuliffe's leadership of both the National Governors Association (NGA) Homeland Security and Public Safety Committee, and the NGA Resource Center for State Cybersecurity, it just makes sense for Virginia to leverage our existing and future information sharing efforts by creating the first state-level ISAO."
+ISAOs are intended to complement existing structures and systems that are used to share critical cybersecurity threat information across levels of government and industry sectors.
+"As Governor McAuliffe's homeland security advisor, I'm excited that Virginia is leading the ISAO movement and look forward to working alongside our DHS, state, and other cybersecurity partners to help develop standards and best practices for information sharing with the private sector," said Secretary of Public Safety and Homeland Security Brian Moran.
+The Virginia Cyber Security Commission and "Cyber Virginia" were launched by Governor McAuliffe with his Executive Order Number Eight on February 25, 2014.
+
+Source: http://governor.virginia.gov/newsroom/newsarticle?articleId=8210

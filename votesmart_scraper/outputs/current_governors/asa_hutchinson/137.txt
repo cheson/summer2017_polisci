@@ -1,0 +1,18 @@
+Public Statements
+Growing Computer Science Education
+Statement
+By: Asa Hutchinson
+Date: Dec. 4, 2015
+Location: Little Rock, AR
+
+Mustard seeds are about 1-2 millimeters in diameter. That's about one-third the size of a single grain of rice. But when you plant that tiny mustard seed, it grows to be nine-feet tall. Why? Because that little seed was given the time and resources to grow into something big.
+What started out as a small idea has turned the nation's focus on Arkansas. In less than a year, we have successfully implemented computer science courses in every public and charter high school. With nearly 4,000 students enrolled in these classes in the first year of this initiative, I think it's safe to say that a small idea has grown into something big.
+In fact, in our first year, we have already met the majority of national computer science recommendations from Code.org. And now, we have taken this another step further. The Arkansas Department of Education has created standards introducing computer science concepts to students in grades K-8.
+The development of the K-8 standards is a huge achievement for our schools, our businesses, and most importantly, our kids. Through this groundbreaking initiative, Arkansas continues to lead the nation in computer science education. No other state is better preparing the next generation for 21st century jobs.
+The K-8 standards will go in front of the Board of Education for approval by January 2016. I encourage you to visit the Department of Education's website and provide feedback through their public opinion survey. Everyone has a role to play in this effort, especially our education community.
+This announcement comes at a key time as we kick off National Computer Science Education Week. To date, there are over 850 registered "Hour of Code" events in Arkansas that will be going on statewide. These events are for students to learn the basics of coding concepts through a one-hour tutorial. The First Lady and I are pleased to host one of these events at the Governor's Mansion next week.
+We are expecting more than 100 middle and high school girls to attend the "Girls of Promise Coding Summit." This is a great opportunity to encourage young women to get involved in computer coding. I've said it before and I'll say it again--coding is for everyone.
+Arkansas has set the national bar at the high school level, and we are on our way to doing it again in grades K-8.
+Small things can make a big difference.
+
+Source: http://governor.arkansas.gov/radio/detail/growing-computer-science-education

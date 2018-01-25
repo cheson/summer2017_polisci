@@ -1,0 +1,26 @@
+Public Statements
+Colorado Launches Go Code Colorado to Make Public Data More Accessible
+Press Release
+By: John Hickenlooper
+Date: Jan. 28, 2014
+Location: Denver, CO
+
+oday the State of Colorado launches Go Code Colorado, a statewide public apps challenge to bring the government, business and tech communities together to make public data more accessible and grow the Colorado economy.
+
+Go Code Colorado is a bipartisan initiative of Colorado's Secretary of State's Business Intelligence Center (BIC), the Governor's Office and the Statewide Internet Portal Authority. Go Code Colorado is the first competition of its kind in the United States that uses public data to build business tools and grow commerce.
+
+"Our inspiration for this project came from civic app events like NYC Big Apps, as well as startup incubators like TechStars. While a one-weekend hackathon can produce some interesting ideas, we wanted Go Code Colorado to be bigger and more sustainable," said Secretary of State Scott Gessler.
+
+"We have worked through the Colorado Innovation Network and advancing a statewide brand to ensure Colorado is known as a place where entrepreneurship and innovation are valued and cultivated," Gov. John Hickenlooper said. "Go Code Colorado is yet another example of the state being at the forefront of innovation."
+
+Members of Colorado's business community recently submitted five challenges that they would like to see addressed through better access to public data, including issues such as business site location and access to capital.
+
+Teams of Colorado app developers, marketers, mentors, partners and entrepreneurs will compete to address these challenges during the Challenge Weekend, which will be held locally in five regions across the state.
+
+Two teams of finalists from each region will advance, giving them the opportunity to work with renowned tech and business mentors from Colorado over the next two months to improve and solidify their apps, before competing at a final competition in Denver.
+
+Three winners will receive cash awards, in-kind incentives and investor connections.
+
+Go Code Colorado hopes to be an example of collaboration between tech and government communities that can be applied across the U.S. and spur economic growth in Colorado and beyond.
+
+Source: http://www.colorado.gov/cs/Satellite?c=Page&childpagename=GovHickenlooper%2FCBONLayout&cid=1251650079233&pagename=CBONWrapper

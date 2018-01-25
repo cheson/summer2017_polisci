@@ -1,0 +1,16 @@
+Public Statements
+RI State Police, E-911 Uniform Emergency Telephone System, and the DOT's Office on Highway Safety Announce Migration from *77 to 911 for All Rhode Island Motorists
+Press Release
+By: Gina Raimondo
+Date: May 13, 2016
+Location: Unknown
+
+Colonel Steven G. O'Donnell, Superintendent of the Rhode Island State Police and Commissioner of the Rhode Island Department of Public Safety, announces that Rhode Island E 9-1-1, in conjunction with the Rhode Island Department of Transportation's Office of Highway Safety, have implemented a public safety migration program moving callers from *77 to 911.
+In 1988, the *77 campaign was launched as a means for all motorists traveling on Rhode Island interstate highways to report highway emergencies via mobile devices. These calls were routed to the various Rhode Island State Police barracks based on the tower location of the caller's incident/emergency. After almost three decades of service, the Rhode Island State Police and RI E 9-1-1 are now promoting the migration from *77 to 911.
+When previously calling *77, the dispatcher was not able to ascertain the location of an emergency caller, if the caller was uncommunicative or unaware of his or her location. Due to enhanced technological capabilities, all cellular (wireless) phone calls received by RI E 9-1-1 now have latitude and longitude coordinates associated with them. These coordinates are plotted on GIS (Geographic information system) mapping software, which displays the location of the caller within meters to the RI E 9-1-1 Telecommunicator's workstation.
+In order to better inform the public of this change, the Rhode Island Department of Transportation's Office of Highway Safety has completed changing all highway signs previously dedicated to the *77 system, replacing them with signs promoting motorists to call 911 in an emergency. Additionally, AAA published an article in their Horizons April edition newsletter, notifying AAA members of this migration. This migration will enhance the ability to respond to highway incidents / emergencies and will help to ensure the safety of all citizens and visitors to the State of Rhode Island.
+Wireless telecommunications carriers have been made aware of this migration and have been cooperative with the Department of Public Safety during this transition. *77 capabilities will remain in effect for a duration of one (1) year from this date while we fully transition to 911.
+Contact: Captain Timothy Sanzi, Executive Officer, Rhode Island Department of Public Safety
+Telephone: (401) 444-1010
+
+Source: http://www.ri.gov/press/view/27519

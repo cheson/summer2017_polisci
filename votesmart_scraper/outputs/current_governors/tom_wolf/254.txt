@@ -1,0 +1,11 @@
+Public Statements
+Governor Wolf Statement on Emergence of a Case of MCR-1 in Pennsylvania
+Statement
+By: Tom Wolf
+Date: May 26, 2016
+Location: Harrisburg, PA
+
+Governor Tom Wolf today issued a statement about the emergence of a case of plasmid-mediated colistin resistance (mcr-1) in Pennsylvania:
+"We have learned about a human case of mcr-1 in a Pennsylvania resident, and my administration, through the Department of Health, immediately began working closely with the Centers for Disease Control and Prevention (CDC), as well as the United States Department of Defense (DOD), to coordinate an appropriate and collaborative response between federal, state, and local entities. We are taking the emergence of this resistance gene very seriously and we will take necessary actions to prevent mcr-1 from becoming a widespread problem with potentially serious consequences. The safety of Pennsylvanians is our utmost priority."
+
+Source: https://www.governor.pa.gov/governor-wolf-statement-on-emergence-of-a-case-of-mcr-1-in-pennsylvania/

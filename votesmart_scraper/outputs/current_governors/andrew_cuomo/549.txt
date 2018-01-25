@@ -1,0 +1,16 @@
+Public Statements
+Governor Cuomo Announces Approval of First U.S.-Based Ethereum Exchange, Created and Operated In New York
+Press Release
+By: Andrew Cuomo
+Date: May 5, 2016
+Location: Albany, NY
+
+Governor Andrew M. Cuomo today announced that the New York State Department of Financial Services has authorized Gemini Trust Company, LLC to offer the trading of Ether, an emerging cryptocurrency, on its virtual currency exchange based in New York City. Cryptocurrencies are alternative decentralized global digital currencies that provides users with a more secure and efficient means of payment.
+"This action continues New York's long tradition of pioneering new innovations and emerging industries," said Governor Cuomo. "With robust regulatory oversight, we are maintaining our status at the forefront of this technological revolution and ensuring that users have a safe and secure experience."
+Acting Department of Financial Services Superintendent Maria T. Vullo said, "Through smart and careful regulation, New York State continues to flourish as a virtual currency leader in the global marketplace. DFS will continue to encourage the development and long-term future of this growing industry."
+Cameron and Tyler Winklevoss, Founders of Gemini Trust Company, LLC said, "We thank Governor Cuomo for his leadership and DFS for being the first regulator in the world to build a licensing framework for virtual currency businesses. Their approval of Gemini as the first-ever licensed platform to support Ether trading demonstrates their commitment to being global thought leaders in financial regulation that both protects consumers and fosters innovation."
+The Department of Financial Services issued a charter to Gemini in October 2015 to operate a virtual currency exchange through which Gemini customers may purchase and sell virtual currency for U.S. Dollars and U.S. Dollars for virtual currency. In June 2015, the Department published final virtual currency rules after a nearly two-year inquiry into the appropriate regulatory guidelines. Virtual currency license applicants are subject to a rigorous review of anti-money laundering, capitalization, consumer protection and cyber security standards.
+The Ethereum network, which receives significant development contributions from Brooklyn-based ConsenSys, is a cryptocurrency and blockchain platform. Ether is the digital cryptography-based asset of the Ethereum network, similar to how bitcoin is the digital cryptography-based asset of the Bitcoin network.
+As a limited purpose trust company chartered under New York State Banking Law, Gemini can launch Ether trading immediately, subject to ongoing supervision by the state.
+
+Source: http://www.governor.ny.gov/news/governor-cuomo-announces-approval-first-us-based-ethereum-exchange-created-and-operated-new

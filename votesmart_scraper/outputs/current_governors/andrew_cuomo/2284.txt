@@ -1,0 +1,32 @@
+Public Statements
+Governor Cuomo Announces Agreement with Microsoft for Statewide Implementation of Office365
+Press Release
+By: Andrew Cuomo
+Date: Aug. 13, 2013
+Location: Albany, NY
+
+Governor Andrew M. Cuomo today announced an agreement between New York State and Microsoft that will allow all state Executive agencies to move to Microsoft Office365, a single operating platform that will provide consolidated email systems, access to familiar Office applications, and shared calendaring in a cloud-based system. Prior to this agreement, there were more than 27 different email, word and data processing systems in use at state agencies. Moving to a common platform is anticipated to save approximately $3 million annually in license fees, hardware, maintenance, energy, and personnel costs. The agreement, which is the first of its kind in New York, is the result of the Governor's strategic sourcing and information technology (IT) transformation projects.
+
+"Transforming the State's IT infrastructure and sourcing is critical to operating an efficient government that provides accurate and timely services to New Yorkers," Governor Cuomo said. "Our agreement with Microsoft will help us do just that: it will make collaboration among state agencies easier and increase productivity, in addition to saving approximately $3 million annually for taxpayers. This agreement shows the progress we are making in our efforts to make state government more resourceful while delivering results for New Yorkers."
+
+Brian Digman, New York State Chief Information Officer, said, "Today marks another milestone in the State's IT Transformation. I thank Governor Cuomo for his commitment to improving technology that will now allow us to manage email services in a highly efficient manner using a secure, cloud-based system."
+
+"Governor Cuomo has been adamant that agencies use technology to improve the way New York does business," Office of General Services Commissioner RoAnn Destito said. "By using strategic sourcing methods to procure Office365 on behalf of all Executive agencies, we were able to deliver a crucially important product that will continue to produce financial savings and increased efficiencies every year."
+
+"New York and Microsoft share the same goals--to make state employees more productive, to ensure continuity of service and operations in times of emergency or natural disasters, and to save taxpayer dollars through a move to efficient and secure cloud technologies," said Kevin Turner, chief operating officer, Microsoft. "We are proud to play a role in the innovation agenda of Governor Cuomo and look forward to continued leadership from him as he keeps New York State on the vanguard of technology leadership and modernization."
+
+In April 2011, Governor Cuomo appointed the Sage Commission, a 20-member team comprised of public and private sector individuals to undertake a comprehensive review of New York State government and identify structural and operational changes that would help make it more modern, accountable, and efficient. Consolidating the State's email systems was one of the Commission's recommendations. The State currently manages a consolidated Microsoft Exchange email system used by 26 agencies. However, the State has over 50 additional agencies that manage their own standalone email systems.
+
+"This system of multiple email platforms is a barrier to statewide collaboration; results in higher operating costs; and presents upgrade challenges, as many systems lag behind more modern services," explained Digman. "Having multiple email systems is an inefficient method of delivery, and is not a core business of a state agency. In a time of reduced resources -- people, money, technology, and time -- email is an unnecessary expense for individual agencies. These resources are better spent on the key services provided by the agency."
+
+Over the remainder of the year, 120,000 state Executive email boxes will be progressively moved to the Office365 system. The move is expected to be completed by the end of 2013. Once this consolidation is completed and all features are operational, Office365 will provide the following benefits to New York State:
+- Standardized email, document creation, calendaring, contacts, and the ability to share files more efficiently and effectively across state Executive agencies. This will bring all state employees to the most recent versions of productivity software such as Word, Excel, and PowerPoint.
+- Secure access to email and files anywhere, anytime, from multiple devices including laptops, smartphones, and tablets. This will provide important services for mobile workers.
+- A universal address book that includes address and locational information for all Executive agency state employees and some commissions, task forces, and State Education Department.
+- The most current versions of Office tools including Word, Excel, PowerPoint, Access, and Publisher, available from multiple devices, rather than restricted solely to a desktop computer. Office365 includes versions of Office programs that can be used through a web browser.
+- Automatic updates of all programs, giving the State the most recent version of email and Office programs without additional costs for new licenses.
+- Uniform archiving processes for state Executive agency employees that provide standard retention and access methods, combined with increased storage capacity to enable compliance with current regulations and policies.
+Standardized security tools, including anti-virus, anti-spam, and encryption processes that protect electronic communications.
+- Full system redundancy and backup, thus assuring high availability of services with virtually no downtime. This also reduces the need for the State to build and support additional computer hardware networks.
+
+Source: http://www.governor.ny.gov/press/08132013-office365-agreement

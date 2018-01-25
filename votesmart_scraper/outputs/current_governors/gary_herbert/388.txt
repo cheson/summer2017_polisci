@@ -1,0 +1,23 @@
+Public Statements
+Governor Details Comprehensive State Response to Data Breach
+Press Release
+By: Gary Herbert
+Date: May 15, 2012
+Location: Salt Lake City, UT
+
+In the Capitol Board Room this afternoon, Utah Governor Gary R. Herbert, flanked by agency leadership, detailed the State's comprehensive response to the recent health and Medicaid data breach. The State response includes a full-scale, independent audit of technology security systems, the appointment of a new health data security ombudsman, investigation by law enforcement and personnel action.
+
+"The State of Utah must restore the trust placed in it," the Governor said."Cyber-security is the modern battlefront and we are all enlisted-you, me, our state agencies, the Legislature-all of us have a critical role to play," he added.
+
+Confirming that the March 30 unauthorized transfer of personal files from state servers was an isolated incident, the Governor apologized to the approximately 280,000 individuals whose Social Security Numbers were compromised, as well as approximately 500,000 others who had less sensitive information also stored on the server. "The compromise of even one person's private information is a completely unacceptable breach of trust," said the Governor. "The people of Utah rightly believe that their government will protect them, their families and their personal data. As a state government, we failed to honor that commitment. For that, as your Governor and as a Utahn, I am deeply sorry."
+
+According to law enforcement authorities, cyber attacks on public information systems have increased 600% this year, resulting in nearly a million attempts daily by cyber terrorists or hackers to infiltrate the State IT network. That reality, coupled with the recent data breach, prompted the Governor to call for a comprehensive, independent security audit of information technology systems, both for this incident and across all agencies. The security audit, conducted by Deloitte & Touche, is now underway, as is a parallel assessment of the State's response to victims.
+
+Another critical part of the State's response is Governor Herbert's appointment of Sheila Walsh-McDonald as the new Health Data Security Ombudman. She will oversee individual case management, credit counseling and public outreach. The Governor said, "Sheila is a trusted and experienced member of the public health and advocacy community, having dedicated her 33-year professional career to working on behalf of Utah's disparate populations, with a focus on improving and strengthening the public and private programs that serve them. It is truly an honor to have Sheila on board in this effort and I thank her for her willingness to serve."
+During today's event, the Governor also announced the resignation of Stephen Fletcher, executive director of the Dept. of Technology Services (DTS), and the subsequent appointment of 28-year IT veteran Mark VanOrden as acting director of DTS. VanOrden is the IT director for the Utah Dept. of Workforce Services and recent recipient of the Merrill Baumgardner award for excellence. "Right now, I am counting on Mark's well-established ability to pull the DTS team together to focus on optimizing the value of Deloitte's audits and our efforts to rebuild public trust in our IT systems and processes," said Governor Herbert.
+
+The Governor urged impacted individuals and families to contact the Utah Dept. of Health hotline (1-855-238-3339) with any questions and encouraged them to enroll in free credit monitoring.
+
+He further cautioned citizens to beware of scammers and those who prey on the vulnerable and ill-informed. "Please know that no one from the State will contact you and ask for information over the phone or via email regarding this incident. Do not provide private information, especially not a Social Security Number or account information, in response to a phone call or email you did not initiate," the Governor said. "This incident is a tragic reminder that it is a different world in which we live. The dynamics continue to change and there is a very real and growing cyber threat."
+
+Source: http://www.utah.gov/governor/news_media/article.html?article=7113

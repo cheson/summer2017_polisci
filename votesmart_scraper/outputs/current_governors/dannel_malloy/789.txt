@@ -1,0 +1,30 @@
+Public Statements
+Gov. Malloy Releases Connecticut's Cybersecurity Strategy
+Press Release
+By: Dan Malloy
+Date: April 14, 2014
+Location: Hartford, CT
+
+Governor Dannel P. Malloy today released a cybersecurity plan for Connecticut's utilities to help strengthen defense against possible future threats, such as a cyberattack. Connecticut is the first state to present a cybersecurity strategy in partnership with the utilities, and will share it with other states working on similar plans.
+
+Governor Malloy initiated the report as part of his 2013 Comprehensive Energy Strategy, which called on the state Public Utilities Regulatory Authority (PURA) to work with state agencies and conduct a review of Connecticut's electricity, natural gas, and major water companies to assess the adequacy of their capabilities to deter interruption of service and recommend actions strengthening deterrence.
+
+"Fulfilling the promise of a more reliable energy future requires us to look beyond the foreseeable weather threats we know well in Connecticut to defend against possible future threats, such as a cyberattack on our public utilities," said Governor Malloy, who released the report at a news conference in the state Emergency Operations Center in Hartford. "Unfortunately, we need to do all we reasonably can to prevent, deter, detect and -- if necessary -- respond to a cyberattack. Just as we are taking proactive steps to harden our critical infrastructure and the shoreline to defend against severe weather events, so too must we be prepared to defend against the potential disruption that cyber intrusions can cause to vital services such as energy, water, and telecommunications."
+
+The Governor was joined at the news conference by PURA Chairman Arthur House, who authored the strategic plan, as well as representatives from the state's major utilities.
+
+Chairman House, who previously worked in the U.S. intelligence community, noted that "attempts to disrupt public utility services are growing in frequency, scale and sophistication." He welcomed commissioning the report and said that with the Governor's leadership and support from the General Assembly, it will be the first step in making cybersecurity part of Connecticut's efforts to increase the resilience and reliability of public utility service.
+
+Among other findings, the report recommends that Connecticut commence self-regulated cyber audits and reports, and move toward a third-party audit and assessment system. The report also makes recommendations regarding local and regional regulatory roles, emergency drills and training, coordinating with emergency management officials, and handling confidential information.
+
+Governor Malloy noted that Connecticut is actively cooperating with federal authorities to strengthen cybersecurity and will make this report available to other states. "Everyone in America is vulnerable to cyber disruption," he said. "We need to work together at the federal, state and local levels and with the utilities themselves to do all we can to defend against serious and dangerous threats to our safety and wellbeing."
+
+The Governor commended PURA, Northeast Utilities and United Illuminating, Connecticut's municipal electric companies and two major water companies, Aquarion and Connecticut Water, along with the telecommunications industry for working together to produce the strategic plan.
+
+He directed PURA to begin the process of fleshing out and proposing concrete actions to respond to the questions this report raises. He further directed PURA to plan and lead a series of technical meetings with the public utilities to seek consensus on the establishment of security standards, reporting of compliance and a process to manage cybersecurity compliance oversight.
+
+"Connecticut's families and businesses depend upon reliable utility service for their wellbeing and their livelihood. Whether a threat comes from severe weather or a cyber-attack, we need to be prepared for emergencies so that outages can be avoided and service restored as quickly as possible," said State Senator Bob Duff (D-Norwalk), Senate Chair of the Energy and Technology Committee. "A couple of years ago, we learned the hard way that our electric infrastructure was not prepared for a major storm, and we have made significant improvements in the time since. I applaud Governor Malloy for now looking ahead to prepare for a very different, but perhaps even greater threat."
+
+"Once again, Connecticut demonstrates national leadership by taking decisive action to protect our power and water supplies," said State Representative Lonnie Reed (D-Branford), House Chair of the Energy and Technology Committee. "We have been deploying microgrids and other back-up systems to ensure that critical facilities such as hospitals, police and fire stations remain fully operational during emergencies. Launching a program to protect against cyberattacks is an essential next step."
+
+Source: http://www.governor.ct.gov/malloy/cwp/view.asp?A=4010&Q=543324

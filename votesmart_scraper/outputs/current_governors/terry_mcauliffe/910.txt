@@ -1,0 +1,19 @@
+Public Statements
+Governor McAuliffe Announces Launch of Data.Virginia
+Press Release
+By: Terry McAuliffe
+Date: April 18, 2014
+Location: Richmond, VA
+
+Governor McAuliffe today announced the launch of Data.Virginia, a new online portal that will provide easy access to Virginia's open data and keep Virginians informed of major initiatives that take advantage of big data.
+Speaking on the new initiative, Governor McAuliffe said: "Virginia is generating more data on a daily basis than ever before. Much of that information is intended for public access, but is often buried and hard to find. With this new initiative, Virginians will have a one stop shop to get access to data from a variety of sources. That's empowering data that can be used by citizens to make more informed decisions, by innovators to build cutting-edge applications, and by community stakeholders to plan smarter projects."
+Examples of open datasets that will be available through the Data.Virginia portal include the Department of Education's State Report Card on school performances, the Secretary of the Commonwealth's database of board and commission openings, and the Department of Transportation's traffic data from across Virginia.
+In addition to serving as a central repository for open data, Data.Virginia will also serve as an information clearinghouse for the Commonwealth's big data initiatives. Big data, with the common characteristics of volume, variety and velocity, refers to the collection and analysis of huge amounts of electronic information. Commonwealth initiatives that make use of big data include the new Virginia Longitudinal Data System, a project which makes use of a variety of education and workforce development datasets and applies analytics to produce data-driven solutions that improve student outcomes.
+Speaking on the importance of big data, Governor McAuliffe said:
+"Traditionally, data has been used to solve a single problem. Now, through big data and analytics, we can analyze large quantities of information from a variety of sources more efficiently and develop better insights and solutions to our challenges. Several Virginia universities have established big data initiatives, and we need to expand and institutionalize the use of data analytics across the Commonwealth."
+The security of personal information will remain a priority. Electronic data held by the state is subject to federal and state laws, protecting especially sensitive data. The Commonwealth also has an extremely high-level of security in a top-rated data center with security operations that monitor network traffic 24 hours a day, every day. Tax identification, Social Security and credit card numbers and health and other personal records are protected by even more stringent security standards.
+In closing, Governor McAuliffe re-emphasized the importance of Data.Virginia:
+"By adopting a two-pronged approach for harnessing Commonwealth data, we will not only enhance the way we use big data internally, but we will also make it easier for our citizens to access information. It is through initiatives such as Data.Virginia that Virginia will continue to be a nationwide leader in innovation, smarter government, and increased transparency."
+The new portal can be accessed at Data.Virginia.gov
+
+Source: https://governor.virginia.gov/news/newsarticle?articleId=3886

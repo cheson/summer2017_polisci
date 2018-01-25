@@ -1,0 +1,25 @@
+Public Statements
+Governor McAuliffe Announces Initiatives to Develop Unmanned Systems Technology for Aviation and Energy
+Press Release
+By: Terry McAuliffe
+Date: May 20, 2016
+Location: Richmond, VA
+
+Governor Terry McAuliffe today announced initiatives that will further develop unmanned systems technology to strengthen the new Virginia economy, with an emphasis on unmanned aircraft systems.
+"Unmanned systems technology is the next generation of research and data analytics and our investment into this technology gives Virginian companies the edge in competing in the global market," Governor Terry McAuliffe said. "With these groundbreaking initiatives, Virginia's researchers and engineers can expand the technical capabilities in the aviation and energy fields and grow these critical sectors of the New Virginia Economy."
+The Virginia Tech Mid-Atlantic Aviation Partnership said that it has received a Certificate of Authorization from the Federal Aviation Administration for research flights up to 7,000 feet in altitude in an area of nearly 5,000 square miles in central Virginia. The first flight under the Certificate of Authorization (COA) was conducted successfully on Wednesday, May 11, 2016.
+The new Federal Aviation Administration-approved flight corridor will accelerate testing and development to further safe commercial integration of unmanned aircraft systems, also known as UAS.
+Researchers are expected to explore the safety and feasibility of flights beyond the visual line of sight, officials said.
+To advance that research, the Governor introduced, and the 2016 General Assembly adopted, $950,000 for equipment for the new test range. The instrumentation will include transponder equipment allowing UAS to transmit their position to receivers on the ground, radars for the detection of aircraft not carrying transponders, and display technology to integrate that data, giving users an awareness of other aircraft in the area.
+The newly authorized airspace covers more than 10 percent of the land area in the state and includes a unique set of critical infrastructure such as airports, power plants, electric lines, energy assets, and rail lines.
+"Getting that large an area in the mid-Atlantic region is significant," said Rose Mooney, Executive Director of the Virginia Tech Mid-Atlantic Aviation Partnership. "We're in the heart of aviation country: we have a lot of flights, a lot of infrastructure, and a lot going on. If we can do these types of flights safely here, we can do them virtually anywhere."
+The certificate of authorization includes land in Buckingham, Nottoway, Cumberland, Fluvanna, Prince Edward, Charlotte, Appomattox, Louisa, Goochland, Powhatan, Amelia, Lunenburg, Halifax, Pittsylvania, and Campbell counties.
+"Our capabilities spanning research, development, manufacturing, and deployment of unmanned systems make Virginia the location of choice for this industry," Secretary of Technology Karen R. Jackson said.
+A multi-industry research consortium is also forming to utilize Virginia's extensive resources for unmanned systems research, according to industry representatives.
+The consortium is organized through Pipeline Research Council International, Inc. and American Aerospace Technologies, Inc., and includes companies from industries spanning oil and natural gas, electric power, and telecommunications. The consortium will explore and develop sensors, analytics, and operational concepts that can enhance the efficiency and safety of aerial inspections of critical infrastructures.
+"Virginia offers an incredible environment for the UAS industry," said David Yoel, Chief Executive Officer of American Aerospace Technologies, Inc. "The energy infrastructure, the interest and backing of the energy companies, the services offered by the Virginia Tech Mid-Atlantic Aviation Partnership and the active support of the Governor's office have made Virginia the obvious choice to pursue this research."
+Unmanned aircraft are expected to increase safety and enable more frequent, efficient, and reliable data collection. They can also reduce the time needed to assess conditions and dispatch repair crews following severe weather.
+"During our recent research, we have seen the value of unmanned aircraft systems for enhancing the safety of energy pipelines," said Cliff Johnson, the president of the Pipeline Research Council International. "We are looking forward to establishing the consortium and continuing the needed work to evaluate this technology and develop additional tools for the energy industry to ensure the wellbeing of these vital assets."
+Officials say the testing infrastructure is expected to attract additional firms interested in developing beyond-visual-line-of-sight capabilities, which are required for unmanned aircraft systems to realize their full commercial potential.
+
+Source: http://governor.virginia.gov/newsroom/newsarticle?articleId=15330

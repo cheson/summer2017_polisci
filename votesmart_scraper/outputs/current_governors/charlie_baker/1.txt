@@ -1,0 +1,16 @@
+Public Statements
+Baker-Polito Administration Announces Redesign of Mass.gov, Seeks Public Feedback
+Press Release
+By: Karyn Polito Charlie Baker
+Date: June 21, 2017
+Location: Boston, MA
+
+Today, the Baker-Polito Administration announced an overhaul of the Commonwealth's website, Mass.gov, and encouraged members of the public to visit the pilot website pilot.mass.gov and provide their feedback.
+"People across Massachusetts are increasingly interacting with state government online and redesigning the Commonwealth's digital front door will improve how we communicate with residents, businesses and visitors," said Governor Charlie Baker. "Massachusetts is proud of our nation-leading innovation economy and we look forward to the feedback on this website."
+"Through programs like the Community Compact IT Grant program and bringing broadband to Western Massachusetts through the revamped Last Mile program, our administration has prioritized technology," said Lieutenant Governor Karyn Polito. "State government needs to work for everyone in Massachusetts, and we encourage people to visit the pilot website and provide feedback to make mass.gov a strong resource."
+The Massachusetts Office of Information Technology (MassIT) has engaged in an effort over the past year to modernize and improve mass.gov as a crucial step toward improving the state's digital infrastructure. The project includes moving the website to a cutting-edge Drupal-based content management system, updating the look and feel, reorganizing its navigation structure, and rewriting its content to be data-driven and constituent-focused.
+"We look forward to the new Mass.gov serving as a reliable, customer-service focused resource for Massachusetts residents to engage with state government -- where everything from renewing your nursing license to filing your taxes will be simpler, faster, and more meaningful," said MassIT Executive Director Mark Nunnelly. "However, we need input from the public to refine our approach. The data from this comment period will inform additional improvements to the new website."
+Pilot.mass.gov showcases the design developed for the new website, as well as fundamental content types, sample information architecture, and technological features. The website is expanding daily as employees at organizations across the Commonwealth contribute content representing their programs and services. The comment period on pilot.mass.gov will remain open for several months to allow MassIT and its partners to populate the site, evaluate user feedback, implement meaningful changes, and prepare for the launch of the full-scale redesigned Mass.gov.
+The Administration anticipates a launch of the full website in the final months of 2017.
+
+Source: http://www.mass.gov/governor/press-office/press-releases/fy2017/administration-seeks-feedback-on-mass-gov-redesign.html

@@ -1,0 +1,24 @@
+Public Statements
+The Forefront of Computer Science Education
+Statement
+By: Asa Hutchinson
+Date: May 26, 2017
+Location: Unknown
+
+If everything about my job was as easy and as much fun as encouraging students to learn to program a computer, I wouldn't call it work at all.
+My granddaughter educated me about coding when she wrote an app that we used during my campaign for governor. I was so impressed, and she was only 11 at the time. So implementing computer coding education became one of my core initiatives.
+Two months after I became governor, I signed the law that requires all public and charter schools to teach coding. Arkansas was the first to do so. Three years later, more than 5,000 students all over the state are learning to program. That is nearly a 400 percent increase over four years ago.
+On my Fourth Governor's Coding Tour, I visited the high schools in Russellville, Flippin, Yellville, Sheridan, Watson Chapel, and Mountain Home. In Mountain Home, I met Jackie Meissner. Jackie is a graduate of Mountain Home and returned to her alma mater to teach seven years ago.
+Jackie graduated from the University of Arkansas with a master's degree. As a student at Mountain Home, she was a member of the robotics team. In 2012, she led her students to an international robotics championship.
+And then at Sheridan High School, I met Chris Jones. The state coding requirement is the reason Chris Jones got a teaching job at Sheridan.
+Chris, who grew up in Bryant, was a business major. He was applying to teach business at Sheridan. But what principal Rodney Jones really needed was a computer science teacher.
+Chris had practically no knowledge of coding. In fact, his only experience was two weeks of self-taught coding as a student teacher at Central High.
+Principal Jones asked Chris whether he would be willing to teach computer science.
+Chris said: "I would have said anything to get the job. [I said] "Of course I would.'"
+So in the summer of 2016, Chris took advantage of a governor's stipend to study coding at Henderson State.
+After only two years with the program, Sheridan will offer an AP class in computer coding in the fall of 2017.
+Teachers like Chris and Jackie have led Arkansas to the forefront of computer science education in the nation. As our reputation spreads, and businesses look more and more to move to Arkansas, we can offer them a well-educated work force.
+With the enthusiasm and skill I saw on the fourth coding tour, I returned to Little Rock with plenty to brag about when we recruit companies to do business in this state.
+*Click HERE to view the recap of the Fourth Governor's Coding Tour.
+
+Source: https://governor.arkansas.gov/radio/detail/the-forefront-of-computer-science-education

@@ -1,0 +1,19 @@
+Public Statements
+State Website Redesigned To Better Serve Tennesseans
+Press Release
+By: Bill Haslam
+Date: June 22, 2015
+Location: Nashville, TN
+
+Tennessee Gov. Bill Haslam today announced the redesign of the state government website, TN.gov, to improve the look, functionality and overall experience for Tennessee taxpayers.
+"TN.gov is an important resource for Tennesseans and, for a lot of people, the main way they interact with state government. We are always working to serve Tennessee taxpayers more efficiently and effectively by making that experience as customer-focused as possible," Haslam said.
+A key aspect of the redesign is the implementation of a content management system (CMS). The CMS provides a consistent look throughout the site, while allowing state agencies to develop and update their own information and to cross reference other departments. Improving this functionality will help users navigate the site more easily.
+During the redesign, departments revised their content based on feedback from customers and employees to make information more clear, relevant, concise and timely.
+Features of the site include:
+A simplified and streamlined navigation to reduce the time it takes for users to find information.
+A consistent look across departments and applications for easier identification of and access to state services.
+Embedded search engines for the full site as well as each department, enabling a user to search within the content of the website or a specific department.
+An integrated map which allows users to search for schools, parks, hospitals and a number of other resources in their area.
+A "help" button at the bottom of every page.
+
+Source: http://www.tn.gov/governor/news/15371

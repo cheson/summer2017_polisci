@@ -1,0 +1,30 @@
+Public Statements
+Raimondo Kicks-off State's First K-12 Computer Science Initiative
+Press Release
+By: Gina Raimondo
+Date: March 7, 2016
+Location: Providence, RI
+
+Governor Gina M. Raimondo- joined by federal, state, and local officials, as well as representatives from business and education- today launched the state's first comprehensive computer science education initiative. The Computer Science for RI (CS4RI) effort, in partnership with Microsoft, Code.org, colleges and universities across Rhode Island, and others, seeks to help every public school in Rhode Island teach computer science classes by December 2017.
+"Our kids deserve the best opportunities in the 21st century tech-driven economy, so we need to do everything we can to help them get ahead by developing the skills that matter," Raimondo said. "Part of turning our economy around and creating jobs is making sure every student, at every level, has access to the new basic skill: computer science. Thanks to the partners we have assembled for this initiative, I know we can achieve this goal."
+By 2022, the Rhode Island Department of Labor and Training projects that there will be more than 4,000 openings in computer and math jobs. The U.S. Department of Labor reports that the median annual wage for computer and IT jobs is about $80,000.
+Creating a talented and diverse pipeline of students with computer science (CS) expertise is critical to our economic future. Rhode Island's IT industry is a leading force in our economy, and STEAM and IT jobs are among our fastest growing positions. These STEAM and IT jobs aren't just growing faster, they also pay higher wages. We need to develop a workforce with the skills necessary to fill these high-wage, high-growth jobs.
+"We must ensure all students have the skills they need to compete in today's innovation economy and that means making computer science much more accessible for all learners," Acting U.S. Secretary of Education John B. King, Jr. said. "President Obama's budget includes funding for states and districts to increase access to computer science by providing training for educators, expanding access to high-quality instructional materials, and building effective regional partnerships. By offering computer science in every public school and every grade, Rhode Island has become the latest state to lead the way in offering computer science for all."
+"Digital technology is democratizing access to knowledge and opportunity at a rapid pace making computational thinking and problem-solving skills critical to every job in the future," Microsoft CEO Satya Nadella said. "We aim to empower every educator and student in the State of Rhode Island to prepare for this future by fostering new levels of collaboration and creativity in the classroom through computer science education."
+"Rhode Island today joins a short list of states leading the country in embracing computer science," Code.org CEO Hadi Partovi said. "We are proud to partner with Governor Gina Raimondo and CS4RI to prepare teachers to introduce the state's youngest learners to foundational computer science skills. This initiative is an important step in opening doors for today's generation of Rhode Island students, readying them to pursue the best opportunities in today's high-tech economy, in every field."
+"We applaud Governor Raimondo's leadership in bringing these exciting partnerships-including with Microsoft-to the Ocean State," CVS Health President and CEO Larry Merlo said. "Developing a highly skilled, technology-ready workforce is critical to the success of our state's economy and this comprehensive computer science education will lay a solid foundation for the STEM and IT leaders of the future."
+To increase our computer science options across all grades, we must on focus engaging community partners and resources and support schools and teachers on expanding their offerings. The data suggests that Rhode Island has a long way to go:
+-AP Computer Science is offered in only 9 public high schools, and no Title I schools.
+-Only 1 percent of RI public high school students are currently enrolled in CS courses.
+-Only 42 Rhode Island public high school students took the Computer Science AP test in 2015.
+This effort, coordinated by the Rhode Island Innovation Office at Rhode Island College (RIC), in partnership with the RI STEM Center also at RIC, and the Rhode Island Department of Education, takes a coalition approach by combining national leadership with home-grown talent that will reduce barriers to providing quality computer science education and professional development and bring CS learning opportunities to all Rhode Island schools in the years ahead.
+CS4RI is among the most comprehensive statewide computer science (CS) initiatives in the country, and will bring together a coalition of partners-including Microsoft TEALS, Code.org, Project Lead the Way, Brown University's Bootstrap, and University of Rhode Island's CS curricula for high school - to offer a menu of options for schools to expand computer science education in kindergarten through grade 12. Also, General Assembly, a nationally recognized provider of industry CS training will collaborate to develop a pilot teacher CS boot camp offered in Rhode Island.
+Governor Raimondo's current budget proposal includes $260,000 to support the expansion of CS programming to be available to every student in all of Rhode Island's schools.
+CS4RI will:
+-Give kids the skills they need, starting in kindergarten, to access the skills they need to be successful
+-Stop the brain drain by creating partnerships between our schools and businesses to raise awareness about the opportunities open right now in the Rhode Island
+-Help kids get jobs that pay by giving them the 21st century skills they need
+-Attract 21st century businesses to invest in Rhode Island by demonstrating a commitment to building a pipeline of trained and talented workers
+-Address disparities so we create opportunities to ensure that everyone can "make it in Rhode Island"
+
+Source: http://www.ri.gov/press/view/27020

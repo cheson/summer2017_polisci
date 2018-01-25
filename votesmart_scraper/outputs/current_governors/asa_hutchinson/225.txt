@@ -1,0 +1,14 @@
+Public Statements
+WIRED Magazine: Arkansas is Leading the Learn to Code Movement
+Press Release
+By: Asa Hutchinson
+Date: March 23, 2015
+Location: Little Rock, AR
+
+Last month, Governor Asa Hutchinson signed his campaign promise to provide computer coding classes in every Arkansas high school into law (Act 187). Since that time, Arkansas has gained national attention for what many are calling an unprecedented endeavor.
+Most recently, nationally acclaimed WIRED Magazine featured the state in its online publication touting Arkansas as the leader in the "learn to code movement":
+Arkansas may be one of the last states that comes to mind when you think of major hubs of tech talent. And yet, last month, it became the first to pass a truly comprehensive law requiring all public and charter high schools to offer computer science courses to students, beating better known tech centers like California and New York to the punch.
+As Hadi Partovi, CEO of Code.org, points out in the article, states other than Arkansas "have taken half-steps toward similar legislation" but that many have "gone unenforced and unfunded". Reporter Issie Lapowsky continues:
+All of which makes what Arkansas just did particularly noteworthy. The state didn't just pass a law. It also set aside $5 million to get this new program off the ground in Arkansas schools this fall. That money will not only fund teacher training, but it will also be used to reward schools that have high performance and enrollment rates in the new courses, which are not mandatory for students. "It's a way to put a larger investment into it and make the whole program stronger and more long lasting," Hutchinson says. "It's a small investment with the opportunity for a huge return."
+
+Source: http://governor.arkansas.gov/press-releases/detail/wired-magazine-arkansas-is-leading-the-learn-to-code-movement

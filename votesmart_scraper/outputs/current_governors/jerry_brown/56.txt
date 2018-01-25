@@ -1,0 +1,22 @@
+Public Statements
+Governor Brown, UCSF Announce New Precision Medicine Projects
+Press Release
+By: Jerry Brown, Jr.
+Date: Nov. 15, 2016
+Location: Sacramento, CA
+
+Continuing California's groundbreaking effort to better treat and prevent diseases through advanced computing, Governor Edmund G. Brown Jr. and the University of California, San Francisco (UCSF) today announced six new projects have been selected for the California Initiative to Advance Precision Medicine (CIAPM).
+"These grant winners will harness the power of advanced computing to better treat and prevent diseases," said Governor Brown.
+Precision medicine aims to use data-driven tools and analysis to develop new diagnostics, therapies and insights into disease. Last year, California became the first state in the nation to launch a precision medicine initiative when Governor Brown announced the creation of CIAPM. Through this program, California is developing demonstration projects that harness the power of advanced computing to better diagnose, treat and prevent disease for all Californians.
+"What an exciting time to be a Californian," said Atul Butte, Director, Institute for Computational Health Sciences, Professor of Pediatrics, UCSF and Principal Investigator, California Initiative to Advance Precision Medicine. "With these state resources, we are helping to launch six exciting projects in precision medicine, bringing together academics, physicians, small and large businesses, and patients. These projects cover individuals who are healthy and ill, from the youngest to the oldest, and make use of the latest mobile, imaging, wearable, and deep learning technologies, all to push the boundaries of what is possible in medicine."
+The six projects announced today were selected following a rigorous assessment by a selection committee of nationally and internationally recognized experts in genomics, statistics, ethics, cancer, computation and other sciences. Over twenty organizations from academia, private sector, patient advocate groups, hospital systems and entrepreneurs will be partnering to complete these projects, which will use research, clinical, environmental and population data to better diagnose, treat and prevent disease. These projects include efforts to:
+Improve the early treatment of prostate cancer through a complex assessment of patient characteristics, cancer severity indicators and genomics.
+Help patients better manage chronic conditions such as high blood pressure and depression by gathering personal health data through their mobile phones.
+Speed the diagnosis of traumatic brain injury, stroke or aneurysm by applying state-of-the-art artificial intelligence technology to computed tomography (CT) scanning.
+Create a catalogue of DNA variants to better understand harmful mutations and better identify the causes of disease in children that suffer from difficult to diagnosis conditions.
+Combine several types of clinical data and real-time patient data in an interactive tool that patients with multiple sclerosis (MS) and doctors can use to better predict how the disease may develop over time and what can be done to improve outcomes.
+More quickly identify the early signs of cardiovascular disease by, among other activities, providing patients with specialized watches that transmit sleep, heart rate and other health data to their doctors.
+UC Health and UCSF host CIAPM with the Governor's Office of Planning and Research. Each grant awardee is eligible for up to $1.2 million in grant funding, which will then be leveraged with other non-state funding sources to complete the projects. In addition to developing demonstration projects, CIAPM is conducting an inventory of California's vast technological and medical resources that make precision medicine possible. The 2016 Budget Act includes approximately $10 million for the CIAPM.
+For more information about the California Initiative to Advance Precision Medicine, including further details on selected projects, visit: http://www.CIAPM.org
+
+Source: https://www.gov.ca.gov/news.php?id=19603

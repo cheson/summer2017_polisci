@@ -1,0 +1,22 @@
+Public Statements
+Gov. Ricketts Announces Sentence Calculation Automation
+Press Release
+By: Pete Ricketts
+Date: April 6, 2015
+Location: Lincoln, NE
+
+Today, Governor Pete Ricketts announced that the Nebraska Department of Correctional Services (NDCS) will upgrade its software to improve automation of NDCS' sentence calculations. Upgrades are projected to be completed by the first part of October 2015.
+
+This announcement follows last summer's discovery that offenders' sentences were incorrectly calculated based on a flawed interpretation of policy and court decisions. The incorrect calculations in question were completed manually due to gaps in the capabilities of the automated system. Since the discovery, modifications have been made to the automated system to address key system limitations. Additional development is required to close gaps in capability and to significantly reduce the probability of error in NDCS' sentence calculations.
+
+As a part of this initiative, the following changes will be made to the Nebraska Department of Corrections' sentence calculations:
+MULTIPLE OFFENSE CALCULATION AUTOMATED: Offenders with sentences from multiple offenses will no longer have their minimum and maximum sentence calculated manually. The "roll-up" of multiple offenses into an offender's total sentence will be calculated automatically.
+"GOOD TIME" MANUAL ADJUSTMENTS ELIMINATED: Gaps in the monthly LB191 "good time" automated process resulted in monthly manual adjustments to the calculation of offender sentences. This software upgrade dispenses with the need for a manual adjustment process.
+SENTENCE RECALCULATION HISTORY TRACKED: Until now, NDCS did not have automated recordkeeping to track changes in the calculation of sentences due to the many variables that impact the process. This upgrade improves system controls and will allow for accurate recordkeeping of sentence calculations.
+"My administration has looked for new ways to integrate technology to streamline government services," said Governor Ricketts. "This initiative will help ensure that the Nebraska Department of Correctional Services accurately calculates sentences."
+
+"This is just one step towards reform," said Nebraska Department of Correctional Services Director Scott Frakes. "As I have reviewed the department's operations, modernizing the calculation of sentences was at the top of the list. While there will always be some manual processes involved, using this new software will help minimize the possibility of human error in the calculation process."
+
+Software upgrades will be overseen by the Governor's Chief Operating Officer Felix Davidson and NDCS Director Scott Frakes. Updates will follow as software comes online.
+
+Source: https://governor.nebraska.gov/press/gov-ricketts-announces-sentence-calculation-automation

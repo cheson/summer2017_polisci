@@ -1,0 +1,34 @@
+Public Statements
+Governor Cuomo Releases Provisional Open Data Guidelines to Increase Transparency Among State Agencies
+Press Release
+By: Andrew Cuomo
+Date: June 13, 2013
+Location: Albany, NY
+
+Governor Andrew M. Cuomo today released provisional open data guidelines for state agencies and public authorities to participate in Open.ny.gov, marking another milestone for the State's data transparency website. With this action, New York is the first state in the nation to publish its provisional open data guidelines and seek public comment on GitHub, an open source platform that allows for open collaboration and sharing. Public comment is open until September 1, 2013.
+
+"Since its launch, Open.ny.gov continues to expand with more data being made available by state and local governments," Governor Cuomo said. "This transparency website is a coordinated effort by all of state government, so today's provisional open data guidelines will provide direction to state agencies and authorities on how to catalogue and share their data on Open.ny.gov. I encourage New Yorkers to submit their comments as we work to build a new level of openness in government."
+
+On March 11, 2013, the Governor issued Executive Order 95 along with launching Open.ny.gov. The Executive Order directed state agencies, for the first time, to review and catalogue data they collect, and take steps to make public data available on Open.ny.gov in accordance with guidelines developed by the NYS Office of Information Technology Services (ITS).
+
+To view the provisional guidelines, go to: https://github.com/nys-its/open-data-handbook
+
+These guidelines are designed for use by both covered state entities and other government entities not covered by Executive Order 95 including localities. The guidelines will help with identifying, reviewing, and prioritizing state data for publication. The Executive Order directs ITS to encourage public input and finalize the guidelines in the coming months.
+
+Robert Freeman, Executive Director of the Committee on Open Government, said, "The use of Github represents a first among the fifty states, and will serve as the equivalent of a chat room open to the world. It will enable thoughtful and creative people to make contributions and communicate in a manner that can only improve the operation of government."
+
+Dick Dadey, Executive Director of Citizens Union, said, "The release of the Provisional Open Data Handbook is an important milestone in implementation of the Governor's Open NY Initiative, and we are pleased that public comment is going to be accepted through GitHub, an open source platform for receiving public feedback. By allowing public feedback to be posted and shared online, the development of the Final Handbook will be a collaborative project. We look forward to continuing to engage in improving the Handbook through this innovative platform."
+
+Andrew Hoppin, Chief Executive Officer of New Amsterdam Ideas, said, "At a time when many New Yorkers are rightly concerned about government data management policies, it is heartening to see that our State is committed not only to publishing data, but also to accepting detailed public input, through GitHub, on the specific policies that are driving the implementation of OpenNY. This crowdsourced feedback process will help to ensure that OpenNY continues to improve over time, and that New Yorkers enjoy the full value of opening up the asset of state data to all."
+
+About Open.ny.gov
+
+Open.ny.gov is a comprehensive state data transparency website that provides user-friendly, one-stop access to open data from New York State agencies, localities, and the federal government. "Open data" refers to data that is free from restrictions and can be released in a format that can be retrieved, downloaded, indexed, and searched by commonly used web search applications. Open.ny.gov provides unprecedented "open data" access and transparency to the wealth of information collected and maintained by the state and local governments. It allows researchers, citizens, business, and the tech community direct, centralized access to high-value government data to search, explore, download, and share.
+
+Making government information available in this way promotes the development of useful "apps" based on the data, encourages researchers and watchdog groups to use the data to make suggestions for improving government and life in New York, and makes state agencies more efficient by allowing access to data outside the Freedom of Information Law (FOIL) process.
+
+Data and participation from a combined total of 48 state agencies, localities, as well as the federal government are continually being enhanced and expanded on open.ny.gov.
+
+Today's actions are another step for New York State, utilizing technology to promote transparency and accountability in government, and supporting a new level of openness and collaboration between government and its citizens.
+
+Source:

@@ -1,0 +1,18 @@
+Public Statements
+State Moves to Targeted ERP Strategy
+Press Release
+By: David Ige
+Date: March 25, 2015
+Location: Honolulu, HI
+
+Signifying a move to a more results-driven strategy for Enterprise Resource Planning (ERP), Governor David Ige today directed the state's technology team to focus on targeted projects to replicate the recent success achieved in upgrading the Human Resources Management System (HRMS). Leading the refocused effort will be state Comptroller Douglas G. Murdock supported by Chief Information Officer Keone Kali.
+An ERP system is an integrated software solution used to manage important administrative functions, including human resources, payroll, time and attendance, finance, grants, acquisition, and budget. Originally envisioned as a single, all-in-one solution, Hawaii's ERP initiative, also known as the Statewide Unified Resource Framework (SURF) program, faces the realities of state budget constraints.
+"The state remains committed to the goals and continuation of the SURF program, and we are focusing on priority projects that can stabilize and improve the efficiency of government operations and services now," Governor Ige said. "We will use a business-like approach to prioritize projects that can be ready to deliver efficiencies and cost-saving benefits within the next two years under current funding."
+Instead of proceeding toward a single ERP system at this time, the current ERP procurement has been cancelled, and the state will set out to modernize and improve the individual ERP functional areas through more targeted projects. This approach builds on progress thus far and allows the state to achieve benefits in the short term while staying within budget, with the intent of integrating sub-components as they are established.
+The Governor has tasked the SURF Executive Steering Committee (ESC), led by Murdock as its executive sponsor, to determine which priority projects will be undertaken using available ERP funding and potentially leveraging existing systems.
+"We have made good progress so far, such as stabilizing network and IT infrastructure, improving existing systems, and adding select ERP functionality," Murdock said. "We will capitalize on this progress and go forward with targeted projects, within our means, that expand functionality and integrate existing ERP-related systems."
+Kali added: "Work completed by dedicated state personnel has made great strides in recent years, addressing critical elements like state network uptime and cyber security before we could even consider other enterprise-wide initiatives. Investments in our state's Content Delivery Network, Security Operations Center and Hawaii Government Private Cloud (GPC) over the past year alone have put us on much improved footing to move forward across departments to collaborate, consolidate, and transform the way government does business."
+ERP Projects already underway include the successfully launched HRMS upgrade in the Hawaii GPC. In addition, the Asset Management Project (in accordance with Act 110, Session Laws of Hawaii 2013) will establish a complete and accurate inventory of public buildings, facilities and sites on public lands.
+The ESC will identify priority projects in the coming months.
+
+Source: http://governor.hawaii.gov/newsroom/state-moves-to-targeted-erp-strategy/

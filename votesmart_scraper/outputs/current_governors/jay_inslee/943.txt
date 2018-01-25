@@ -1,0 +1,46 @@
+Public Statements
+Hearing of the Subcommittee on Telecommunications and the Internet of the House Committee on Energy and Commerce - Digital Future of the Unites States
+Statement
+By: Jay Inslee
+Date: Oct. 2, 2007
+Location: Washington, DC
+
+
+Hearing of the Subcommittee on Telecommunications and the Internet of the House Committee on Energy and Commerce - Digital Future of the Unites States, Part VI: The Future of Telecommunications Competition
+BREAK IN TRANSCRIPT
+REP. INSLEE: Thank you. (Laughs.)
+I wonder if someone could help me put that chart up again that we were looking at, because I wanted to make sure that I understood everyone's position on it.
+I understood, Mr. Casto, Mr. Tauke, basically we were saying this was an apples-and-oranges, or Cadillacs and John Deeres. And I wanted to ask them both, is there a comparison -- actually it was the other one; we were looking at the bar graph showing the various costs of the various services.
+Is there a non-Cadillac to John Deere comparison associated with this type of matrix that we should be familiar with? Chevy, yes, excuse me.
+MR. CASTO: Not that I'm aware of. I really do think it's, again, it's the Cadillac and the John Deere. They are completely different services and serve different services. They are provisioned differently, architected differently, and purchased differently.
+MR. TAUKE: It seems to me that we have to recognize that a company like Verizon is a major purchaser of special access services as well as a seller of special access services.
+So our Verizon wireless company, in 80 -- 75 percent of the country is in the same boat as Mr. Forsee's company. We have to go and buy special access services from other carrier.
+What do we do? Well, first, in many instances, we use microwave in order to not have to go with any of the incumbent carriers. Then we look at the carriers that are available in that marketplace, and usually there are several. And we bargain with them to try to figure out what is the best price we can get.
+But we're in the same boat as the wireless company that he is in 75 percent of the country, because we don't have wire line facility, special access facility, in all of those areas.
+So I guess the point that I want to make is is that our wireless company figures out how to compete, and we do it by buying services from a wide variety of people. And there are a wide variety of people who offer those services. I have sheets of names if you would like me to put them in the record.
+And we don't see that this is a market where, as a wireless company, we have few choices.
+REP. INSLEE: Mr. Forsee, do you want to comment on their responses?
+MR. FORSEE: I would reiterate what I said earlier that we put out a request to 77 providers, probably most of the same names that were on that list. We got 16 responses that covered 1 percent of our cell sites.
+There is no alternative except to go to the incumbent local exchange companies. They've built out these networks over 100 years. They're dispersed, they're deployed where cell sites have to be located in order to serve and provide better service to municipalities; that's a fact.
+And our WiMax network plan, which is now being launched, we put out a request microwave support, because we want an alternative. But at the end of the day we'll move the needle ever so slightly. We will move that needle from 98 percent over three years or four years to 93 or 94 percent. That's the fact.
+There is no other alternative, except to rely on the regional Bells, now the ILEX, for that type of service.
+MR. CASTO: I'd just like to extend an offer to Mr. Forsee that if he's interested we would certainly be interested in talking about providing access in the New York and Boston area, and in the Verizon territories as I'm sure be willing to extend that same offer in Chicago and other markets where they provide service.
+MS. HERDA: I think the difference -- I think the difference here, and when you look at that chart, forget about the numbers for a second and think of the difference in the prices. And even if that's $100 on the DS1 line, I know in the 8,000 buildings that we have connected with fiber, we sell -- we sell special access in those buildings.
+But in every single one of those buildings we have a competitor, and it is the incumbent local exchange carrier. In all the buildings that we are buying services if we had another alternative than the incumbent carrier, I can tell you right now, I would love to buy from someone else. We try to buy from someone else. We have gone to other competitive carriers. We've gone to the cable companies.
+The problem is that we're in more buildings than they are, and they can't really help us.
+We continue to look for alternatives in those buildings, but in order to even get the kinds of rates that are on those charts, you have to make big commitments and ever-growing commitments to the local exchange carriers to get the discounts.
+MR. TAUKE: Mr. Inslee, I get the impression here that all these prices are deregulated. Let me just make this simple point. If there is any failure in the FCC process, it's the last mile prices for special access remain heavily regulated under price cap.
+In Boston, New York, Washington, D.C., Baltimore, Philadelphia, five of the most competitive places in the country, we are still under price cap for the last mile for special access, DS1 and DS3.
+We still have our rates regulated by the FCC. This is when CableVision is advertising in New York, they have more fiber than any phone company, reaching more buildings than any phone company.
+Time Warner says to Wall Street, they have access to 900,000 buildings. Now how can it be? She says 8,000, and they say to Wall Street, 900,000.
+Well it's because the issue is not whether you have lists of buildings. The issue is, do you have access to that building.
+MS. HERDA: And you're providing the access.
+MR. TAUKE: No. What happens is, if what you are telling others, and what is the story that the investment community is told, and what the Department of Justice uses in its assessment is, you put on a fiber ring. And when you put on a fiber ring, you don't go light a building, if there is no customer there to order the services.
+But once the customer comes to order the services, you split off fiber from that ring and you go to the building. If I have a 50,000 square foot building, and three tenants in that building, and nobody is choosing Time Warner as a carrier, of course they are not going to take fiber to the building. They are not going to light the building.
+But if it's close to their fiber ring, are they going to light the building when a customer wants service? Of course.
+So I think that you have to understand that there is a lot of competition in these urban areas in particular. The rates are still capped by the FCC. The failure has been that the process used at the FCC has been so slow in freeing this market.
+MS. HERDA: I think it's important to understand, we are physically in around a little less than 8,000 buildings with our network. If we have a building right here, and our fiber is going right by the building right next to it, we may never be able to economically go into that building. We have to get a return on our investment.
+When we go into a building, we have t have a customer contract, and we have to be -- it can cost anywhere on the low end of say $50,000 to build fiber into a building, even if the fiber is going right down the street. And it can cost as much as $300,000. so you have to be able to get enough revenue in that building -- and I can tell you, if we can't build into the building with as big as our networks are, where they do go in so many different places, nobody else is going to be building. The capital markets are not going to find another competitive player to do that.
+BREAK IN TRANSCRIPT
+
+Source: http://energycommerce.house.gov/cmte_mtgs/110hearingsheld.shtml#tihear

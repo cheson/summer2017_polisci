@@ -1,0 +1,42 @@
+Public Statements
+Governor Cuomo Announces $40 Million for Large-Scale, Clean-Energy Power Systems to Guard Against Outages
+Press Release
+By: Andrew Cuomo
+Date: May 2, 2013
+Location: Albany, NY
+
+Governor Andrew M. Cuomo today announced $40 million in funding for projects that use environmentally clean and efficient Combined Heat and Power (CHP) systems to generate on-site energy during power outages, in support of recommendations made by the NYS 2100 Commission following the aftermath of Superstorm Sandy. These projects will help protect commercial, industrial, health care, institutional and multi-family facilities across New York State from weather-related power disruptions while also decreasing demand on the power grid.
+
+"Superstorm Sandy demonstrated the need for resilient power generation when critical facilities like hospitals lose electricity," Governor Cuomo said. "CHP technology is a clean energy, common-sense solution that keeps the lights on and systems running during emergencies. It is important that we invest in the installation of these kinds of power systems across the state to fortify our infrastructure against severe weather to maintain essential services and business productivity, and most of all, protect New Yorkers."
+
+CHP, also known as "cogeneration," is the simultaneous production of heat and electricity generation. This allows CHP systems to achieve high levels of fuel efficiency, and with its localized generation, eliminates the need to transport electricity over distribution systems. CHP systems can be sized to provide all, or a portion of, the electricity and heat for campus, building, or manufacturing needs.
+
+CHP systems can even operate during power outages, allowing the heat and lights to remain in operation during interruptions in the grid and decreasing peak demand on the electric grid.
+
+In the past several years, New York State has invested more than $100 million in CHP projects across the state that has resulted in generating more than 150 megawatts (MW) of power. Some of those projects include:
+
+Co-op City, Bronx: A housing community with approximately 60,000 residents reports that its energy costs have been reduced by $18 million a year since the 2010 installation of its 40 MW CHP project. Co-op City received $2 million in incentives from the New York State Energy Research and Development Authority (NYSERDA).
+
+NYU Langone Medical Center (NYULMC): The medical center will be installing a 7.8 MW CHP system expected to be operational in May 2016. The CHP system will operate during an electric grid outage and keep the medical center operational during power outages. NYULMC received $2 million in incentives from NYSERDA.
+
+Ultra Flex Packaging, Brooklyn: The company has a 300 kilowatt (kW) CHP unit, which has been operational since October 2010. This project received $360,000 in incentives from NYSERDA.
+
+Cornell University, Ithaca: With a campus that is considered a "facility of refuge," Cornell has installed a 30 MW CHP system in January 2010 that is built to operate during an electric grid outage. This project received a $1 million NYSERDA incentive.
+
+Alliance For Housing's Seaside Plaza Complex and Concord Court Building, Staten Island: These two projects were awarded $287,500 and $282,500 respectively by NYSERDA and have each installed gas-fired 100 kW CHP systems. These sites are multi-family residential/mixed use occupancy buildings with 256 and 156 housing units respectively. Collectively, these systems generate 1,400 MWh annually and reduce summer peak demand by 200 kW.
+
+St. Joseph's Hospital Health Center, Syracuse: A 4.5 MW, gas-fired CHP system is in development that will generate 25,000 MWh annually and reduce summer peak demand by 3 MW. The system will be built to operate during an electric grid outage and is expected to be operational by the end of 2014.
+
+NYSERDA is now making available $40 million specifically for CHP projects larger than 1.3 MW in size. This effort supplements the $20 million in funding announced by the Governor earlier this year for CHP projects ranging in size from 50 kW to 1.3 MW.
+
+"Governor Cuomo has strongly supported, and understands the value of CHP, which can provide resiliency to our power system as well as take strain off the electric grid in an environmentally responsible way," said Francis J. Murray Jr., President and CEO, NYSERDA. "This program makes the installation of CHP technology more affordable for commercial, industrial and multi-family dwellings while at the same time ensuring the lights will remain on during severe inclement weather."
+
+The funding for large-scale CHP projects will be available statewide on a first-come, first-served basis until all funding is committed or December 30, 2016. It is for natural gas-fueled CHP systems and CHP feasibility studies. Sites that pay the electric or gas System Benefits Charge (SBC) are eligible for incentives.
+
+The base incentives for performance are limited to $2 million. Bonus incentives of up to an additional $600,000 are available for CHP systems that demonstrate superior energy performance; serve critical infrastructure facilities, including facilities of refuge during disaster situations; and for projects located in a targeted zone established by Con Edison as a load service area of particular interest. Due to the potential of flooding from extreme weather, CHP systems funded under this program must have all critical components located above the anticipated flood level.
+
+Additional support for CHP technology includes a conference in mid-May sponsored by the New York State Department of Public Service to explore the current regulatory structure as it applies to developing CHP facilities and to identify ways to ensure regulations do not place unnecessary road blocks to their development.
+
+For more information, please visit http://www.nyserda.ny.gov/PON%202701.
+
+Source: http://www.governor.ny.gov/press/05022013cleanenergy

@@ -1,0 +1,35 @@
+Public Statements
+Issue Position: Hutchinson Plan For Job Creation Through Technology Education
+Issue Position
+By: Asa Hutchinson
+Date: Jan. 1, 2014
+Location: Unknown
+
+THE HUTCHINSON PLAN FOR JOB CREATION THROUGH TECHNOLOGY EDUCATION
+ARKANSAS HAS AN OPPORTUNITY
+The study of Computer Science (particularly coding) opens more economic opportunity for more people than almost any other area of study. While millions of Americans are unemployed, the nation suffers from a severe shortage of people who can write computer software. This skill set is in demand not just in the tech sector, but in banking, entertainment, medicine and virtually every area. Whether our children want to be farmers, doctors, teachers or entrepreneurs, they will all benefit from the creativity and problem-solving skills that are the essence of creating computer software.
+Learning to code, even at a high school level, produces rewards quickly. Computer programmers start at rates as high as $15-20 an hour or more. Learning to code is one of the best paths to entrepreneurship as you can start a profitable business with little or no upfront capital. Knowing how to code may one day be a basic workplace expectation -- like basic computer skills, or proficiency in various office software programs.
+Not only do successful programmers earn well above average, they often become entrepreneurs who create new jobs for many others. From their ideas come companies that employ sometimes thousands of people with a variety of non-programming skills.
+Nationally only 2% of students study computer programming. If we triple that to 6%, we'd close the gap between students and jobs, driving $500 billion in economic value to our country.[i] This is a giant opportunity, impacting every industry and institution.
+A June, 2011 McKinsey Global Institute report predicts a shortage of 1.5 million "data-savvy" managers and analysts by 2018. Computer science jobs are growing at two times the national average. In fact, by 2020 there will be 1 million more jobs than students in computing jobs.[ii]
+-2-
+THE HUTCHINSON PLAN FOR ARKANSAS LEADERSHIP IN TECHNOLOGY
+As a state, Arkansas is simply missing the boat when it comes to exploiting this window of economic opportunity. Presently, a minority of states (17 out of 50[iii]) recognize computer science as qualifying for core graduation credit, and Arkansas is not one of them. This must change. The Arkansas education system needs to include in its course offering computer coding or computer science across all public high schools. These simple changes will motivate young people to consider a career path that centers on technology and computer skills. This change will lay the foundation for future dynamic economic growth in Arkansas. The course offering combined with giving core graduation credit for the course will dramatically increase the number of high school graduates who pursue this career path.
+Arkansas companies are in need of new graduates who are knowledgeable and skilled in the digital economy. One company, Acxiom, announced it was seeking to hire 300 to 400 new program developers.[iv] These are good paying jobs but the opportunities are not limited to data management companies. In virtually every field from retail to agriculture there is a need for workers who know how to write computer code and who have been trained in information based systems.
+The Arkansas Department of Education should be leading the way in creating high school curricula that teach our young people software coding and programming skills. A Department of Education under a Hutchinson administration will develop a computer science curriculum with our statewide technology leaders and national experts such as Code.org. A sampling of the topics and exercises that might be included in a computer science course can be
+Managing, visualizing, processing and analysis of data
+Modeling and dealing with real world problems on the computer
+Ethical and regulatory issues in computing including data privacy issues
+Robotics (designing and programming)
+Web design
+Security issues
+Algorithmic applications for problem solving
+Computer science will no longer be neglected in the State of Arkansas but it will be embraced. Obviously, not every high school student wants to learn computers and technology. It should be emphasized that computer science need not be a requirement but an alternative course designed for the job skills of the future with core graduation credit received for the course. It should be designated as a math or science credit.
+WHAT IS THE COST?
+Success in computer science education does not require a massive infusion of tax dollars. The first step of policy changes will not cost the state a single penny; a simple change in the law to give math or science credit for computer science courses will open up a new window of opportunity without the expenditure of tax dollars. Students choosing computer science classes will be rewarded by completing a step towards graduation. Currently, schools largely do not offer computer science because it is not a core credit course and when offered few students want to participate because they do not receive math or science credit.
+In the second step, curricula must be developed and teachers trained in basic computer science. Since continuing education is already a requirement with which teachers and schools must comply, taking advantage of those opportunities would limit expenses. Costs related to such training could in many instances be provided for by private funds. One resource offers to partner with schools to make computer science courses available at no cost (see code.org/educate/districts). Even without generous private support, a reasonable estimate to use state funds to provide training for teachers across Arkansas's approximately 350 high schools would cost less than one million dollars, using either the College Board, Oracle, or University of Phoenix. This cost will go down further when our own state universities begin offering professional training for teachers. This training will be an opportunity for Arkansas colleges and will be less expensive for our own teachers when offered in Arkansas.
+Schools must have access to high-speed broadband but this is already the plan in Arkansas. The Hutchinson plan expands the use and opportunity with the broadband access.
+The really good news is code isn't that hard to start to learn -- one outsourcing firm takes people with no training and makes them full-time Java programmers in 3 months. Learning coding isn't expensive. Beyond a certain point, coders are self-taught, but guided by teachers.
+Teachers can be incentivized to learn how to teach coding. If we have the will, we will have the way. What is mostly required is the will to turn Arkansas's public schools into places where our kids can learn the skills of the future. That's the kind of leadership Asa Hutchinson will provide.
+
+Source: http://asaforgovernor.com/hutchinson-plan-for-job-creation-through-technology-education-arkansas-has-an-opportunity/

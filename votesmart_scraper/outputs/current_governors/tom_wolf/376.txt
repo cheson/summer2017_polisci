@@ -1,0 +1,15 @@
+Public Statements
+GO-TIME, PA Department Of Health Release Powerful Health Data Analytics Portal
+Press Release
+By: Tom Wolf
+Date: Jan. 22, 2016
+Location: Harrisburg, PA
+
+Governor Wolf's Office of Transformation, Innovation, Management, and Efficiency (GO-TIME) and Secretary of Health Dr. Karen Murphy today announced that the Pennsylvania Department of Health's recently established Division of Health Informatics has released a new online self-service tool to access and analyze public health data.
+The initial launch of the Enterprise Data Dissemination Informatics Exchange (EDDIE) features a dozen of the most frequently requested datasets, such as vital records and cancer incidence, that may be accessed through a customized search function.
+"Since the launch of GO-TIME, state agencies and employees have committed themselves to making Pennsylvania's government work more efficiently," said Governor Wolf. "I'm thrilled to hear about this next success in maximizing efficiency, modernizing state government operations, and providing the highest quality services."
+"In support of Governor Wolf's goal of creating a "Government that Works,' we are improving and streamlining our ability to provide useful information to the public," said Secretary Murphy. "Implementing this new data tool keeps Pennsylvania on the cutting edge of information technology and provides the best services possible to commonwealth residents. In addition, having a more robust and modern system, which is easier to maintain and update than our current systems, will save a significant amount of staff hours and will result in a much better experience for the end user."
+In the coming weeks, EDDIE will gain additional features like environmental health data and county-level assessments. Geographical visualization capabilities have will also be added to EDDIE, such as mapping and charting functions. By streamlining these functions and datasets, the new portal is not only more efficient and less costly but also raises the visibility of the datasets themselves.
+"The Department of Health is dedicated to enhancing the profile of public health data by enabling greater data dissemination and decision-making. We have increased the value of all the data we collect by preparing and sharing it for everyone to use and learn from," said Department of Health Chief Information Officer Patrick Keating. "Our new Division of Health Informatics develops technical solutions like the new EDDIE system that ensure the confidentiality, security, and integrity of health data while maximizing its reach and utility."
+
+Source: https://www.governor.pa.gov/go-time-pa-department-of-health-release-powerful-health-data-analytics-portal/

@@ -1,0 +1,14 @@
+Public Statements
+Governor Walker Announces New Broadband Contract Saving $8 Million Annually
+Press Release
+By: Scott Walker
+Date: Sept. 6, 2016
+Location: Madison, WI
+
+Governor Scott Walker announced a new contract to increase broadband capacity on the BadgerNet Converged Network (BCN) and save taxpayers $8 million annually. Joined by State Superintendent of Public Instruction Tony Evers, Governor Walker will visit the school districts of Cuba City and Southern Door to discuss the benefits of the BCN contract, as well as highlight the availability of $9 million in TEACH grants.
+"Faster, more reliable access to the internet is crucial as our state continues to move into the 21st century," Governor Walker said. "The new broadband contract we're announcing today dramatically improves the quality of service to users. Schools and local governments throughout Wisconsin will have the ability to utilize this contract and potentially save money. Ultimately, this enhances the quality of education for our students, as well as the quality of local government services for our taxpayers."
+BCN is a statewide network serving all 72 Wisconsin counties by providing wide area network, internet transport, and video applications to state government and educational entities. This includes state technical colleges, pre-Kindergarten through 12th grade schools, private colleges, and charter schools.
+Effective November 1, 2016, state agency customers and the TEACH program on the existing BCN will realize a seven percent savings on their current BCN service rates at 1.5 megabytes per second and above. This provides for a level of costs savings to customers until they migrate to the new BCN beginning in February. As customers migrate to the new network, they will receive increased bandwidth at lower cost based rates negotiated with the new contract.
+Additionally, retroactive to July 1, 2016, Technology for Educational Achievement (TEACH) educational agencies are eligible for a bandwidth increase at no additional cost. The current $100 per month rate provides increased bandwidth capacity from 20 megabytes to any bandwidth increment less than 1 gigabyte. Many educational agencies participating in the TEACH program at bandwidths less than 1 gigabyte will receive a rate reduction of $150 a month as a result of this change, compared to the $250 they were paying.
+
+Source:

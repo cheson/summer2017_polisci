@@ -1,0 +1,33 @@
+Public Statements
+Panel III of a Hearing of The Subcommittee on Oversight and Investigations of The House Energy and Commerce Committee - Energy Speculation and Regulation Part II
+Statement
+By: Jay Inslee
+Date: June 23, 2008
+Location: Washington, DC
+
+REP. INSLEE: Thank you.
+There are five things that previous witnesses have talked about, closing the three loopholes, three horsemen of the Apocalypse I guess, the ICE, the swap, the Enron, measures to increase margin requirements are the fourth action and the fifth measures to restrict the positions that traders would have in a particular market. So there's sort of five actions to be considered.
+I'd like you to address each one of those actions. Tell me which ones would require some international action to have some significant effect, or which could be done just by the United States and still have at least considerable effect. And which ones would require Congressional actions as opposed to you being able to take regulatory action with or without -- and forgetting the wisdom, but whether or not you have the authority to do it. Can you address each of those five?
+MR. LUKKEN: I think the first one -- the exempt commercial market issue -- was passed as part of the FARM Bill. And so we're addressing trying to within -- I think we have 180 days to try to get out a rule on that and try to address the issue regarding what is called an Enron loophole.
+The second issue dealing with foreign boards of trade is stated. We are now getting equivalents of large trader reports from the Foreign Board of Trade that have links to the United States both in London, so that will be helpful as well as putting position limits on them so we can do that administratively. But certainly I know that's been floating around, the codification of this would be helpful in my view.
+Third, dealing with swaps. This is an issue that we've asked for additional information about a month ago to get better information from swaps to understand what is -- type of transactions that are coming onto our markets as a result of swap dealers. We hope to get that information -- and by the way, that also includes sovereign wealth funds coming through swap dealers and to find out the type of information coming through those swap dealers and hope to make recommendations to Congress by September 15.
+Margin, we do have authority, emergency authority to raise margins on exchanges, and I do believe we also have similar authority to raise or to implement position limits on exchanges as well.
+REP. INSLEE: So all five of those actions it sounds like you could take, you mentioned one of them that would be helpful to have statutory authority in is the ICE situation, but all five of them you think you'd have authority to take action now then, even without specific statutory authority?
+MR. LUKKEN: And we have -- on the first three, we are taking administrative action on the first three.
+REP. INSLEE: And do you have intentions on margins or positions?
+MR. LUKKEN: Again I -- as far as margin it's in the futures market it's meant to protect the clearing house to cover a one day price move in the futures markets. I think there's concerns this could -- that raising margins could drive this business elsewhere and it would be difficult to get it back. There's no reason that the benchmark has to be in New York, it could be elsewhere in the world, and I think it would be terrible if we lost the oversight of those markets to other places. Right now, it's in New York and we get all the information and we get the information from London as well, so we're seeing the entirety of the crude oil regulated market place.
+REP. INSLEE: But isn't that on margin 00 isn't that argument that it'll drive people offshore really the same in equities and stocks. I mean, we have margin requirements here and we have a pretty vibrant capital market here. Isn't it pretty much the same -- we have attractions to be in this market for a variety of reasons because of the stability of our economy, the relative stability of our political system.
+I mean margin requirements haven't destroyed our capital markets here, have they?
+MR. LUKKEN: No, but certainly regulation has been a concern in our capital markets, the excessive regulation is driving business elsewhere and that's, you know, the Bloomberg Schumer Report that, you know, business was going to London and we need to reexamine our capital markets right now --
+REP. INSLEE: Well you're not suggesting reducing margin requirements on the equities markets because we're losing all this business to the --
+MR. LUKKEN: Absolutely not. I'm just saying that we have to be mindful that regulation does have an effect on the --
+REP. INSLEE: Well, if we're mindful that we may be able to reduce oil prices by 30 (percent) to 50 percent just by increasing margin requirements, wouldn't that be a pretty good trade-off?
+MR. LUKKEN: Well, I'm not certain that that would be the effect of raising margins.
+REP. INSLEE: Well, even if it's a half a percent it would probably outgun the loss of any potential loss of a capital market overseas, wouldn't it?
+MR. LUKKEN: Well, I think there are other measures through transparency and other controls that would be more effective than raising margins.
+REP. INSLEE: And what would those be?
+MR. LUKKEN: Well, certainly trying to get better data to the public about what's happening overseas, what's happening in the swap markets, trying to bring greater transparency to those market places, and ensuring that none of these markets -- or people are evading position limits in order to speculate had they come directly to the market place.
+REP. INSLEE: Well just speaking as one Congressman, I hope you look at the titanic effect of even small changes in the price of oil relative to the relative small effect on losing a trading position here or there to overseas swapping markets. The big savings is in oil prices.
+Thank you.
+
+Source: http://energycommerce.house.gov/

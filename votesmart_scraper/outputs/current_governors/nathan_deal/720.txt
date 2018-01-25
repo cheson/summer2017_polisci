@@ -1,0 +1,60 @@
+Public Statements
+Hearing of the Telecommunications and the Internet Subcommittee of the House Energy and Commerce Committee - The Digital Television Transition
+By: Nathan Deal
+Date: July 21, 2004
+Location: Washington, DC
+
+
+Federal News Service July 21, 2004 Wednesday
+HEADLINE: HEARING OF THE TELECOMMUNICATIONS AND THE INTERNET SUBCOMMITTEE OF THE HOUSE ENERGY AND COMMERCE COMMITTEE SUBJECT: THE DIGITAL TELEVISION TRANSITION: WHAT WE CAN LEARN FROM BERLIN
+CHAIRED BY: REPRESENTATIVE FRED UPTON (R-MI)
+WITNESSES: MARK GOLDSTEIN, DIRECTOR, PHYSICAL INFRASTRUCTURE, U.S. GOVERNMENT ACCOUNTABILITY OFFICE; DR. MARK COOPER, DIRECTOR OF RESEARCH, THE CONSUMER FEDERATION OF AMERICA; GREG SCHMIDT, VICE PRESIDENT OF NEW DEVELOPMENT AND GENERAL COUNSEL, LIN TELEVISION CORPORATION; MICHAEL S. WILLNER, VICE CHAIRMAN AND CHIEF EXECUTIVE OFFICER, INSIGHT COMMUNICATIONS; JOHN LAWSON, PRESIDENT AND CHIEF EXECUTIVE OFFICER, ASSOCIATION OF PUBLIC TELEVISION STATIONS;
+EDDY W. HARTENSTEIN, VICE CHAIRMAN, THE DIRECTV GROUP, INC.;
+CARL J. MCGRATH, CORPORATE VICE PRESIDENT AND CHIEF TECHNOLOGY OFFICER, BROADBAND COMMUNICATIONS, MOTOROLA, INC.; JAMES H. SNIDER, SENIOR RESEARCH FELLOW, THE NEW AMERICA FOUNDATION
+BODY:
+BREAK IN TRANSCRIPT
+REP. DEAL: Mr. Snider, I'm going to have to ask you to wrap it up. You're about three-and-a-half minutes over.
+MR. SNIDER: Okay. One critical difference between the U.S. and the Berlin one is in Berlin they were able to give digital flexibility as part of the transition. We've already given away that carrot so we have to come up with a new carrot, and the one on the table is must- carry is the most-that's the real significant difference. Also, they were willing to just focus on low income consumers for the converter box subsidy in Berlin.
+The focus in the United States has been the need to protect everybody-or a larger segment of the population than just the low income people.
+For more details, I have a detailed issue brief that we've submitted as an appendix to our testimony and I would encourage you to look at that for the details of our proposal.
+Thank you for this opportunity.
+REP. DEAL: Thank you. I want to thank all the panel members. It's certainly been an interesting panel and a variety of opinions have been expressed. Certainly some of these we've heard before; some we have not. Let me just across the board with the panel ask you one general question. And without getting into the details of the dates and the structure of a subsidy, which we've heard some details in your comments-without getting into those details, do you-each of you, do you believe that Congress should expedite the DTV transition by setting a hard deadline? And I guess a yes or no if you possibly could to that-response.
+We'll start over here. Mr. Goldstein?
+MR. GOLDSTEIN: Congressman, from our perspective it's really a policy issue for the Congress. What we can tell you is what we found in Germany, which clearly did help in the Berlin scenario, and quite frankly in the other areas, the other islands in Germany, the simulcast period and the date certain and the amount of time between the beginning and the ends of the periods are likely to be shorter even than it was in Berlin.
+REP. DEAL: Mr. Cooper?
+MR. COOPER: I guess the answer is yes, but. And there's lots of buts. We've outlined them in our testimony. The point of the transition is not to get there, but to make sure you end up in the right place. And one of the buts I didn't get a chance to mention was a la carte choice. We think that ought to be wrapped in here, and we --
+REP. DEAL: Strange you should mention that.
+MR. COOPER: It just popped into my head when you moved to the chair. So that this can be in the public-the citizen and consumer interests. But it has not been well managed. It was just a pure giveaway 10 years ago. It hasn't worked and now we have a chance to really establish the policy goals we want. So do it as fast as you can, but make sure you end up in the right place.
+REP. DEAL: Mr. Schmidt.
+MR. SCHMIDT: I don't believe that either NAB or MSTV has taken a position on a hard date yet, but I think the same issues-similar to what Dr. Cooper was talking about. It has to be-at some point you're going to have to draw a line. Where you draw that line really matters and what you do before then really matters. And if you can do things that will mitigate the expense and the dislocation and confusion for the viewers, obviously our concerns are mitigated as well. But it really matters what happens before you get to that date. And just setting a hard date now without taking those extra steps is going to be catastrophic.
+REP. DEAL: Mr. Willner?
+MR. WILLNER: I for one am completely prepared to move forward with the digital transition. I think that the nation could be moving forward with digital transition as early as the date that's already set, so I'd be prepared to say yes. As a New Yorker and, you know, a witness to September 11 -- and I know some of the uses being contemplated for those frequencies-I would encourage this committee and Congress to move along as quickly as they can.
+REP. DEAL: Mr. Lawson?
+MR. LAWSON: I'd agree with Mr. Schmidt. A hard date by itself without the other conditions in place will be a catastrophe. Secondly, I think it would be unwise to impose a uniform national hard date. I think we have to look at conditions in different markets. And, thirdly, public television's offer is that against any reasonable hard date, under right conditions we will voluntarily free up spectrum early.
+MR. DOUGLASS: Mr. Hartenstein?
+MR. HARTENSTEIN: I think an unequivocal yes is the right answer, for all the reasons of getting the spectrum back. But it has to be reduced to something very simple that first of all consumers can understand what "yes" means and when that date is it means. What's it going to mean to them?
+This is an amazing economy, this is an amazing industry. But a "yes" with the correct provisos that say what will happen, who has to carry what, is-I would urge this committee and the full Congress to put a complete answer together so that everyone understands what it means. The manufacturers, the distributors, the broadcasters all need to make preparations for that. So I think the elements are all on the table here and we stand-I think all of us stand ready to have the debate that's associated with it and let's move on. We are behind, as you look at other countries, in doing this and we ought to take a leadership role.
+REP. DEAL: Mr. McGrath?
+MR. McGRATH: I would say absolutely yes. There are many challenges. The technology is ready to help resolve those challenges. A quick focus on a date that will get the dialogue focused and those challenges can be solved very quickly.
+REP. DEAL: Mr. Snider?
+MR. SNIDER: Yes, absolutely, with one caveat. The 2009/3 FCC planned date is too late. Berlin took a total of 18 months from the time the parties came to agreement to when it was done, and the simulcast period was nine months for the next set of transitions. It's now even been reduced to six months. We don't need to wait so long to get to that hard date.
+REP. DEAL: Well, I think there's general agreement that we certainly need to move with some deliberate speed in that direction. Obviously, I think if I ask you all what would be the actual transition date in the absence of a hard date, without all the contingencies that are currently attached to the date we've established, we probably would be all over the spectrum in terms of your estimation of when that date would be. But I would-let me just ask it this way then: do any of you think that we will reach the target date now that is set of 2006 without some additional action by Congress to facilitate that? Anybody think we'll do that? I don't see anybody saying so.
+Well, all of you have touched on a variety of things that we could do to expedite it, and I would like to ask just very briefly --
+Mr. McGrath, I believe you said that the unit that you're talking about would be a $67 price per unit.
+Mr. Snider, is that in the range of what you estimated the cost of the device to be?
+MR. SNIDER: Yeah. I'd just like to bring this committee's attention to a report that NAB and MSTV did in 2001 on the DTV tuner costs. They estimated over five years that the cost of those tuners would decline from $200 to roughly $10 because of a learning curve of manufacturing. If you apply-these are computer devices-any type of analogous learning and production curve, even if they are $70 today-and as I mentioned, a company came out with a $35 converter at the recent Cable Show-we're talking about a clearly declining cost, whatever it might be at this time.
+REP. DEAL: Mr. Willner, what would be the price range of the device you're talking about there?
+MR. WILLNER: Our view is-well, this particular device was over $100. There are different models in Germany. But our view is that in the mass market with, you know, CD manufacturers competing for the marketplace in the retail model that the price could be as low as what Mr. Snider said originally, which was between $35 and $50.
+REP. DEAL: Okay.
+MR. McGRATH: And I would-I guess I would just add that any benchmark costs or price in the marketplace, I number one absolutely believe that the competitive marketplace will meet or beat $67, and I intend to be a player in that market. This is achievable. It just reminds you that a 50 kilobaud analog voice modem still costs you over $50 in Wal-Mart.
+REP. DEAL: But if that 110 million households is the target, obviously the magnitude of the target tends to bring the cost of the --
+MR. McGRATH: I would absolutely agree. Our targets are on the much lower end of that; maybe a lower eight to 10 million type of number. And if this gets into the multi tens of millions, certainly costs will come down faster. The learning curve here is the key. Get it started and get down the price line curve.
+MR. SNIDER: Mr. Chairman, if I might add one --
+REP. DEAL: Sure.
+MR. SNIDER: -- note, however? One party that's not at this table is the receiver manufacturers.
+REP. DEAL: Yes.
+MR. SNIDER: And you can see the difficulties presented by putting a hard date on-I don't know what their timetable is on putting these things in the sets, but if you put a hard date on any of the dates that these gentlemen are talking about, it seems to me it's going to be incumbent upon the retailers to put a sticker on each of those sets that says, this TV will not work after January 1, 2007, unless you have an extra $50 or $100 box or subscribe to cable or satellite. I'm not sure what that means for their sales, but I suspect it will not help them.
+REP. DEAL: Well, we have had manufacturer representatives in previous hearings and I think your point is well taken. And one of the concerns I think I have, and I'm sure others, is that every time we let somebody buy a television set-or not let them. Every time they buy a television set voluntarily in this country that is not equipped to make the transition, your point is correct is that they've made an investment for which they will have to make an additional investment if they're going to move into the transition stage.
+MR. SCHMIDT: And I think we're going to see another 20 million analog sets sold this year.
+REP. DEAL: That's a lot of them. I've used way beyond my time, and I'm borrowing the chair so I don't want to abuse my time. We'll get back to some of you.
+Mr. Boucher, I'll go to you first.

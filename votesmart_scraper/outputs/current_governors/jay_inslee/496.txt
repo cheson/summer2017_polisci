@@ -1,0 +1,18 @@
+Public Statements
+From Coding to Creating Cool Apps: Governor Inslee Signs Bill to Promote Computer Science in Schools
+Press Release
+By: Jay Inslee Drew Hansen
+Date: May 14, 2013
+Location: Unknown
+
+With a group of students, teachers, education leaders, and top executives from Microsoft and code.org, by his side, Gov. Jay Inslee signed a bill today intended to encourage more students to take computer science classes in high school.
+"We have some of the most innovative IT and computer businesses in the world right in our backyard, but too many of the jobs they're hiring for are going to students and workers from other state and other countries," said Inslee. "If we can encourage more of our students to try their hand at computer science in high school, we can open their world to so many amazing careers."
+HB 1472, sponsored by Representative Drew Hansen (D-Bainbridge Island), directs school districts to award a math or science credit to students who enroll in an AP Computer Science class. Encouraging more students to enroll in computer science classes will not only help reduce the job skills gap, but also provide more opportunities for students to gain real-world experience and knowledge in a cutting-edge industry.
+"This bill will help students train for high-paying jobs in the technology industry and start addressing our state's computer programmer shortage," Hansen, D-Bainbridge Island, said.
+"This new law represents an important step forward for our kids and for the technology competitiveness of Washington State," said Microsoft Executive Vice President and General Counsel Brad Smith. "By counting computer science classes towards high school distribution requirements, we'll better help our own kids master the skills that will be vital to fill the jobs of tomorrow."
+Many schools are pursuing partnerships with businesses that bring coders and programmers into classrooms and help inspire students to explore STEM-related careers. Microsoft employees have been working with the computer science students at Rainier Beach High School. Concur employees recently worked with students at Tacoma's Lincoln High School and sponsored an app-development contest. Groups such as code.org have launched successful viral campaigns to "make coding cooler."
+Currently, Washington ranks 4th in the country for number of technology-based corporations, but 46th for participation in science and engineering graduate programs. Washington STEM recently reported there are 25,000 unfilled jobs in Washington as a result of the job skills gap, 80 percent of which are in high-skill STEM and health care roles.
+This bill will make Washington the 10th state to allow computer science to be integrated as part of the math and science curriculum in high schools. Hadi Partovi, co-founder of code.org, says he's encouraged to see momentum for the industry growing.
+"Code.org's short video starring Bill Gates and Mark Zuckerberg drew 20 million views and 650,000 signatures behind the idea that more students should learn to code," Partovi said. "It's fantastic to see Washington count Computer Science in the core math and science curriculum. Let's get the rest of the country to follow Washington's lead!"
+
+Source: http://www.governor.wa.gov/news/releases/article.aspx?id=92

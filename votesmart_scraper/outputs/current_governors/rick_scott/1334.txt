@@ -1,0 +1,17 @@
+Public Statements
+Letter to Commissioner Gerald M. Bailey Florida Department of Law Enforcement
+Letter
+By: Rick Scott
+Date: Aug. 19, 2011
+Location: Unknown
+
+In a letter to FDLE Commissioner Bailey, Governor Rick Scott asked the Florida Department of Law Enforcement to attempt to recover any data pertaining to transition email accounts that may have been inadvertently deleted by Rackspace, a Texas company that hosted then Governor-elect Scott's transition staff email accounts. The letter directs FDLE to attempt to recover the lost accounts and find out how the and why the accounts were closed.
+The full text of the letter is pasted below.August 19, 2011
+Commissioner Gerald M. Bailey
+Florida Department of Law Enforcement
+P.O. Box 1489
+Tallahassee, FL 32302-1489
+Dear Commissioner Bailey:
+I write regarding the subject of email data in my account and the accounts of members of the staff who worked on my Transition team, between the time of the election in November 2010, to my inauguration on January 4, 2011, and which were held on a server operated by Rackspace US, Inc. of San Antonio, Texas on a domain know as "www.scotttransition.com". While many transition emails have been produced in response to public records requests, the Rackspace accounts were apparently closed after the inauguration, and the provider state that none of the email data in closed accounts were preserved or maintained.
+
+Source:

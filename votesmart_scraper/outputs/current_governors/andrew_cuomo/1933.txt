@@ -1,0 +1,36 @@
+Public Statements
+Governor Cuomo Announces New Cyber Security Assessments for Banks
+Press Release
+By: Andrew Cuomo
+Date: May 6, 2014
+Location: Albany, NY
+
+Governor Cuomo today announced the release of a cyber security report that shows the growing risk and sophistication of cyber attacks facing New York banks, and directed the Department of Financial Services (DFS) to conduct new, regular, targeted cyber security preparedness assessments of the banks DFS regulates.
+"With today's growing cyber threats we need to make sure New Yorkers' finances are protected from online predators," Governor Cuomo said. "Targeted cyber security assessments for banks will better safeguard financial institutions from attacks and secure personal bank records from being breached. When consumers sign up for online banking they expect their personal information to be secure and we are working to make sure financial institutions take the proper precautions to safeguard it."
+
+Superintendent of Financial Services Benjamin M. Lawsky said, "The fact that so much of our financial lives are spent online makes banks increasingly tempting targets for cyber attacks. Hackers spend day and night trying to think up new ways to steal consumers' personal information and disrupt our nation's financial markets, and it's more important than ever that we rise to meet that challenge."
+
+Cyber Security Report Findings
+
+Increasing Sophistication of Attacks
+The cyber security report released today is the product of an extensive, year-long survey that DFS conducted of 154 banks it regulates. The most frequent challenge to building an adequate cyber security program, cited by banks, included the increasing sophistication of threats (71%) and emerging technologies (53%).
+
+Most institutions experienced intrusions or attempted intrusions into their IT systems over the past three years. The methods used to penetrate IT systems ranged widely, with institutions reporting incidents involving malicious software (malware) (22%), phishing (21%), pharming (7%), and botnets or zombies (7%).
+
+The most frequent types of wrongful activity resulting from a cyber intrusion reported by institutions were account takeovers (46%), identity theft (18%), telecommunication network disruptions (15%), and data integrity breaches (9.3%). Third-party payment processor breaches were also reported by 18% and 15% of small and large institutions, respectively. Large institutions also cited mobile banking exploitation (15%), ATM skimming/point-of-sale schemes (23%), and insider access breaches (8%).
+
+Cyber Security as Economic Development Opportunity
+
+The report also found that the vast majority of banks -- large and small -- are planning to ramp up their cyber security spending in the coming years, which could represent a key opportunity for job growth and economic development in New York.
+More than three-quarters (77%) of all institutions experienced an increase in their total information security budget in the past three years, with most of the remaining institutions (18%) reporting that information security budgets have remained the same. Almost no institutions reported a decrease in spending in the past three years.
+
+The vast majority of institutions--approximately 79% industry-wide--reported that information security budgets were expected to increase in the next three years.
+
+New Initiatives to Combat the Growing Cyber Threat
+
+The report also outlines several measures DFS will implement to help improve cyber security at New York banks. These measures include a new targeted assessment of each bank's cyber security preparedness -- as part of the regular DFS examination process -- to help drive a strong, consistent focus on that issue. The revised examination procedures will include additional questions in the areas of IT management and governance, incident response and event management, access controls, network security, vendor management, and disaster recovery. The revised procedures are intended to take a holistic view of an institution's cyber readiness and will be tailored to reflect each institution's unique risk profile. DFS will release additional details about the timing and content of these examination procedures in the coming weeks.
+
+DFS has also recommended that all New York State-chartered depository institutions, irrespective of size, become members of the Financial Services-Information Sharing and Analysis Center ("FS-ISAC"). Members receive timely notification and authoritative information specifically designed to help protect critical systems and assets from physical and cyber security threats. In fact, both the U.S. Department of Treasury and the U.S. Department of Homeland Security rely on the FS-ISAC to disseminate critical information to the financial services sector in times of crisis. In addition, the FS-ISAC provides an anonymous information-sharing capability across the entire financial services industry that enables institutions to exchange information regarding physical and cyber security threats, as well as vulnerabilities, incidents, and potential protective measures and practices.
+Today's report is part of Governor Cuomo's continued commitment to strengthening cyber security in New York. Last year, the Governor formed a Cyber Security Advisory Board, which is working with the administration on innovative strategies to keep New Yorkers safe from cyber threats. The board advises the administration on developments in cyber security and makes recommendations for protecting the state's critical infrastructure and information systems.
+
+Source:

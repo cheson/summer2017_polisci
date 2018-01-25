@@ -1,0 +1,15 @@
+Public Statements
+Governor Consolidates Illinois' Information Technology into New Agency
+Press Release
+By: Bruce Rauner
+Date: Jan. 25, 2016
+Location: Springfield, IL
+
+Governor Bruce Rauner signed Executive Order 16-01 today to create the new Illinois Department of Innovation and Technology (DoIT). The new state agency will transform the state's information technology functions into one agency to provide better service to Illinois residents and businesses.
+"We are in the midst of a digital revolution. Technology has made us more efficient, more informed and better connected," Governor Rauner said. "The Department of Innovation and Technology will modernize our aging technology systems and lead to better, quicker and more efficient service for taxpayers. This technology transformation is critical to enhancing our competitiveness."
+Executive Order 16-01 will create a strategic, statewide technology plan to accelerate Illinois' modernization. All information technology decisions and spending will be centralized and consolidated under this new agency. DoIT will develop statewide IT solutions that take a 360-degree view of a resident or business. This will allow the state to use data to provide more tailored services while reducing inefficiencies and costs to taxpayers.
+While there has been some consolidation of IT services under CMS, each agency was left in charge of developing its own technology solutions. That created a patchwork of systems that were often redundant, not interoperable and vulnerable to cyber attacks. Currently, agencies often cannot share data easily to identify waste, save taxpayer money, and more efficiently serve businesses and residents.
+"Centralizing Illinois' information technology systems will allow us to make more strategic decisions to improve service for residents and businesses," Hardik Bhatt, Illinois Chief Information Officer said. "DoIT will be focused on helping each state agency leverage technology solutions to provide the best service for Illinois constituents."
+Twenty nine other states, the City of Chicago and much of the private sector consolidate technology functions into central departments. This new agency will be led by state CIO, Hardik Bhatt.
+
+Source: http://www3.illinois.gov/PressReleases/ShowPressRelease.cfm?SubjectID=3&RecNum=13467

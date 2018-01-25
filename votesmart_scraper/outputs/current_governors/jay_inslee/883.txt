@@ -1,0 +1,49 @@
+Public Statements
+Hearing of the Oversight and Investigations Subcommittee of the House Energy and Commerce Committee - The Heparin Disaster: Chinese Counterfeits and American Failures
+Interview
+By: Jay Inslee
+Date: April 30, 2008
+Location: Washington, DC
+
+
+Hearing of the Oversight and Investigations Subcommittee of the House Energy and Commerce Committee - The Heparin Disaster: Chinese Counterfeits and American Failures
+BREAK IN TRANSCRIPT
+REP. JAY INSLEE (D-WA): Thank you.
+I too want to thank the families. My mom had kidney failure. I'm particularly sensitive to the grief this is causing your families and all the families in the dialysis community. Your efforts here really do, I hope -- will pay off in getting the government to act.
+Listening to the testimony, I reflect, though, can you image what we would do if al Qaeda had put some foreign substance in heparin? Can you imagine what the threat level would go to? Can you imagine how the FDA would respond then? Can you imagine how we would quit being somnambulant and actually do something to protect us from this nefarious stuff going on in China? You know, we would really act then, and I just hope we start to act with some degree of responsibility here.
+I want to ask Mr. Nelson, have you reviewed Dr. Woodcock's testimony?
+MR. NELSON: I did, sir.
+REP. INSLEE: And did you find anything surprising in there?
+MR. NELSON: Well, the most surprising part to me dealt with -- and I say literally surprise -- I was not aware, from listening to the press conferences and from the interviews, that only Changzhou SPL was subject to an import alert.
+REP. INSLEE: Why is that surprising?
+MR. NELSON: Because we thought -- one would have thought that all heparin intermediates and products containing heparin from China would have been subject to an import alert, would have been detained without physical examination, which is what an import alert is.
+REP. INSLEE: And, as I understand it, there have been at least 12 separate companies that have been identified as having a contaminate that went to at least 11 different countries. Is that right?
+MR. NELSON: That's the FDA numbers.
+REP. INSLEE: And there's only one manufacturer that has been subjected to that import alert? Is that correct?
+MR. NELSON: That's correct.
+REP. INSLEE: And why is that important? Why is that deficient? Maybe it's obvious, but I'll ask you.
+MR. NELSON: Well, it is because those products are detained automatically by customs. What FDA -- I'm sorry, what Dr. Woodcock's testimony goes on to say is that there are U.S. importers, drug manufacturers, that use these intermediates -- five of them, I understand -- who have agreed to perform these tests that Dr. Burgess was talking about, these tests that identify the contaminant, and their supplies are going through without being stopped at all. And for those other importers that have not agreed to do the test, the FDA has alerted its field offices to detain the imports as they come in -- to identify, detain them and require that they be tested but not put them into an import alert status. So whether those imports are actually detected is much more subject to human error than if they were subject to an import alert.
+REP. INSLEE: Well, why would you possibly not -- if you know there are 12 companies that have been involved in this, I can't see any justification for only putting one on an import alert. I mean, is there any rationale for that?
+MR. NELSON: Not that I know of.
+REP. INSLEE: And as far as the ones that have agreed to be tested, is that a matter of public knowledge?
+MR. NELSON: No, FDA has not identified the firms or their sources in China of the companies whose active ingredients, active pharmaceutical ingredients for heparin are going to be permitted through without being stopped.
+REP. INSLEE: And have the importers -- the American companies that are using this material -- have they been told which ones are having the testing, which ones of the Chinese companies are having testing and which ones are not?
+MR. NELSON: I don't believe so. I mean, the American drug manufacturers that make the final product that have agreed to perform these tests know who their suppliers are. Customs probably has been told to allow the products through that are going from those specific Chinese firms to the American firms, but nobody's been alerted outside of the involved parties.
+REP. INSLEE: So I want to make sure that I do understand this. There are 12 Chinese companies that our federal agencies have identified have used a contaminant -- this chondroitin sulfate material -- it's gone to 11 companies but only one is on an import alert. Is that right?
+MR. NELSON: That's correct.
+REP. INSLEE: And only one of those has been publicly identified?
+MR. NELSON: That's correct.
+REP. INSLEE: Now --
+MR. NELSON: There are two other American manufacturers who have been identified as having received contaminated heparin. Those names are publicly known, although they have not -- well, that's not true. At least one of them has not experienced any adverse events. The other I noticed is being sued, in press accounts today.
+REP. INSLEE: Now, would you agree with me, knowing what we know, that this really does present an extraordinary and unnecessary risk for the American people -- with this knowledge base, to allow so many holes in our net?
+MR. NELSON: It doesn't make a lot of sense to me. Perhaps it's because I don't really understand how secure they think the net is. But from our investigations around food and drugs, it's very problematic.
+REP. INSLEE: Well, this committee in our half a dozen hearings believe the net is if not shredded has serious holes, particularly in China. And one of my concerns too, if you look at the melamine incident, this incident -- it just seems like, you know, there might be a temporary interest in these subjects that gets dissipated as time goes on, and that's why I think having an import restriction that is clear an unambiguous and identified for these 12 ought to have been the appropriate response. And I think you agree with me, I think, but if you have any comments on that --
+MR. NELSON: Yes, sir. FDA resource limitations really come into play here. I haven't asked them, but I would suspect they're not doing many inspections involving wheat gluten from China right now. I mean, that was last year's crisis. And quite frankly, they put a full-court press on that. They put a full-court press on this heparin. But they don't have the ability to sustain those. They don't have enough people; they don't have enough laboratory resources; they don't have enough expertise to do anything but respond from crisis to crisis. And they do a relatively good job of responding during a crisis once it's identified.
+REP. INSLEE: The manufacturers of the raw heparin -- the smaller, and we've been told some of them are just sort of what I would consider unregulated operations -- is there any inspection protocol in the Chinese system for all of the raw manufacturing facilities?
+MR. NELSON: There's no Chinese regulation of the heparin facilities; there wasn't, none that I'm aware of now, all the way through to the API producer. I mean, they don't regulate the workshops, they don't regulate the consolidators, and they don't regulate firms like API -- like Changzhou SPL -- that make the final API. They're outside the system for two reasons. I mean, basically they consider anything that's not a finished drug manufacturer to be a chemical plant, not subject to their pharmaceutical regulations, and if they don't manufacture for the Chinese market -- drugs for the Chinese market -- they're not registered either. So none of these firms were even registered with the Chinese government when they began production in 2004 without any inspection from us.
+REP. INSLEE: Did the finish manufacturers use this test routinely to identify the sulfate -- the chondroitin sulfate -- did they use that test routinely internally, do you know?
+MR. NELSON: I know that until this outbreak, they didn't. I mean, now they test it. SPL Wisconsin, for example, doesn't have the capacity to, and that's pretty big, it's exclusive to their business, but they've got the University of Wisconsin that does the testing for them. I'm not qualified to talk about the kinds of tests, but they certainly were not contained in the USP monographs of required testing prior to the discovery of this contaminant.
+REP. INSLEE: Thank you.
+BREAK IN TRANSCRIPT
+
+Source: http://energycommerce.house.gov/Subcommittees/ovin.shtml

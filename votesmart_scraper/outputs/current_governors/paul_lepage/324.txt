@@ -1,0 +1,16 @@
+Public Statements
+Governor Praises Opening of New Cyber Security Lab
+Press Release
+By: Paul LePage
+Date: Aug. 26, 2014
+Location: Augusta, ME
+
+State of Maine Chief Information Officer Jim Smith attended the ribbon-cutting ceremony of the new Cyber Security Lab today at the University of Southern Maine, Portland campus. The new lab is the product of the Maine Cyber Security Cluster, a collaboration of state executive branch agencies, state universities and private industry. The Office of Information Technology, Maine National Guard and Maine Emergency Management Agency are all members of the Cluster.
+"Cyber security is a fast-growing industry," said Governor Paul R. LePage. "The completion of the Cyber Security Lab will allow students to train for high-paying, in-demand jobs right here in Maine."
+With his background in the private sector, Governor LePage has long recognized the importance of securing electronic data from unauthorized access. In an effort to highlight the significance of securing this data, the Governor issued, "An Order Establishing the State of Maine Information Protection Working Group and For Other Purposes."
+"Cyber threats are a serious economic issue," said Governor LePage. "The citizens of Maine trust the State with a massive repository of personal information. I am fully committed to protecting information in the State's custody from unauthorized use."
+The Governor's Executive Order requires the newly established working group to regularly examine threats and vulnerabilities of State information assets; develop cost effective defenses, best practices, and risk management against threats to State information; and develop state-wide policy and procedures. It also directs cyber security training for all state personnel.
+"Maine already has measures in place to protect itself from cyber threats," said Jim Smith, CIO for the State of Maine. "However, with the growing threat of cyber attacks worldwide, it is critical that the State remains constantly vigilant about cyber security. Over the last three years, the Governor has enthusiastically supported our efforts to partner with other states, the National Guard, Maine Emergency Management Agency, Homeland Security and private industry to protect the information of the citizens of the State of Maine."
+The initial goal of the Maine Cyber Security Cluster is to build a central clearinghouse for cyber education and awareness in Maine. The first part of that project, the Cyber Security Lab at USM, was realized with grant funding. Future plans for the lab include providing cyber testing directly to Maine businesses, allowing the lab to become self-sustaining.
+
+Source: http://www.maine.gov/tools/whatsnew/index.php?topic=Gov+News&id=626941&v=article2011

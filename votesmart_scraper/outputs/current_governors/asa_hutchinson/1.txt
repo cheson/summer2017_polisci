@@ -1,0 +1,21 @@
+Public Statements
+Students Coding to Save Lives
+Statement
+By: Asa Hutchinson
+Date: June 16, 2017
+Location: Unknown
+
+I want to share a computer-coding news scoop about a pair of 13-year-old football playing Arkansans who built a device that has the potential to save the life of dozens of children around the country.
+Mason Covington's and Tyler Duke's invention was among ten finalists out of 5,000 entries in the 2017 Samsung Solve competition, and the U.S. Patent Office has granted them a patent.
+While they were in Washington to demonstrate their new idea to Samsung judges, they also discussed it with Senator Tom Cotton and Representative French Hill. Although their invention wasn't among the final three, they still brought home $50,000 worth of Samsung technology for their school.
+Mason and Tyler are students of a special teacher named Tate Rector at Beebe Junior High. Mr. Rector was a football coach at Beebe for seven years before he switched to teaching coding, robotics, and design and modeling.
+At the start of the 2016 school year, Mason and Tyler teamed up with Mr. Rector to work on an after-school robotics project. They wanted to build something that could help people through technology.
+Their inspiration came from news of a man who accidentally left his son in a hot car for several hours. Regretfully, the child died from the heat.
+With assistance from the Innovation Hub in North Little Rock, the boys designed and built a heat-sensing device that will set off an automobile's horn and flash its lights when a child is left in a car.
+The boys are on the football team, and they worked around practice and games to work on the project. After football season, they stayed after school three and four days a week. They tested it in Mr. Rector's Jeep, and Mr. Rector well remembers the moment it worked.
+The device attaches to a child car-safety seat. The weight of a child in the seat connects the surfaces of a pressure plate. If the engine is off while a child is in the seat, the sensor measures the temperature inside the car. Once the temperature reaches 80, the horn sounds and the lights flash.
+They have won the patent at a good time. Last week, the United States Congress passed the Hot Car Act, which will require automakers to install child-reminder devices in all cars built starting in 2018.
+Tyler and Mason have invented a device will cost about $50 retail, a small price for saving lives. Drivers won't have to buy a new car in order to own the child-saving technology.
+Tyler and Mason and their teacher have affirmed my commitment to teaching young people to work in technology. Tyler and Mason are two more young people who will help us to attract new companies to Arkansas even as we give our home-grown talent more reason to pursue their professions in their home state.
+
+Source: https://governor.arkansas.gov/radio/detail/students-coding-to-save-lives
