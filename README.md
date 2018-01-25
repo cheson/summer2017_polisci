@@ -1,7 +1,5 @@
 # summer2017_polisci
 
-3. Political science summer project
-
 The project here is most of the code I wrote this summer as a side project
 working with a polisci / environmental policy graduate student. Part of her
 thesis examined whether politicians nearing critical times like their re-election
